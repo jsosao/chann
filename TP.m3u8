@@ -81,6 +81,20 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1787&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15296_dark_360w_270h.png",CINE LATINO
 http://mytv.fun:8080/order12087/zcnfkwm3ct/21333
+
+#EXTINF:-1 tvg-id="HBO.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="CINE",HBO
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97931/12?f=.m3u8
+#EXTINF:-1 tvg-id="HBO.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="CINE",HBO (Alt.)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/281/12?f=.m3u8
+#EXTINF:-1 tvg-id="HBO2.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole2.png" group-title="CINE",HBO 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/280/12?f=.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hplus.png" group-title="CINE",HBO Plus
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/282/12?f=.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hfam.png" group-title="CINE",HBO Family
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/284/12?f=.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="CINE",HBO Xtreme
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/288/12?f=.m3u8
+
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106214_dark_360w_270h.png",PARAMOUNT CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1726&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58835_dark_360w_270h.png",STAR ACTION
