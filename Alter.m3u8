@@ -1,0 +1,470 @@
+#EXTM3U
+#EXTINF:-1 group-title="NIÑOS Y JOVENES" tvg-logo="https://e1.pngegg.com/pngimages/669/354/png-clipart-los-simpsons-1-texto-p-the-simpsons-text.png",Los Simpsons | Chile
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1 group-title="NIÑOS Y JOVENES" tvg-logo="https://e1.pngegg.com/pngimages/669/354/png-clipart-los-simpsons-1-texto-p-the-simpsons-text.png",Los Simpsons | Chile
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",CALI TV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",CARACOL HD
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",CMT MUSIC
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",CMT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",CMT Equal Play
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",CMT Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",FMTV 1
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MX prueba",teleformula dm mpyer
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://dai.ly/x7u0spq
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15232/s116168_h3_aa.png?w=55",Canal 22-1
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15232/s116168_h3_aa.png?w=55",Canal 22-2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/87914/s90518_h3_aa.png?w=55",canal 14 CDMX
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv.png",MEXIQUENSE
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision.png",Univision
+http://162.212.179.22:9981/stream/channelid/900291939
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.teleblanca.com/img/unimas.png",UniMas
+http://162.212.179.22:9981/stream/channelid/358793691
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CINEMAX
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cc_m5ftf
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Cinemax
+http://190.171.101.36:80/Cinemax/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",11 - Repretel
+http://190.92.95.37:8000/play/a0hb/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",4 - Repretel
+http://190.92.95.37:8000/play/a0ib/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",6 - Repretel
+http://190.92.95.37:8000/play/a0h8/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",7-Teletica
+http://190.92.95.37:8000/play/a0h9/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",A&E
+http://190.92.95.37:8000/play/a0ii/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",A&E HD
+http://190.92.95.37:8000/play/a0gh/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",AMC HD
+http://190.92.95.37:8000/play/a0gi/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",AXN HD
+http://190.92.95.37:8000/play/a0kc/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",AZ click HD
+http://190.92.95.37:8000/play/a0go/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Animal Planet
+http://190.92.95.37:8000/play/a0il/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Animal Planet HD
+http://190.92.95.37:8000/play/a0ge/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Antena 3
+http://190.92.95.37:8000/play/a0e7/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Atres Series
+http://190.92.95.37:8000/play/a0ed/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Azcorazon
+http://190.92.95.37:8000/play/a0fq/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Azmundo
+http://190.92.95.37:8000/play/a0ie/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Baby TV
+http://190.92.95.37:8000/play/a0e4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CANAL 13 - NI
+http://190.92.95.37:8000/play/a0h3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CARTOON NT HD
+http://190.92.95.37:8000/play/a0ez/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CDN2- RD
+http://190.92.95.37:8000/play/a0h0/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CDN37 - RD
+http://190.92.95.37:8000/play/a0ia/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CERTV
+http://190.92.95.37:8000/play/a0je/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CINECANAL HD
+http://190.92.95.37:8000/play/a0iw/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CNN Internacional
+http://190.92.95.37:8000/play/a0ei/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal  21 - ESA
+http://190.92.95.37:8000/play/a0ji/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 10 - ESA
+http://190.92.95.37:8000/play/a0ec/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 10 - NIC
+http://190.92.95.37:8000/play/a0i7/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 10 HD - ESA
+http://190.92.95.37:8000/play/a0ej/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 11 - GUA
+http://190.92.95.37:8000/play/a0gt/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 12 - ESA
+http://190.92.95.37:8000/play/a0gv/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 13-GUA
+http://190.92.95.37:8000/play/a0gs/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 14 - NIC
+http://190.92.95.37:8000/play/a0gy/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 19  ESA
+http://190.92.95.37:8000/play/a0he/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 2 - ESA
+http://190.92.95.37:8000/play/a0i3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 2 - NIC
+http://190.92.95.37:8000/play/a0i6/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 3 - GUA
+http://190.92.95.37:8000/play/a0i1/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 4 - ESA
+http://190.92.95.37:8000/play/a0i2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 4 - NIC
+http://190.92.95.37:8000/play/a0jf/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 4 - PAN
+http://190.92.95.37:8000/play/a0jh/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 6 - ESA
+http://190.92.95.37:8000/play/a0gu/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 6 - NI
+http://190.92.95.37:8000/play/a0h2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 7 - GUA
+http://190.92.95.37:8000/play/a0i0/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal 8 - NIC
+http://190.92.95.37:8000/play/a0gx/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal Antigua - GUA
+http://190.92.95.37:8000/play/a0hy/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal Azteca - GUA
+http://190.92.95.37:8000/play/a0hz/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal Claro
+http://190.92.95.37:8000/play/a0f8/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal Claro HD
+http://190.92.95.37:8000/play/a0ey/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Canal del Congreso
+http://190.92.95.37:8000/play/a0e1/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Cine Latino
+http://190.92.95.37:8000/play/a0jz/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CineCanal
+http://190.92.95.37:8000/play/a0k2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",CineMax
+http://190.92.95.37:8000/play/a0k0/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Claro Cinema
+http://190.92.95.37:8000/play/a0ir/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Claro Musica
+http://190.92.95.37:8000/play/a0ho/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Claro Sports  HD
+http://190.92.95.37:8000/play/a0ex/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Claro Sports PAN
+http://190.92.95.37:8000/play/a0ee/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Claro Sports SD
+http://190.92.95.37:8000/play/a0hl/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Color Vision 9 - RD
+http://190.92.95.37:8000/play/a0i9/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Concert Channel
+http://190.92.95.37:8000/play/a0jv/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",DHE
+http://190.92.95.37:8000/play/a0eu/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",DHE HD
+http://190.92.95.37:8000/play/a0gn/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Digital 15 - RD
+http://190.92.95.37:8000/play/a0gz/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Discovery Channel
+http://190.92.95.37:8000/play/a0ik/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Discovery Home & Health
+http://190.92.95.37:8000/play/a0jq/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Discovery Kids
+http://190.92.95.37:8000/play/a0jl/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Discovery Science
+http://190.92.95.37:8000/play/a0ea/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Discovery Turbo
+http://190.92.95.37:8000/play/a0jp/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Disney
+http://190.92.95.37:8000/play/a0jn/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Disney XD
+http://190.92.95.37:8000/play/a0id/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",E!
+http://190.92.95.37:8000/play/a0ih/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",E! Entertairment HD
+http://190.92.95.37:8000/play/a0gf/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ESPN
+http://190.92.95.37:8000/play/a0io/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ESPN 2
+http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ESPN 3
+http://190.92.95.37:8000/play/a0hm/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ESPN 4
+http://190.92.95.37:8000/play/a0jt/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ESPN 4  HD
+http://190.92.95.37:8000/play/a0kb/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",EURO Channel
+http://190.92.95.37:8000/play/a0hi/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Europa HD
+http://190.92.95.37:8000/play/a0gl/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Exa TV
+http://190.92.95.37:8000/play/a0iq/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",FOX Sports 2
+http://190.92.95.37:8000/play/a0hn/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",FX
+http://190.92.95.37:8000/play/a0hg/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",FX HD
+http://190.92.95.37:8000/play/a0gk/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",FX Movies
+http://190.92.95.37:8000/play/a0jx/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",FX Movies HD
+http://190.92.95.37:8000/play/a0gm/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Film & Arts
+http://190.92.95.37:8000/play/a0et/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Film & arts HD
+http://190.92.95.37:8000/play/a0gg/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Golden
+http://190.92.95.37:8000/play/a0hq/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Golf Channel
+http://190.92.95.37:8000/play/a0ef/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Golf Channel HD
+http://190.92.95.37:8000/play/a0gq/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",H2
+http://190.92.95.37:8000/play/a0hk/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO
+http://190.92.95.37:8000/play/a0k3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO Family
+http://190.92.95.37:8000/play/a0k6/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO Family HD
+http://190.92.95.37:8000/play/a0f4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO HD
+http://190.92.95.37:8000/play/a0f1/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO Plus
+http://190.92.95.37:8000/play/a0k5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO Plus HD
+http://190.92.95.37:8000/play/a0f3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO XTREME
+http://190.92.95.37:8000/play/a0k7/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO XTREME
+http://190.92.95.37:8000/play/a0f5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO2
+http://190.92.95.37:8000/play/a0k4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO2 HD
+http://190.92.95.37:8000/play/a0f2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",History Channel
+http://190.92.95.37:8000/play/a0im/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Hola!TV
+http://190.92.95.37:8000/play/a0eb/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Home Garden Latino
+http://190.92.95.37:8000/play/a0e9/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ID
+http://190.92.95.37:8000/play/a0jr/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",La voz de Maria
+http://190.92.95.37:8000/play/a0js/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",MASTV - PAN
+http://190.92.95.37:8000/play/a0h7/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",MTV
+http://190.92.95.37:8000/play/a0ju/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",MTV 00s
+http://190.92.95.37:8000/play/a0hp/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Mas Chic
+http://190.92.95.37:8000/play/a0e6/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Multicinema
+http://190.92.95.37:8000/play/a0eh/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Multipremier
+http://190.92.95.37:8000/play/a0jy/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",NEXT - PAN
+http://190.92.95.37:8000/play/a0h6/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Nat Geo Kids
+http://190.92.95.37:8000/play/a0hf/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Nat Geo Wild
+http://190.92.95.37:8000/play/a0hj/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Nickelodeon
+http://190.92.95.37:8000/play/a0jm/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",PXTV
+http://190.92.95.37:8000/play/a0eg/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Paramount
+http://190.92.95.37:8000/play/a0ev/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Playboy
+http://190.92.95.37:8000/play/a0f6/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",RCN - GUA
+http://190.92.95.37:8000/play/a0e2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",RCN Novelas
+http://190.92.95.37:8000/play/a0hh/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",RHEMA TV
+http://190.92.95.37:8000/play/a0ka/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",SERTV - PAN
+http://190.92.95.37:8000/play/a0dy/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",SONY
+http://190.92.95.37:8000/play/a0if/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",SONY HD
+http://190.92.95.37:8000/play/a0iv/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",SPACE HD
+http://190.92.95.37:8000/play/a0kd/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",STAR ACTION
+http://190.92.95.37:8000/play/a0hs/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",STAR CHANNEL
+http://190.92.95.37:8000/play/a0jo/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",STAR CHANNEL HD
+http://190.92.95.37:8000/play/a0it/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",STAR CLASSICS
+http://190.92.95.37:8000/play/a0hu/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",STAR COMEDY
+http://190.92.95.37:8000/play/a0ew/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",STAR FUN
+http://190.92.95.37:8000/play/a0ht/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",STAR HITS
+http://190.92.95.37:8000/play/a0k9/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",STAR SERIES
+http://190.92.95.37:8000/play/a0k8/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Sembrador
+http://190.92.95.37:8000/play/a0hv/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Star TVE HD
+http://190.92.95.37:8000/play/a0gp/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Studio Universal
+http://190.92.95.37:8000/play/a0k1/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Studio Universal HD
+http://190.92.95.37:8000/play/a0gc/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",SyFy
+http://190.92.95.37:8000/play/a0ij/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",SyFy HD
+http://190.92.95.37:8000/play/a0gd/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TCM
+http://190.92.95.37:8000/play/a0hr/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TD+2 HD CR
+http://190.92.95.37:8000/play/a0em/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TD+HD CR
+http://190.92.95.37:8000/play/a0el/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TLC
+http://190.92.95.37:8000/play/a0in/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TV  Max - PAN
+http://190.92.95.37:8000/play/a0jg/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TV Oriente ESA
+http://190.92.95.37:8000/play/a0e0/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TVChile
+http://190.92.95.37:8000/play/a0e8/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TVM25 -  ESA
+http://190.92.95.37:8000/play/a0e3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",TeleMicro - RD
+http://190.92.95.37:8000/play/a0i8/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Telecentro - RD
+http://190.92.95.37:8000/play/a0h4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Telemundo HD
+http://190.92.95.37:8000/play/a0gj/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Teleunion - RD
+http://190.92.95.37:8000/play/a0h5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Teleuniverso - RD
+http://190.92.95.37:8000/play/a0h1/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Televida RD
+http://190.92.95.37:8000/play/a0eq/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Universal
+http://190.92.95.37:8000/play/a0jw/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",VTV Canal 35 ESA
+http://190.92.95.37:8000/play/a0hd/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",WARNER HD
+http://190.92.95.37:8000/play/a0iu/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",Warner
+http://190.92.95.37:8000/play/a0ig/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",ZooMoo
+http://190.92.95.37:8000/play/a0e5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 group-title="TDT",antena3 HD
+http://85.84.136.141:8888/stream/channelid/427791165?profile=pass
+#EXTINF:-1 group-title="TDT",Telecinco HD
+http://85.84.136.141:8888/stream/channelid/863148227?profile=pass
+#EXTINF:-1 group-title="TDT",FDF
+http://85.84.136.141:8888/stream/channelid/876734673?profile=pass
+#EXTINF:-1 group-title="TDT",nova
+http://85.84.136.141:8888/stream/channelid/328137836?profile=pass
+#EXTINF:-1 group-title="TDT",neox
+http://85.84.136.141:8888/stream/channelid/188476987?profile=pass
+#EXTINF:-1 group-title="CLARO CHILE",HBO
+http://138.36.253.12:8009/play/a01i/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",STAR CHANNEL
+http://138.36.253.12:8009/play/a01d/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",STAR LIFE
+http://138.36.253.12:8009/play/a01l/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",AXN
+http://138.36.253.12:8009/play/a01k/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Cinecanal
+http://138.36.253.12:8009/play/a01e/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Sony
+http://138.36.253.12:8009/play/a01j/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Space
+http://138.36.253.12:8009/play/a01g/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Studio Universal
+http://138.36.253.12:8009/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Canal Film 01
+http://f4.tvxweb.net:8082/24317/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",MovieMax HD
+http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",OuterMax HD
+http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Canal Film 02
+http://f4.tvxweb.net:8082/35971/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Crackle original movie
+http://f4.tvxweb.net:8082/35973/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Canal Film 03
+http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",CARTELERA PREMIERE
+http://f4.tvxweb.net:8082/9040/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",HBO
+http://f4.tvxweb.net:8082/18094/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",HBO
+http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",HBO FAMILY
+http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",HBO PLUS
+http://f4.tvxweb.net:8082/18095/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",HBO SIGNATURE
+http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",CINEMAX
+http://f4.tvxweb.net:8082/24316/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",SHOWTIME HD
+http://f4.tvxweb.net:8082/18087/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",SHOWTIME HD
+http://f4.tvxweb.net:8082/24313/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Showtime Beyond HD
+http://f4.tvxweb.net:8082/24315/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Showtime East HD
+http://f4.tvxweb.net:8082/24314/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Showtime West HD
+http://f4.tvxweb.net:8082/24312/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz HD
+http://f4.tvxweb.net:8082/35940/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Cinema HD
+http://f4.tvxweb.net:8082/35943/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Comedy HD
+http://f4.tvxweb.net:8082/24311/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Comedy HD
+http://f4.tvxweb.net:8082/35942/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz East HD
+http://f4.tvxweb.net:8082/24167/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Edge HD
+http://f4.tvxweb.net:8082/35941/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Kids & Family HD
+http://f4.tvxweb.net:8082/35944/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz West HD
+http://f4.tvxweb.net:8082/24193/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore HD
+http://f4.tvxweb.net:8082/24310/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore HD
+http://f4.tvxweb.net:8082/35945/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Action
+http://f4.tvxweb.net:8082/35946/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Black HD
+http://f4.tvxweb.net:8082/35948/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Classic HD
+http://f4.tvxweb.net:8082/35947/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Family HD
+http://f4.tvxweb.net:8082/35949/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Suspense HD
+http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Western
+http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",IndiePlex HD
+http://f4.tvxweb.net:8082/35967/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",MoviePlex HD
+http://f4.tvxweb.net:8082/35951/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",MoreMax HD
+http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO
+http://190.92.95.37:8000/play/a0k3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO Family
+http://190.92.95.37:8000/play/a0k6/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO Family HD
+http://190.92.95.37:8000/play/a0f4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO HD
+http://190.92.95.37:8000/play/a0f1/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO Plus
+http://190.92.95.37:8000/play/a0k5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO Plus HD
+http://190.92.95.37:8000/play/a0f3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO XTREME
+http://190.92.95.37:8000/play/a0k7/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO XTREME
+http://190.92.95.37:8000/play/a0f5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO2
+http://190.92.95.37:8000/play/a0k4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",HBO2 HD
+http://190.92.95.37:8000/play/a0f2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
