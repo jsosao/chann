@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 (México)" group-title="DISH MX",HBO 2
+http://38.123.205.70:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO Family (Latino)" group-title="DISH MX",HBO FAMILY
+http://38.123.205.70:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="maxprime.la" tvg-name="HBO XTREME" group-title="DISH MX",HBO XTREME
+http://38.123.205.70:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="ABIERTA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",Azteca Uno
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0007&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 group-title="ABIERTA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",Azteca Uno - 2 hora
