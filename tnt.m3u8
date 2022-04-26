@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://i.imgur.com/ma78IEH.png",ESTADIO TNT SPORTS FHD CHILE
-https://d3junmnzdfp8ej.cloudfront.net:443/hls/tv_720p30.m3u8
+http://177.128.115.10:8000/play/a01b
 #EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://i.imgur.com/ma78IEH.png",ESTADIO TNT SPORTS HD CHILE
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv_540p30.m3u8
 #EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://i.imgur.com/ma78IEH.png",ESTADIO TNT SPORTS SD CHILE
