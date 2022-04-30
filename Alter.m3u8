@@ -97,10 +97,6 @@ http://190.92.95.37:8000/play/a0f5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 http://190.92.95.37:8000/play/a0k4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO2 HD
 http://190.92.95.37:8000/play/a0f2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-
-
-
-
 #EXTINF:-1 group-title="CLARO CHILE",CHV
 http://177.128.115.10:8000/play/a018
 #EXTINF:-1 group-title="CLARO CHILE",Canal 13
@@ -175,9 +171,6 @@ http://177.128.115.10:8000/play/a011
 http://177.128.115.10:8000/play/a00y
 #EXTINF:-1 group-title="CLARO CHILE",TVE
 http://177.128.115.10:8000/play/a02q
-
-
-
 #EXTINF:-1 ,History Channel
 http://45.71.185.142:8500/play/a004
 #EXTINF:-1 ,HomeandHealth
@@ -278,10 +271,6 @@ http://181.176.148.142:8000/play/a01q
 http://181.176.148.142:8000/play/a005
 #EXTINF:-1 ,WILLAX
 http://181.176.148.142:8000/play/a003
-
-
-
-
 #EXTINF:-1 group-title="CLARO ECUADOR",ESPN
 http://200.24.132.99:8000/play/a022
 #EXTINF:-1 group-title="CLARO ECUADOR",ESPN 2
