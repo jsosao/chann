@@ -3,174 +3,6 @@
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1 group-title="NIÑOS Y JOVENES" tvg-logo="https://e1.pngegg.com/pngimages/669/354/png-clipart-los-simpsons-1-texto-p-the -simpsons-text.png",Los Simpson | Chile
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Canal Film 01
-http://f4.tvxweb.net:8082/24317/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,MovieMax HD
-http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,OuterMax HD
-http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Canal Film 02
-http://f4.tvxweb.net:8082/35971/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Película original de Crackle
-http://f4.tvxweb.net:8082/35973/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Canal Film 03
-http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESTRENO CARTELERA
-http://f4.tvxweb.net:8082/9040/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",HBO
-http://f4.tvxweb.net:8082/18094/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",HBO
-http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",FAMILIA HBO
-http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",HBO PLUS
-http://f4.tvxweb.net:8082/18095/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",FIRMA HBO
-http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,CINEMAX
-http://f4.tvxweb.net:8082/24316/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,SHOWTIME HD
-http://f4.tvxweb.net:8082/18087/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,SHOWTIME HD
-http://f4.tvxweb.net:8082/24313/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Showtime Beyond HD
-http://f4.tvxweb.net:8082/24315/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Showtime East HD
-http://f4.tvxweb.net:8082/24314/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Showtime West HD
-http://f4.tvxweb.net:8082/24312/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,Starz HD
-http://f4.tvxweb.net:8082/35940/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,Starz Cinema HD
-http://f4.tvxweb.net:8082/35943/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Comedia HD
-http://f4.tvxweb.net:8082/24311/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Comedia HD
-http://f4.tvxweb.net:8082/35942/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz East HD
-http://f4.tvxweb.net:8082/24167/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,Starz Edge HD
-http://f4.tvxweb.net:8082/35941/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Kids & Family HD
-http://f4.tvxweb.net:8082/35944/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz West HD
-http://f4.tvxweb.net:8082/24193/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,Starz Encore HD
-http://f4.tvxweb.net:8082/24310/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,Starz Encore HD
-http://f4.tvxweb.net:8082/35945/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Acción de Starz Encore
-http://f4.tvxweb.net:8082/35946/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Black HD
-http://f4.tvxweb.net:8082/35948/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Classic HD
-http://f4.tvxweb.net:8082/35947/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Familia HD
-http://f4.tvxweb.net:8082/35949/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Suspense HD
-http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Starz Encore Western
-http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,IndiePlex HD
-http://f4.tvxweb.net:8082/35967/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,MoviePlex HD
-http://f4.tvxweb.net:8082/35951/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 ,MoreMax HD
-http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO
-http://190.92.95.37:8000/play/a0k3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO Familia
-http://190.92.95.37:8000/play/a0k6/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO Family HD
-http://190.92.95.37:8000/play/a0f4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO HD
-http://190.92.95.37:8000/play/a0f1/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO Plus
-http://190.92.95.37:8000/play/a0k5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO Plus HD
-http://190.92.95.37:8000/play/a0f3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO EXTREME
-http://190.92.95.37:8000/play/a0k7/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO EXTREME
-http://190.92.95.37:8000/play/a0f5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO2
-http://190.92.95.37:8000/play/a0k4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png",HBO2 HD
-http://190.92.95.37:8000/play/a0f2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 group-title="CLARO CHILE",CHV
-http://177.128.115.10:8000/play/a018
-#EXTINF:-1 group-title="CLARO CHILE",Canal 13
-http://177.128.115.10:8000/play/a019
-#EXTINF:-1 group-title="CLARO CHILE",La Red
-http://177.128.115.10:8000/play/a015
-#EXTINF:-1 group-title="CLARO CHILE",MEGA
-http://177.128.115.10:8000/play/a017
-#EXTINF:-1 group-title="CLARO CHILE",TVN
-http://177.128.115.10:8000/play/a016
-#EXTINF:-1 group-title="CLARO CHILE",Zona Latina
-http://177.128.115.10:8000/play/a02g
-#EXTINF:-1 group-title="CLARO CHILE",Canal 24 Horas chile
-http://177.128.115.10:8000/play/a01l
-#EXTINF:-1 group-title="CLARO CHILE",CNN Chile
-http://177.128.115.10:8000/play/a02i
-#EXTINF:-1 group-title="CLARO CHILE",CNN Espanol
-http://177.128.115.10:8000/play/a014
-#EXTINF:-1 group-title="CLARO CHILE",ESPN 1
-http://177.128.115.10:8000/play/a00q
-#EXTINF:-1 group-title="CLARO CHILE",ESPN 2
-http://177.128.115.10:8000/play/a01m
-#EXTINF:-1 group-title="CLARO CHILE",ESPN 2 latino
-http://177.128.115.10:8000/play/a00p
-#EXTINF:-1 group-title="CLARO CHILE",ESPN 3
-http://177.128.115.10:8000/play/a00h
-#EXTINF:-1 group-title="CLARO CHILE",FOX Sports 1 CH
-http://177.128.115.10:8000/play/a01c
-#EXTINF:-1 group-title="CLARO CHILE",Fox Sports 2 CH
-http://177.128.115.10:8000/play/a00z
-#EXTINF:-1 group-title="CLARO CHILE",Fox Sports 3 CH
-http://177.128.115.10:8000/play/a010
-#EXTINF:-1 group-title="CLARO CHILE",TNT SPORTS
-http://177.128.115.10:8000/play/a01b
-#EXTINF:-1 group-title="CLARO CHILE",HBO
-http://177.128.115.10:8000/play/a008
-#EXTINF:-1 group-title="CLARO CHILE",STAR CHANNEL
-http://177.128.115.10:8000/play/a02j
-#EXTINF:-1 group-title="CLARO CHILE",FX
-http://177.128.115.10:8000/play/a00d
-#EXTINF:-1 group-title="CLARO CHILE",Paramount
-http://177.128.115.10:8000/play/a048
-#EXTINF:-1 group-title="CLARO CHILE",Sony
-http://177.128.115.10:8000/play/a00a
-#EXTINF:-1 group-title="CLARO CHILE",TBS
-http://177.128.115.10:8000/play/a01r
-#EXTINF:-1 group-title="CLARO CHILE",TCM
-http://177.128.115.10:8000/play/a02k
-#EXTINF:-1 group-title="CLARO CHILE",Warner Channel
-http://177.128.115.10:8000/play/a00m
-#EXTINF:-1 group-title="CLARO CHILE",I-Sat
-http://177.128.115.10:8000/play/a02e
-#EXTINF:-1 group-title="CLARO CHILE",A&E
-http://177.128.115.10:8000/play/a00u
-#EXTINF:-1 group-title="CLARO CHILE",Discovery Channel
-http://177.128.115.10:8000/play/a00k
-#EXTINF:-1 group-title="CLARO CHILE",Discovery Turbo
-http://177.128.115.10:8000/play/a00f
-#EXTINF:-1 group-title="CLARO CHILE",History Channel
-http://177.128.115.10:8000/play/a02b
-#EXTINF:-1 group-title="CLARO CHILE",Nat Geo
-http://177.128.115.10:8000/play/a02a
-#EXTINF:-1 group-title="CLARO CHILE",E Entertainment
-http://177.128.115.10:8000/play/a00n
-#EXTINF:-1 group-title="CLARO CHILE",TLC
-http://177.128.115.10:8000/play/a00w
-#EXTINF:-1 group-title="CLARO CHILE",MTV
-http://177.128.115.10:8000/play/a02f
-#EXTINF:-1 group-title="CLARO CHILE",Telemundo
-http://177.128.115.10:8000/play/a011
-#EXTINF:-1 group-title="CLARO CHILE",Canal Estrellas
-http://177.128.115.10:8000/play/a00y
-#EXTINF:-1 group-title="CLARO CHILE",TVE
-http://177.128.115.10:8000/play/a02q
 #EXTINF:-1 ,History Channel
 http://45.71.185.142:8500/play/a004
 #EXTINF:-1 ,HomeandHealth
@@ -269,113 +101,118 @@ http://181.176.148.142:8000/play/a00e
 http://181.176.148.142:8000/play/a01q
 #EXTINF:-1 ,UCI
 http://181.176.148.142:8000/play/a005
-#EXTINF:-1 ,WILLAX
-http://181.176.148.142:8000/play/a003
-#EXTINF:-1 group-title="CLARO ECUADOR",ESPN
+
+
+
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN
 http://200.24.132.99:8000/play/a022
-#EXTINF:-1 group-title="CLARO ECUADOR",ESPN 2
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN 2
 http://200.24.132.99:8000/play/a01v
-#EXTINF:-1 group-title="CLARO ECUADOR",ESPN 2 Latino
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN 2 Latino
 http://200.24.132.99:8000/play/a021
-#EXTINF:-1 group-title="CLARO ECUADOR",ESPN 3
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN 3
 http://200.24.132.99:8000/play/a02w
-#EXTINF:-1 group-title="CLARO ECUADOR",ESPN CO
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN CO
 http://200.24.132.99:8000/play/a02m
-#EXTINF:-1 group-title="CLARO ECUADOR",Fox Sports
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Fox Sports
 http://200.24.132.99:8000/play/a02f
-#EXTINF:-1 group-title="CLARO ECUADOR",Fox Sports 2
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Fox Sports 2
 http://200.24.132.99:8000/play/a028
-#EXTINF:-1 group-title="CLARO ECUADOR",Fox Sports 3
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Fox Sports 3
 http://200.24.132.99:8000/play/a029
-#EXTINF:-1 group-title="CLARO ECUADOR",GOL TV
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",GOL TV
 http://200.24.132.99:8000/play/a023
-#EXTINF:-1 group-title="CLARO ECUADOR",TyC
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TyC
 http://200.24.132.99:8000/play/a024
-#EXTINF:-1 group-title="CLARO ECUADOR",A&E
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",A&E
 http://200.24.132.99:8000/play/a025
-#EXTINF:-1 group-title="CLARO ECUADOR",AXN
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",AXN
 http://200.24.132.99:8000/play/a02p
-#EXTINF:-1 group-title="CLARO ECUADOR",Animal Planet
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Animal Planet
 http://200.24.132.99:8000/play/a01y
-#EXTINF:-1 group-title="CLARO ECUADOR",CNN Español
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",CNN Español
 http://200.24.132.99:8000/play/a01q
-#EXTINF:-1 group-title="CLARO ECUADOR",Canal Estrellas
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Canal Estrellas
 http://200.24.132.99:8000/play/a027
-#EXTINF:-1 group-title="CLARO ECUADOR",Cartoon Network
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Cartoon Network
 http://200.24.132.99:8000/play/a01m
-#EXTINF:-1 group-title="CLARO ECUADOR",Cinecanal
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Cinecanal
 http://200.24.132.99:8000/play/a01f
-#EXTINF:-1 group-title="CLARO ECUADOR",Cinemax
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Cinemax
 http://200.24.132.99:8000/play/a02n
-#EXTINF:-1 group-title="CLARO ECUADOR",Discovery Channel
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Discovery Channel
 http://200.24.132.99:8000/play/a01x
-#EXTINF:-1 group-title="CLARO ECUADOR",Discovery H&H
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Discovery H&H
 http://200.24.132.99:8000/play/a02e
-#EXTINF:-1 group-title="CLARO ECUADOR",Discovery Kids
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Discovery Kids
 http://200.24.132.99:8000/play/a01s
-#EXTINF:-1 group-title="CLARO ECUADOR",Discovery Turbo
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Discovery Turbo
 http://200.24.132.99:8000/play/a02u
-#EXTINF:-1 group-title="CLARO ECUADOR",Disney Channel
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Disney Channel
 http://200.24.132.99:8000/play/a01w
-#EXTINF:-1 group-title="CLARO ECUADOR",Disney Jr
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Disney Jr
 http://200.24.132.99:8000/play/a01u
-#EXTINF:-1 group-title="CLARO ECUADOR",Disney XD
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Disney XD
 http://200.24.132.99:8000/play/a01c
-#EXTINF:-1 group-title="CLARO ECUADOR",E Entretenimiento
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",E Entretenimiento
 http://200.24.132.99:8000/play/a020
-#EXTINF:-1 group-title="CLARO ECUADOR",FX
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",FX
 http://200.24.132.99:8000/play/a02r
-#EXTINF:-1 group-title="CLARO ECUADOR",FX Movies
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",FX Movies
 http://200.24.132.99:8000/play/a01t
-#EXTINF:-1 group-title="CLARO ECUADOR",History Channel
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",History Channel
 http://200.24.132.99:8000/play/a01e
-#EXTINF:-1 group-title="CLARO ECUADOR",I-Sat
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",I-Sat
 http://200.24.132.99:8000/play/a01h
-#EXTINF:-1 group-title="CLARO ECUADOR",MTV
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",MTV
 http://200.24.132.99:8000/play/a01i
-#EXTINF:-1 group-title="CLARO ECUADOR",Nat Geo
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Nat Geo
 http://200.24.132.99:8000/play/a01d
-#EXTINF:-1 group-title="CLARO ECUADOR",Nat Geo Kids
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Nat Geo Kids
 http://200.24.132.99:8000/play/a01l
-#EXTINF:-1 group-title="CLARO ECUADOR",Nick Jr
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Nick Jr
 http://200.24.132.99:8000/play/a02t
-#EXTINF:-1 group-title="CLARO ECUADOR",Nickelodeon
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Nickelodeon
 http://200.24.132.99:8000/play/a01b
-#EXTINF:-1 group-title="CLARO ECUADOR",Sony
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Sony
 http://200.24.132.99:8000/play/a02o
-#EXTINF:-1 group-title="CLARO ECUADOR",Espacio
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Espacio
 http://200.24.132.99:8000/play/a02q
-#EXTINF:-1 group-title="CLARO ECUADOR",TBS
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TBS
 http://200.24.132.99:8000/play/a02d
-#EXTINF:-1 group-title="CLARO ECUADOR",TCM
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TCM
 http://200.24.132.99:8000/play/a01k
-#EXTINF:-1 group-title="CLARO ECUADOR",TNT
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TNT
 http://200.24.132.99:8000/play/a01n
-#EXTINF:-1 group-title="CLARO ECUADOR",Francia 24
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Francia 24
 http://200.24.132.99:8000/play/a02c
-#EXTINF:-1 group-title="CLARO ECUADOR",TVE
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TVE
 http://200.24.132.99:8000/play/a01p
-#EXTINF:-1 group-title="CLARO ECUADOR",Telemundo
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Telemundo
 http://200.24.132.99:8000/play/a02a
-#EXTINF:-1 group-title="CLARO ECUADOR",Universal
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Universal
 http://200.24.132.99:8000/play/a01g
-#EXTINF:-1 group-title="CLARO ECUADOR",Warner Channel
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Warner Channel
 http://200.24.132.99:8000/play/a01z
-#EXTINF:-1 group-title="CLARO ECUADOR",Zona Latina
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Zona Latina
 http://200.24.132.99:8000/play/a01j
-#EXTINF:-1 group-title="CLARO ECUADOR",ECTV SD
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ECTV SD
 http://200.24.132.99:8000/play/a00j
-#EXTINF:-1 group-title="CLARO ECUADOR",Ecuador TV
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Ecuador TV
 http://200.24.132.99:8000/play/a02g
-#EXTINF:-1 group-title="CLARO ECUADOR",Ecuavisa
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Ecuavisa
 http://200.24.132.99:8000/play/a02k
-#EXTINF:-1 group-title="CLARO ECUADOR",GamaTV
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",GamaTV
 http://200.24.132.99:8000/play/a02h
-#EXTINF:-1 group-title="CLARO ECUADOR",Oromar SD
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Oromar SD
 http://200.24.132.99:8000/play/a02x
-#EXTINF:-1 group-title="CLARO ECUADOR",RTS
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",RTS
 http://200.24.132.99:8000/play/a02s
-#EXTINF:-1 group-title="CLARO ECUADOR",TC Televisión
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TC Televisión
 http://200.24.132.99:8000/play/a00m
-#EXTINF:-1 group-title="CLARO ECUADOR",Teleamazonas
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Teleamazonas
 http://200.24.132.99:8000/play/a00n
+
+
+
+
