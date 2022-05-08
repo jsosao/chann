@@ -1,0 +1,917 @@
+#EXTM3U
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png",53 | RCN Novelas
+http://138.186.20.245:8000/play/a01w
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://us.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png",54 | Pasiones
+https://tunelive.net:3407/stream/play.m3u8
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",57 | TLNovelas
+https://tunelive.net:3645/stream/play.m3u8
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png",58 | Univisión TLNovelas
+https://tunelive.net:3415/stream/play.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS DE AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png",59 | Univisión
+https://tunelive.net:3653/stream/play.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png",60 | Las Estrellas
+https://tunelive.net:3864/stream/play.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS DE AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png",62 | Galavisión
+https://2.tunelive.net:3349/stream/play.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS DE AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/100px-Logo_UniM%C3%A1s.svg.png",63 | Unimás
+https://tunelive.net:3150/stream/play.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS DE AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png",64 | Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png",70 | Cinelife
+https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t39.30808-6/249222646_10159574349978571_3226623428809105044_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeExIMEJL1u-ib_66yqIIsPm-70WoXPzvEr7vRahc_O8SmtaYOSgwsHsnYN_etlW9Ic&_nc_ohc=-TqHFsGAi3kAX9AT6eZ&_nc_ht=scontent.flim6-4.fna&oh=00_AT8VzZubfu3IAN73ngEhYqcqbDnl6sQNb-6ogHbPH7Oq4Q&oe=626E870C",71 | Cineastral || Moyobamba
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest/scale-to-width-down/175?cb=20210129162928&path-prefix=es",73 | De Pelicula Plus
+https://2.tunelive.net:3359/stream/play.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/150px-Cinelatino_logo.png",74 | Cine Latino
+https://tunelive.net:3923/stream/play.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png",75 | Cine Club
+https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinema_dinamita-mediano.png",76 | Cinema Dinamita
+https://tunelive.net:3998/stream/play.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg",79 | MX Family
+http://177.53.152.186:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg",80 | MX Classic
+http://177.53.152.186:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg",81 | MX Prime
+http://177.53.152.186:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b45afad9217b1e31c9af80eeaa90627d.webp",84 | Tele Clásicos
+https://tvdatta.com:3574/stream/play.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png",85 | Atreseries
+https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/245px-Atrescine_logo.svg.png",86 | Atrescine
+https://mdstrm.com/live-stream-playlist/5b8ff51f197a232e0ae1a47d.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png",88 | Tu Cine
+https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png",89 | Cine Real
+https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png",En prueba | Cinemax
+https://tunelive.net:3903/stream/play.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/200px-Cine.Ar_logo.svg.png",94 | CINE.AR TV
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w457731232.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t39.30808-6/278995856_10159924139813571_3667566269489580178_n.jpg?stp=cp0_dst-jpg&_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeE8nzr_4htbKe3q1GaD-Fz_Rt8d3ziAQBpG3x3fOIBAGg6NQFyj4HqIvEilHKg_yxc&_nc_ohc=HXJ3fIOjd6AAX8kAjGA&_nc_ht=scontent.flim6-4.fna&oh=00_AT-kYqdEHACpWkbkDNVedvMvQdPbCUWDYDdjYbKuEJ9NKw&oe=626F31A0",En prueba | E Cine
+http://200.48.184.156:1935/ecine/ecine/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/278570377_10159923211238571_4186967934960463566_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHwa2JTVIMSGhv-TWSXXfR5TqWs_WqRY-FOpaz9apFj4aDUwFlbG4vXXmcWcNmknn4&_nc_ohc=B6zKFD3ygK4AX-cRF8u&_nc_ht=scontent.flim6-2.fna&oh=00_AT9OsyolQSYC71enXOC8v03H-ZzrpVJWKRopP8apdlGq7w&oe=627009F1",En prueba | E Play
+http://200.48.184.156:1935/eplay/eplay/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/278583314_10159923211173571_2504240809403098717_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFGbNjtO6FBojY4Wv1-8HT-CA6syA6yh0gIDqzIDrKHSGq_ZOuY6TO_d67fuVfGsV0&_nc_ohc=UWdLxX8mW6AAX_v-TZV&_nc_ht=scontent.flim6-2.fna&oh=00_AT9IJ7fjg_4lxR0q1XT2mXXfMPFsxRBR6a8q2xlYv2IqQA&oe=626EF9CE",En prueba | Retro
+http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png",98 | Kids 90's TV
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/hn-dios-te-ve-kids-8087-300x225.jpg",100 | Dios TV Kids
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni_--nfDx7dY1f6hpnTgv3hrKLPeD4-B-4MeB5K2A=s900-c-k-c0x00ffffff-no-rj",101 | Planeta Junior TV
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300",102 | Latino Kids TV
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png",103 | Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp",104 | Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Toon_Goggles_logo.png/220px-Toon_Goggles_logo.png",105 | Toon Goggles TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/logotipo_dreikotv-1024x224-1.png",106 | Dreiko TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w2067673743.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.imgur.com/0ksEr4f.png",109 | Lego Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png",112 | IPE Televisión
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://www.ducktv.tv/wp-content/uploads/2019/07/ducktv-logo.svg",115 | Duck TV
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/babyfirst_tv-mediano.png",117 | BabyFirst
+https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png",118 | Pakapaka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png",119 | El Chavo del 8 TV
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png",120 | Distrito Comedia
+https://2.tunelive.net:3734/stream/play.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png",121 | DW Televisión
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png",122 | Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png",123 | RT Noticias
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png",126 | Canal 10 Noticias
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png",127 | France 24
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/245px-Euronews_2016_logo.svg.png",128 | Euronews
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/125px-Logo-ForoTV-2020.png",129 | Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png",130 | Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png",131 | Información Periodística TV
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png",133 | HispanTV
+https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png",134 | CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png",136 | 24 horas tve
+https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_4000.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/200px-Logo_24HorasTVN.svg.png",137 | Canal 24 Horas
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png",144 | Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="ESTILOS DE VIDA" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg",149 | Mundo & Sabor
+http://177.53.152.186:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="ESTILOS DE VIDA" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/277791757_10159904567618571_3764050485844243941_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeEeP30FS_SsLcRK9hcYW5AMBeD0IckPpCYF4PQhyQ-kJsiCBESrd_efKWTPnhVWMS8&_nc_ohc=2DWoTz9alR8AX8bWBLU&tn=kwz14dFPv-K5cpdE&_nc_ht=scontent.flim6-3.fna&oh=00_AT-393kjVVZrKssD-MACi9orc9qEl4e-SFCDy0uG3QlZTg&oe=626F8D19",150 | Sazón TV
+http://177.53.152.186:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png",151 | Inti TV
+http://s846397078.mialojamiento.es/w2jy/inti.php/media_w1203630815_3721.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg",154 | Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/220px-Sky_Sports_logo_2017.svg.png",155 | Sky Sports
+https://tunelive.net:3592/stream/play.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://epg.beinsports.com/us_sports/Spanish.svg",163 | Bein Sports Ñ
+https://tunelive.net:3423/stream/play.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.tigosports.gt/sites/default/files/mainlogo_5_0.png",164 | Tigo Sports || Guatemala
+https://tunelive.net:3877/stream/play.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png",165 | TUDN
+https://tunelive.net:3707/stream/play.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png",166 | Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj",168 | El Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/200px-Deportv.svg.png",169 | DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/245px-Afizzionados_Logo.svg.png",170 | Afizzionados TV
+https://tunelive.net:3569/stream/play.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/277795639_10159892789148571_3621008205872000014_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFs2SIzf6WGOPpPqyUxheuWERRN8J2nlzwRFE3wnaeXPLdL3l-11K5grrWs8LJ3rlk&_nc_ohc=04TW-QUVArAAX_A9JZ4&_nc_ht=scontent.flim6-2.fna&oh=00_AT_KsbZgsbZ_naAjP9LlsNvjyYLhX9ruJRGWV1JzsXPJsg&oe=626F2587",171 | Fit TV
+http://177.53.152.186:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t39.30808-6/277794900_10159892739888571_5439172248231640934_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeGbb0PkU1ID_yR_n2XrPirlO0zBBANka7c7TMEEA2Rrt9U-BoMTrVLPlQZh-JDsLQY&_nc_ohc=stfuN7peKk8AX8YbJg3&_nc_ht=scontent.flim6-4.fna&oh=00_AT9Nda7lwPOfVYrEu7aKmoMC_92vHo1flNCMdFOvmlloYA&oe=62703699",172 | Ritmo X
+http://177.53.152.186:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png",173 | Portal Foxmix TV
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w838953193.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png",174 | Telehit Música Plus
+https://tunelive.net:3908/stream/play.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg",175 | Best Cable Music
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",177 | Mundo de la Música TV
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png",180 | Top Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU",181 | Fuego 40 TV
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Rewind_TV_logo.png/200px-Rewind_TV_logo.png",182 | Rewind TV
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1717563077.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQwZJkqvDX9zgNgfSYHxezWQRYbiR3UAWyebc_7=s88-c-k-c0x00ffffff-no-rj",185 | + Cumbia TV
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=323x10000:format=jpg/path/s86a1480785a470a0/image/i72e306343d5bb90c/version/1622053100/image.jpg",186 | Hatun TV
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/277743496_10159894329988571_3304148458195809455_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeE3XwCmqlf1rBeLPNTx524Svf1hL70qPYW9_WEvvSo9hT2_fbNaAYq6qngcjC3xvA0&_nc_ohc=1eBrTKWcAGEAX-xQhcj&_nc_oc=AQnBhwDMVElzCXhyhDcKBlqHVD09QlM2g9m5nhCAGjhtznBN0iwPvs6JVUlyDKyrXlI&tn=kwz14dFPv-K5cpdE&_nc_ht=scontent.flim6-2.fna&oh=00_AT9Y3DWGkTD-QzMLHUdZUpunoIXgShM2aHAD-kg_zZlRyA&oe=626E8EE8",188 | Tierra Mía
+http://177.53.152.186:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",190 | 88 Stereo
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1412956051.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9512bacf6f14cf9e6a45dc35587fa12e.webp",191 | Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w2124958063.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/298052f7d0c144e82b2750ad55289082.webp",192 | Tierra Mía TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1801551224_b1864000_sleng.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://vivotvhd.com/img/cha/4308.gif",193 | TV Pop
+https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://cdn.colombia.com/canales/vallenato-internacional-radio-tv-3172.jpg",194 | Vallenato Internacional Radio & TV
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",196 | Radio Recuerdos Retro TV
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg",197 | Hits 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lPhyOcDjaoJ4wXoeZrt4AyE_xsEsSUm3SWH-m6fuPfWdxPqdSDtHUUp5J5KNY_3lP2A&usqp=CAU",En prueba | Visión Televisión
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="http://tv-online.cl/zapping-music-en-vivo.jpg?210921113151",198 | Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png",En prueba | Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 group-title="CULTURA Y EDUCACION" tvg-logo="https://image.roku.com/developer_channels/prod/0cb910829e2a34c241e0da4d1f66747f7fa849da691d65ffa6d9b47af3880f6e.png",199 | TV Salud
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1709921774.m3u8
+#EXTINF:-1 group-title="CULTURA Y EDUCACION" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png",200 | Canal Rural
+https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
+#EXTINF:-1 group-title="CULTURA Y EDUCACION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/245px-TV_Agro_logo.svg.png",201 | TV Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w1692266694.m3u8
+#EXTINF:-1 group-title="CULTURA Y EDUCACION" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",211 | Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://avivamiento.com/images/all-images/tv/tv.png",212 | Avivamiento Televisión
+https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://mividanueva.org/wp-content/uploads/2021/02/Logo-Horizontal.png",213 | Vida Nueva Televisión
+https://eu1.servers10.com:8081/vidanuevatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSM3HEMfwrQ_Lje8hIq7ausj9Dhm4UR0Es3UVUs=s88-c-k-c0x00ffffff-no-rj",214 | Aviva Televisión
+https://5bff1bf18a887.streamlock.net/avivamientotv/avivamientotv/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg",215 | EWTN (Eternal Word Television Network)
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg",216 | María Visión Televisión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png",217 | Orbe 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png",219 | JN19 Televisión
+https://servilive.com:3149/live/jn19tvlive.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-07/telefides-costa-rica.png.webp?itok=XzDap4zR",220 | Telefides
+https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvGzClf1TW0zlf861XH256v1NGLQ0FdkvMJ8Sc7g=s88-c-k-c0x00ffffff-no-rj",223 | Solidaria Televisión
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png",224 | Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png",225 | Nuevo Tiempo || Brasil
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/HopeChannelFVweb.png/250px-HopeChannelFVweb.png",226 | Hope Channel
+https://hcinteram.mmdlive.lldns.net/hcinteram/e7086b61ed15451c9d46b46b59716f61/manifest.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://images.squarespace-cdn.com/content/v1/556da91de4b010ed6e0bddff/1442361594280-58B1XRFMF2CIL5843DQY/image-asset.png",227 | Esperanza TV
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/250px-3ABN_logo.svg.png",228 | 3ABN Latino
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://redadvenir.org/pagina/wp-content/themes/redadvenir/images/logo.png",229 | Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w484510804.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CBN_Network_logo.svg/245px-CBN_Network_logo.svg.png",230 | CBN
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://cielotv.do/wp-content/uploads/2021/07/logotipoctv.png",231 | Cielo TV
+https://mycloudstream.akamaized.net/hls/live/2035990/ymty1j6r/index.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7bjw4NmODI49wGnBEv2KuF80_smXElW0mXdk0Ig=s900-c-k-c0x00ffffff-no-rj",232 | Enlace 21 || Nicaragua
+http://nicatv.rylco.com:8075/channel21/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRbCF7BnMP3r9-58Hth2bRSLRhdY44J17ugd08rPA=s900-c-k-c0x00ffffff-no-rj",233 | Genesis Televisión
+https://53c64a8009488.streamlock.net/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://radiolaluz.com/wp-content/themes/laluz/images/logo_tv.png",235 | La Luz Televisión
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://radioextremacr.com/img/logo.png",236 | Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTgQeZTi8n1X1Do9yAhUqYX9Rrob0Rq-QdFi8Vlw=s88-c-k-c0x00ffffff-no-rj",237 | Comunión TV
+https://6202d04ff2f0c.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online-100x70.png",239 | Bethel TV
+https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png",240 | TV Peruanísima
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg",241 | Perú Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png",242 | Perú Mágico
+http://tv.plusk.xyz:28000/live/gigitbl/2DKYzhvEke/59875.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg",244 | BH Televisión || Lima
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://graph.facebook.com/904990302901417/picture?type=large",246 | Asiri Televisión || Lima
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2020/03/logo-1.png",249 | Vamisa TV || Lima
+https://vps1.lnx.pe/vamisa/envivo/index.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="http://www.cablenetword.com/img/logo.png",250 | CCN TV || Lima
+https://tv.inka.net.pe/cntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif",251 | Monterrico TV || Lima
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRkCtud5pzoChHufH1ByO4QaQ1R1nmavjaNH3YY=s88-c-k-c0x00ffffff-no-rj",252 | Sumac TV || Lima
+https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://public-rf-upload.minhawebradio.net/166179/cover/e72fd4440cc8e2934c1c1bcd329ce9ec.png",253 | Matices TV || Cañete; Lima
+http://v4.tustreaming.cl/matices/index.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320",254 | Central TV
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTZD3NA2RjS1ingWVBdTcATdEzv-tn3NgdLTjZr=s88-c-k-c0x00ffffff-no-rj",256 | Tumpis TV || Tumbes
+https://servilive.com:3531/live/tumpistvlive.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRq7KtcGsc4xTc1Lk13cb5-aYhYWlaBLJlpgyJCWA=s88-c-k-c0x00ffffff-no-rj",257 | Piura TV || Piura
+http://177.53.152.186:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://www.canal8catacaos.com/wp-content/uploads/2021/01/canal8logo.png",258 | Canal 8 Catacaos || Catacaos; Piura
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://play-lh.googleusercontent.com/DJvgQMfNGGEuefYJ9vuXne6lYxGOVwgRF8vNNjkBC0B-GY0960d622mLlDKSQOD3dtM=s180-rw",260 | Clips TV || Sechura; Piura
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6iGa3A35AnYAm29YkkDJahn0mzAQZYDU9q5LJ=s88-c-k-c0x00ffffff-no-rj",261 | Lot Plus TV || Chiclayo
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tv_cosmos.jpg/245px-Tv_cosmos.jpg",263 | TV Cosmos || Trujillo
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://play-lh.googleusercontent.com/RWwrMM2sqjOulasmAQhS86CiDLLJa66Kan9ru_cypXFu97qaPIECyEI5ilrzKF9sHg=s180-rw",265 | Caribe TV || Otuzco
+http://200.48.184.156:1935/caribetv/caribetv/chunklist_w880922403.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png",266 | Cajamarca TV || Cajamarca
+https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://graph.facebook.com/WWW.RADIOIMPACTODECAJAMARCA.COM.PE/picture?width=320&height=320",268 | Impacto Televisión || Cajamarca
+https://eu1.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Radio-Turbo-Mix-TV-en-vivo-Online-100x70.png",269 | Turbo Mix Televisión || Cajamarca
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://yt3.ggpht.com/x3C0xu-ay9CuUpMSJXpuCJpMbkEKpyxhLDuJxACa3eUqozbJ2Od8VlGMWgbDt4WZnTB_EwTy=s88-c-k-c0x00ffffff-no-rj",270 | XTV || Jaen
+https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://www.innovafm.com/wp-content/uploads/2020/12/logo-innovafm.png",274 | Innova FM TV || Bagua Grande
+https://live.tvcontrolcp.com:1936/8170/8170/chunklist_w1280264475.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t1.6435-9/130983471_100549338640958_7064602025850697428_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFs04PmiZlBe4Aj6F0fSu6wjbVEiX8oTh-NtUSJfyhOHxCykSuDSXoienj7dcuqgPA&_nc_ohc=VwOSxFR1_QgAX-T0ixa&_nc_ht=scontent-lim1-1.xx&oh=00_AT9p5x5oq3_c6-mu4W1Kbp3xxzfFfbJJ8Sml8c9t1NP1ZQ&oe=62753583",275 | Planea TV || Bagua
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://sistema1tv.com/aplication/webroot/imgs/movil.png",276 | Sistema 1 TV || Huaraz
+https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://solstereo.pe/wp-content/uploads/2021/05/logoarriba-2-2-2.png",277 | Sol Stereo TV || Casma
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/chunklist_w1664357594.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png",278 | Unitel || Huancayo
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://pbs.twimg.com/profile_images/961951866903986177/JHvXzvxd_400x400.jpg",280 | Tele 2000 || Huanta
+https://servilive.com:3126/live/tele2000live.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://image.winudf.com/v2/image1/YmVsbGEudHZjZW50cm9zZXJ2ZXJfaWNvbl8xNjAzNTc5ODQ0XzA4Mw/icon.png?w=170&fakeurl=1",281 | Bella Abanquina Televisión || Abancay
+https://v4.tustreaming.cl/bellatv/index.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/CTC-Compa%C3%B1%C3%ADa-de-Televisi%C3%B3n-Cusque%C3%B1a-en-vivo-Online-100x70.png",282 | CTC || Cuzco
+http://177.53.152.186:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="http://tv.10dailythings.com/images/channels/PE/qt-television-cuzco-720p-not-247/normal.png",284 | QT Televisión || Cuzco
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t1.6435-9/155399550_277318890412303_7188947598099234633_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFAZfsmYY62zLsa6KsnVaAnmdKlWQ5Lo4KZ0qVZDkujgvwneUq3mCKA_6a6Z8B4m6k&_nc_ohc=L1WM0cK48uIAX9B-11j&_nc_ht=scontent-lim1-1.xx&oh=00_AT8LEQJPODMg_A5BvgVXzpoSc7HlNxMNSK9dNlfu4neBew&oe=62759BA9",285 | TV Sistemas || Cuzco
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://uchutv.com/gallery_gen/9dc2fb58284d6eb1556ffd902b73cbdc_496x400.png",286 | Uchu TV || Cuzco
+http://177.53.152.186:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t1.6435-9/119165135_113085623871343_5973820231034478652_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHVpQKHsoHaDIdtnLDHpQ9kDaRQVBqXqjcNpFBUGpeqNxPs_xgn6aeN6a61eaqZ0w8&_nc_ohc=MGMEChCGV_8AX_IcTV2&_nc_ht=scontent-lim1-1.xx&oh=00_AT9o9YfgzeO7su-VDdhUdAG7-2BlCMHDERbQ6ipt08Etug&oe=62758C9C",287 | Quillavisión TV || Quillabamba
+http://v4.tustreaming.cl/quillavision/index.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://www.pachatusantelevision.com/wp-content/uploads/2021/01/LOGO-TV-1.png",288 | Pachatusan TV || Sicuani
+https://tvdatta.com:3413/live/pachatusanlive.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png",289 | Andes Televisión || Sicuani
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w497662503.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t39.30808-6/263599919_10159655678833571_6126780683315586113_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeG8Vf9uEVSoX-TcP2jp2SOn2q4DdglKjPDargN2CUqM8ILG413uAO4UuepCWZxAAD8&_nc_ohc=zvHg0Ja9FaAAX8mJZ70&_nc_ht=scontent.flim6-4.fna&oh=00_AT8ikEHwyz4Kq79xG-FhslXhXLdJb8jEx23iXX-Z734R9Q&oe=626EE278",290 | Tropical TV || Puerto Maldonado
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Mega-TV-Arequipa-en-vivo-Online-100x70.png",292 | Mega TV || Arequipa
+https://cp.serviaudio.com:1936/megatv/megatv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png",296 | Telesur || Ilo
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png",296.2 | Telesur || Moquegua
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png",296.3 | Telesur || Mollendo
+https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",297 | Gamavisión || ECUADOR
+http://45.71.185.142:8500/play/a027
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png",298 | Teleamazonas || ECUADOR
+http://138.186.20.245:8000/play/a02l
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png",301 | Ecuavisa || ECUADOR
+http://vps-c97214f4.vps.ovh.net:80/hls/ecutv4.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",303 | TC Televisión || ECUADOR
+http://45.71.185.142:8500/play/a02d
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif",305 | Canela TV || ECUADOR
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1360767208.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://www.hechosecuador.com/rw_common/images/HECHOS%20LOGO%20REAL%202018.png",307 | Hechos Ecuador TV || ECUADOR
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://www.ecotel.tv/wp-content/uploads/2015/03/Ecotel-tv-logo-nuevo.png",308 | Ecotel TV || ECUADOR
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png",309 | Puruwa TV || ECUADOR
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/556px-Logo_rtu.jpg",310 | RTU || ECUADOR
+https://streamingwowza.com:1936/rtutv/rtutv/chunklist_w800904522.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://www.multicanalcatamayo.com/wp-content/uploads/2018/10/logo-final-multicanal-web-listo.png",312 | Multicanal || ECUADOR
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wuanplus-ec.png",313 | Wuan+ || ECUADOR
+https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://sonoonda.com/wp-content/uploads/2022/01/cropped-LOGOSONOONDA.png",314 | Sono Onda TV || ECUADOR
+https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1788970447.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://ucsgrtv.com/tv/wp-content/uploads/2019/06/blanco.png",315 | UCSG Televisión || ECUADOR
+https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png",317 | Canal Capital || COLOMBIA
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png",318 | RCN + || COLOMBIA
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png",319 | Canal Caracol || COLOMBIA
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/200px-Se%C3%B1al_Colombia_logo.svg.png",320 | Señal Colombia || COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/140px-Se%C3%B1al_Institucional_logo.svg.png",321 | Canal Institucional || COLOMBIA
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/245px-Canal_Trece_logo.svg.png",322 | Canal Trece || COLOMBIA
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/170px-City_tv_Bogot%C3%A1_logo.svg.png",323 | City TV || COLOMBIA
+http://190.108.83.142:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/245px-Canal_2_logo.svg.png",324 | Canal 2 de Cali || COLOMBIA
+https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/250px-Teleantioquia_logo.svg.png",325 | Teleantioquia || COLOMBIA
+http://190.122.96.186:8888/http/004
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTDVbXdzqg5wRA2IZDnWEJyezQIhnUGxI8fEuLOgA=s88-c-k-c0x00ffffff-no-rj",326 | Mundo + || COLOMBIA
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png",327 | Cali TV || COLOMBIA
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://cdn.mitvstatic.com/channels/co_cosmovision_m.png",328 | Cosmovisión || COLOMBIA
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2021/02/LOGO-NUEVO-CTV-3.png",329 | CTV || COLOMBIA
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png",330 | Teleislas || COLOMBIA
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w526251702.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://canalcncmedellin.com/recursos/images/logo_cnc.png",331 | Canal CNC || COLOMBIA
+http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png",332 | Telepacífico || COLOMBIA
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQEQlXDbG5mfpBPebg95GpgaHErjMj4kr9ajTHv=s88-c-k-c0x00ffffff-no-rj",333 | TDI || COLOMBIA
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://lh3.googleusercontent.com/apvCTeyvSvG_dSKi0-ujGoz-3cnm80K4jm0TRj6oI86GJqqfMwIuVUlVCiMBzhW-iDM",334 | TV Peñol || COLOMBIA
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://play-lh.googleusercontent.com/YQi6JN3KWozh0yLl5S83_pMdeoD0nsvBMT-MPpbvGf0Aq_wJgiS0DA7UgEnMtfQjSRID",335 | Canal Visión Dorada || COLOMBIA
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png",336 | Venevisión || VENEZUELA
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-Vepaco-TV.png/245px-Logo-Vepaco-TV.png",339 | Vepaco TV || VENEZUELA
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2108815419.m3u8
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TVO-2015.png/245px-TVO-2015.png",345 | Televisora de Oriente || VENEZUELA
+http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal_i.png/200px-Canal_i.png",346 | Canal I || VENEZUELA
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="http://anzoategui.tv/LOGO%20BLANCO.png",348 | Anzoategui TV || VENEZUELA
+http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/chunklist_w401602070.m3u8
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/150px-Promar_Television.png",350 | Promar TV || VENEZUELA
+http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ATELTV_logo.png/200px-ATELTV_logo.png",351 | Americana de Televisión || VENEZUELA
+https://distrib010.noisypeak.com/d/ZNC912ALUX18TOYWN3J9/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t1.6435-9/154144496_2814403242144430_5059221343225656755_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeH6KBOa_LlwbF9xFcqb7UyyXdpi9zvJeD1d2mL3O8l4PbYcCLh-efbImfdp-k8ZFJM&_nc_ohc=jckkvzOHLQYAX8uSz-O&_nc_ht=scontent-lim1-1.xx&oh=00_AT8kA_1d26uw5DIDPAT5svhkum12y2nmhBrNiILoM98u_Q&oe=6274BDB3",352 | Vene TV || VENEZUELA
+http://177.53.152.186:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png",353 | Rede TV || BRASIL
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://www.agrobrasiltv.com.br/images/logo_agrobrasil_v10.png",355 | Agro Brasil TV || BRASIL
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="BRASIL" tvg-logo="http://play.myplaytv.com/uploads/images/channel_62_1603754534_thumb.jpg",356 | Band || BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w74540908.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png",358 | RTP || BOLIVIA
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BolivisionHD.png/150px-BolivisionHD.png",359 | Bolivisión || BOLIVIA
+https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nueva_imagen_Bolivia_TV.jpg/245px-Nueva_imagen_Bolivia_TV.jpg",360 | Bolivia TV || BOLIVIA
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png",362 | Red Uno || BOLIVIA
+https://ott.streann.com/loadbalancer/services/public/channels/5ea9f3ab2cdc31ce152b0097/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg",363 | PAT || BOLIVIA
+https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/02/cropped-MEGA-TV-LOGO-PNG.png",365 | Mega TV || BOLIVIA
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw",367 | Cadena Coral TV || BOLIVIA
+https://cp.serviaudio.com:1936/coraltv/coraltv/chunklist_w847914959.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png",368 | TV Universitaria || BOLIVIA
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w526827989.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t1.6435-9/125469940_122628856318526_1894550823960964139_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeE0srSU4HwJTCoacnzKFU0HJkL9UIX_x3QmQv1Qhf_HdCdnAbudTcQXmC3ABHZrEQo&_nc_ohc=ZvI__MSb_2cAX-Pu9nB&_nc_ht=scontent-lim1-1.xx&oh=00_AT-HqpdReZ8BA2_D9B8QWIw3887zblo54V08pZcq7AucBw&oe=627492B5",369 | Veo TV || BOLIVIA
+https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png",370 | Seo TV || BOLIVIA
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png",370.2 | Seo TV 2 Kids || BOLIVIA
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png",370.3 | Seo TV 3 Novelas || BOLIVIA
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://renuevadigital.com.bo/assets/img/logo.png",371 | Renueva Digital TV || BOLIVIA
+https://inliveserver.com:1936/8158/8158/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://tvoff.tv/wp-content/uploads/2021/05/tv-off-2.png",372 | TV Off Travel || BOLIVIA
+https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://play-lh.googleusercontent.com/_Og80NJnX-oAXxXB9NxF0F6U_blWK-vlgM9-QQPWic0zlqMwp6l2uJ8aPAcVTIsmKA",373 | Tele Estrella || BOLIVIA
+http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png",374 | Marvision TV de Potosi || BOLIVIA
+https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://play-lh.googleusercontent.com/RkJ_4G0OcBwu1U1tfCF7zyeSK-P8jKha2qGdUzGIvEFRHFMB-Jt14OyLbDpOagXrS-E=s200",375 | Chaqueña de Televisión Canal 2 || BOLIVIA
+https://stmv.panel.grupolimalive.com/frecuencia/frecuencia/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://redencuentro.com/wp-content/uploads/2021/09/logo_rtve_oficial.png",376 | Radio TV Encuentro || BOLIVIA
+https://stmv.panel.grupolimalive.com/encuentro/encuentro/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://ceacomtv.com/wp-content/uploads/2021/01/Logo-CEACOM-web.png",377 | Ceacom TV || BOLIVIA
+https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Megavisi%C3%B3n-Bolivia-en-vivo-Online-100x70.png",379 | Megavisión TV || BOLIVIA
+https://livefocamundo.com:8081/megavisiontv/index.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png",380 | TV Latina || BOLIVIA
+https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://imperialradiotv.com/wp-content/uploads/2021/02/logo-imperial-tv-oficial-alfa-fondo-blanco-768x461.jpg",381 | Imperial Televisión || BOLIVIA
+https://stmv.panel.grupolimalive.com/imperial/imperial/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://boplus.tv/wp-content/uploads/2021/08/LOGOTIPO-BOPLUS-uso-horizontal-1.png",382 | Bo Plus Televisión || BOLIVIA
+https://servilive.com:3342/live/boplustvlive.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM",383 | Ayni TV || BOLIVIA
+http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQfEUIGzraeGwUiQbZr6V7ElcOfcdhljNbB9BlQbA=s900-c-k-c0x00ffffff-no-rj",384 | Xto TV || BOLIVIA
+http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://www.tucableip.com/canales/neotv.png",385 | Neo TV || BOLIVIA
+https://master.tucableip.com/neotv/index.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://yt3.ggpht.com/U47VmnRDhgLjdt3il6T-qGIRgfsdVefCCbhJO6FdtjoRg3wP3a6_Jcg9zKboHqcrpBD-5hwGug=s88-c-k-c0x00ffffff-no-rj",386 | Tu TV || BOLIVIA
+https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png",387 | La Red || CHILE
+https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/145px-Mega_Chile_2020.png",389 | Mega || CHILE
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UChile_TV_logo_2020.png/245px-UChile_TV_logo_2020.png",390 | UChile TV || CHILE
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/133px-Logotipo_de_Canal_13.svg.png",391 | Canal 13 || CHILE
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://www-storage.13.cl/c13/13e/13e.svg",391.2 | 13 Entretención || CHILE
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://www-storage.13.cl/c13/13go/image/logos-13p.svg",391.3 | 13 Prime || CHILE
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://www-storage.13.cl/c13/13go/image/logos-13t.svg",391.4 | 13 Teleseries || CHILE
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://www.biobiochile.cl/assets/img/logo-bbtv-header.png",392 | Bío-Bío TV || CHILE
+https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w=s150-rw",393 | Viwix TV || CHILE
+https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg",394 | Tevex || CHILE
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png",395 | TV Senado || CHILE
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://mlffeobxttoy.i.optimole.com/w:auto/h:auto/q:auto/https://madero.cl/wp-content/uploads/2019/05/Recurso-3logo_madero.svg",396 | Madero TV || CHILE
+https://videostreaming.cloudserverlatam.com:443/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CHILE" tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png",397 | Canal Latino 54 || CHILE
+http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png",398.2 | Telefe Rosario || ARGENTINA
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png",401 | Argentinísima Satelital || ARGENTINA
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png",402 | Encuentro TV || ARGENTINA
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png",403 | ATV de la Argentina || ARGENTINA
+https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png",406 | Saeta TV Canal 10 || URUGUAY
+http://tv.plusk.xyz:28000/live/gigitbl/2DKYzhvEke/105833.m3u8
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png",407 | Teledoce || URUGUAY
+http://tv.plusk.xyz:28000/live/gigitbl/2DKYzhvEke/22173.m3u8
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="http://www.redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png",408 | La Red || URUGUAY
+https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png",410 | Un Canal Latinoamericano TV || URUGUAY
+http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg",417 | La Tele || PARAGUAY
+http://138.186.20.245:8000/play/a03j
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png",418 | Trece || PARAGUAY
+https://stream.rpc.com.py/live/trece.m3u8
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png",420 | Unicanal || PARAGUAY
+http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG",421 | ABC TV || PARAGUAY
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/800px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png",423 | Mi TV || PARAGUAY
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8?k=1ce349cc39ac8d18e2dafd9501d71521380d56fd6b86ed1516921c76d221b4f8&exp=1642343052
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/150px-Canal6CR.png",435 | Canal 6 Telecentro || COSTA RICA
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png",437 | Canal 8 || COSTA RICA
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",440 | TV Sur Canal 14 || COSTA RICA
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.tvn14.com/wp-content/uploads/2021/02/TVN-HD_LOGO_COLOR-SIN-FONDO.png",441 | TV Norte || COSTA RICA
+https://stream.tvn14.com/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica-100x70.png",442 | Telesur || COSTA RICA
+https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.ticavisioncr.com/wp-content/uploads/2021/07/cropped-27-tiv-01-1536x641.png",445 | Ticavisión || COSTA RICA
+https://59ef525c24caa.streamlock.net/HBTV/HBTV/chunklist_w1041760160.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/anexiontv-100x70.png",446 | Anexión TV || COSTA RICA
+http://rtmp.info:8081/anexiontv/envivo/chunklist_w2055838599.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Canal_2_%28Nicaragua%29_logo.png/170px-Canal_2_%28Nicaragua%29_logo.png",447 | Canal 2 Televicentro || NICARAGUA
+http://nicatv.rylco.com:8075/channel2/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/150px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png",448 | Canal 4 Multinoticias || NICARAGUA
+http://nicatv.rylco.com:8075/channel4/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canal_6_Nicaraguense.png/150px-Canal_6_Nicaraguense.png",449 | Canal 6 Nicaragüense || NICARAGUA
+http://nicatv.rylco.com:8075/channel6/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tn8_logotipo_2021.png/165px-Tn8_logotipo_2021.png",450 | TN8 Telenica || NICARAGUA
+http://nicatv.rylco.com:8075/channel8/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Canal_9_Nicaragua_nuevo.png/200px-Canal_9_Nicaragua_nuevo.png",451 | Canal 9 || NICARAGUA
+http://nicatv.rylco.com:8075/channel9/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/190px-Canal_10_Nicaragua.png",452 | Canal 10 || NICARAGUA
+http://nicatv.rylco.com:8075/channel10/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online-100x70.png",453 | Canal 11 TV Red || NICARAGUA
+http://nicatv.rylco.com:8075/channel11/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://www.canal12.com.ni/assets/logo_horizontal-b7fe143ebd9e9dab2e72ffea436db26fce21c81b7ae6ac430ede875f5df30657.png",454 | Canal 12 Nicavisión || NICARAGUA
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_nicaragua-mediano.png",456 | Vos TV || NICARAGUA
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Canal_15_Nicarag%C3%BCense_2019.png/150px-Canal_15_Nicarag%C3%BCense_2019.png",457 | Canal 15 || NICARAGUA
+http://nicatv.rylco.com:8075/channel15/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/LaRock22.png.jpg/245px-LaRock22.png.jpg",458 | La Rock 22 || NICARAGUA
+http://nicatv.rylco.com:8075/channel22/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/CDNN_23_Nicaragua.png/340px-CDNN_23_Nicaragua.png",459 | Canal de Noticias de Nicaragua || NICARAGUA
+http://nicatv.rylco.com:8075/channel23/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://tvonenicaragua.com/wp-content/uploads/2020/02/logo-central-correcto2.png",460 | TV One || NICARAGUA
+https://inliveserver.com:1936/17512/17512/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TCS_El_Salvador_2002.svg/250px-TCS_El_Salvador_2002.svg.png",461 | Telecorporación Salvadoreña || EL SALVADOR
+https://secure-video.tcsgo.com/tcshd/index480p30_20211110T015234.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/245px-Canal_4_TCS.png",463 | Canal 4 || EL SALVADOR
+http://tv.plusk.xyz:28000/live/gigitbl/2DKYzhvEke/3743.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png",464 | TV Seis || EL SALVADOR
+http://tv.plusk.xyz:28000/live/gigitbl/2DKYzhvEke/3740.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9TV_El_Salvador_%282018%29.png/revision/latest/scale-to-width-down/300?cb=20191116000236",466 | TV Legislativa || EL SALVADOR
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://noticiero.sv/sourceimages/c10.png",467 | C10 || EL SALVADOR
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDIyIDExOjEyOjU5IFBNJmhhc2hfdmFsdWU9anVpcDkxVTRIYlFWbWVwU0NUZk9RZz09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png",469 | Canal 12 || EL SALVADOR
+https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="http://www.diariotrv.com/media/diariotrv/images/2021/01/01/2021010100000082682.png",470 | TRV || EL SALVADOR
+https://2nbyj587d53k-hls-live.5centscdn.com/13/9709f63f970338d12cf00458eeeaf24c.sdp/chunks.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Taber-TV-Canal-17-El-Salvador-en-vivo-Online-100x70.png",471 | Taber TV || EL SALVADOR
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w169172025_b3428000_DVR_sleng.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Tele1_%28SV2018%29.jpg/revision/latest/scale-to-width-down/250?cb=20211003155828&path-prefix=es",474 | Tele Uno || EL SALVADOR
+http://107.155.64.122:1935/canaluno/videocanaluno/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8c20da0d7134ea2390120155e3d88ba5.webp",477 | Órbita TV || EL SALVADOR
+http://162.244.81.145:1935/orbitatv/livestream/chunklist_w97083520.m3u8
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png",485 | TEN Canal 10 || HONDURAS
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2021/01/logo-ltv-top.png",488 | LTV || HONDURAS
+https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w911572265.m3u8
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://www.hn504.net/img/tv/DTP-Canal-15.png",489 | DTV || HONDURAS
+https://emisoras.hn:8081/dtp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",490 | HCH || HONDURAS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x81za5c
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cholusat-Sur-Canal-36-en-vivo-Online-100x70.png",491 | Cholusat Sur || HONDURAS
+http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w374441771.m3u8
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://1.bp.blogspot.com/-yGipms6jxkw/XQ98HCLKq4I/AAAAAAAAH24/9KuQLLqDT1wzQmvWgDDGGGVq8tzIsBbIwCLcBGAs/s1600/Canal%2BAzteca%2BHonduras.png",493 | Azteca Canal 44 || HONDURAS
+http://190.122.96.187:8888/http/002
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://1.bp.blogspot.com/-6gQWDOzqUHU/XQo-_-umYGI/AAAAAAAAH00/gM_d6FInXxAQhKeRggaiKR_i-putnpGXACLcBGAs/s1600/Canal%2BLa%2BMetro%2BTV%2Bhonduras.png",498 | Metro TV || HONDURAS
+https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="http://live.campushd.tv/wp-content/uploads/2019/05/logo-2.png",501 | Campus Televisión || HONDURAS
+http://st2.worldkast.com/8004/8004/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS E INFORMACION" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Sercano-TV-en-vivo-Online-100x70.png",502 | Servicio Centroamericano de Noticias
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1521447717_b1248000.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Televisiete.png/200px-Televisiete.png",504 | Televisiete || GUATEMALA
+https://tunelive.net:3904/stream/play.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png",505 | Teleonce || GUATEMALA
+https://tunelive.net:3733/stream/play.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TN23logo2016.png/250px-TN23logo2016.png",507 | TN 23 || GUATEMALA
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/playlist.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82",508 | Guatevisión || GUATEMALA
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/live-audio_track_0_0_und=64000-video_track=6500000.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://www.tvusac.com/wp-content/uploads/2015/07/logo-usac.jpg",510 | TV Usac || GUATEMALA
+https://5e50264bd6766.streamlock.net/tvusac/videotvusac/playlist.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i2.wp.com/canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png?fit=300%2C99&ssl=1",511 | Canal Antigua || GUATEMALA
+http://51.161.12.229:1935/CanalAntigua/myStream/chunklist_w1313531480.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://d6scj24zvfbbo.cloudfront.net/07b2980a5c2c0fb9c4babbf90a196f49/200000010-25a1825a1a/200/LOGO%20RADIO%20MAYA%20NUEVO%20.png?ph=0a6e80f01c",514 | TV Radio Maya || GUATEMALA
+https://video.misistemareseller.com/tvradiomaya/tvradiomaya/playlist.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_a986824eaf454764a466d8a78dde6b75~mv2.png",515 | Canal 8 de Nueva Santa Rosa || GUATEMALA
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_a52030788e08407abb6f67a51e0d5276~mv2.png",518 | Nim TV || GUATEMALA
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_68253d580c29475b9be0be44ae441758~mv2.png",519 | Visión TV || GUATEMALA
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_a20549c54e1e49ddabdff4c98eee4d25~mv2.png",520 | Totovisión || GUATEMALA
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_d5576fcd9aaf4853afcb142591bedacb~mv2.png",521 | Mi canal GT || GUATEMALA
+http://ms.android-iptv.com/live/V7rA1feOk3/FkGkEh8Spe/6671.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_f1b665198ed5434dbdddc5bd45b156cc~mv2.png",522 | Full Channel || GUATEMALA
+https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_c84cc56a740f48d1ad46aab4102788cc~mv2.png",523 | SAS TV || GUATEMALA
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_8cd678c8791045eb8fab68a10b36a1f6~mv2.png",524 | Guatv || GUATEMALA
+https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_69f083ef9b9b4772890e0a2fc9eddcfc~mv2.png",525 | Tele Arte || GUATEMALA
+https://cdn.streamhispanatv.net:3771/live/teleartegtlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_17c09e7dae974060a5cf7d0561412dc9~mv2.png",527 | Canal 100 TV Chinique || GUATEMALA
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_6ee0765d79f44b7b98a5db3f260a6cad~mv2.png",528 | Canal 23 Mazatenango || GUATEMALA
+https://cdn.streamhispanatv.net:3399/live/canal23mazatelive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png",531 | Telecosta || GUATEMALA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_8cf9f5fa2991439b88ea3847bd682565~mv2.png",532 | Playmedios TV || GUATEMALA
+https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_390a0d84287a4bf0bea7620324b57e27~mv2.png",536 | Izabal TV || GUATEMALA
+https://cdn.streamhispanatv.net:3340/live/izabaltvlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_ccb27612733c4b5a90b1fcbf30ce7e2a~mv2.png",538 | Maxivisión || GUATEMALA
+http://iptv.streamhispanatv.net:25461/playgt/123456/103
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://static.wixstatic.com/media/7acae1_74eb30de9b1a4474b86306b8f0b71a55~mv2.png",541 | Nueva Familia TV || GUATEMALA
+https://cdn.streamhispanatv.net:3057/live/nvafamlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://radiosdeguate.com/i/tv/canal-13-esquipulas.png",543 | Canal 13 de Esquipulas || GUATEMALA
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png",544 | Nuevo Mundo Televisión || GUATEMALA
+https://tvlatina.live:1936/8030/8030/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg",546 | Si TV || REPUBLICA DOMINICANA
+http://190.122.104.221/Player/sitv.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i0.wp.com/canal4rd.com/wp-content/uploads/2020/09/Canal-4-Logo-1.png?resize=1022%2C1024&ssl=1",547 | Canal 4RD || REPUBLICA DOMINICANA
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1781301532_b2146304.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg",548 | Cananga Televisión || REPUBLICA DOMINICANA
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es",549 | Telemicro || REPUBLICA DOMINICANA
+http://51.81.93.29:8084/hls/tmicro.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png",552 | Telesistema || REPUBLICA DOMINICANA
+http://51.81.93.29:8084/hls/tsistemas.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Telecentro_ICON.jpg/125px-Telecentro_ICON.jpg",553 | Telecentro || REPUBLICA DOMINICANA
+http://51.81.93.29:8084/hls/telecentro.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://14tv.live/logo.png",554 | Catorce TV || REPUBLICA DOMINICANA
+https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png",555 | Digital 15 || REPUBLICA DOMINICANA
+http://51.81.93.29:8084/hls/d15.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://canal17rd.com/wp-content/uploads/2020/09/cropped-logo.png",556 | RTVD 17 || REPUBLICA DOMINICANA
+https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision-1024x341.png",557 | Cinevisión || REPUBLICA DOMINICANA
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i0.wp.com/rnn.com.do/wp-content/uploads/2021/11/LOGO-CUBOS-RNN-test-3.png?resize=1536%2C484&ssl=1",560 | RNN || REPUBLICA DOMINICANA
+http://cacatuaiptv.com/rnn.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://entelevision.com/wp-content/themes/entelevision/imagenes/logo-principal.png",561 | EN Televisión || REPUBLICA DOMINICANA
+https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/sport-vision-canal-35.jpg",563 | Sport Visión Canal 35 || REPUBLICA DOMINICANA
+https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.Coral2017.PNG.5f4fc1a4dfac82acd43fccd93cffb82c.PNG",565 | Coral TV || REPUBLICA DOMINICANA
+http://190.122.96.188:8888/http/005
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png",566 | Teleradio América || REPUBLICA DOMINICANA
+https://rctvhd.net:8081/teleradioamerica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg",567 | Amé Televisión || REPUBLICA DOMINICANA
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://tni51online.com/images/tni_logo_web.jpg",568 | Televisión La Nueva Isabela || REPUBLICA DOMINICANA
+https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://carivision.online/wp-content/uploads/2017/10/Sin-t%C3%ADtulo-1carivision-300x144.png",570 | Carivisión || REPUBLICA DOMINICANA
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://www.canal56rd.net/imagen/header-canal56rd.png",571 | Teledigital || REPUBLICA DOMINICANA
+https://cdn5.streamgato.us:3371/live/canal56live.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://pbs.twimg.com/profile_images/878989434196295680/p1LEA6U4_400x400.jpg",572 | Digital Visión 63 || REPUBLICA DOMINICANA
+https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w1482544367.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2022/02/Logo_CDNDeportes.svg",574 | CDN Deportes || REPUBLICA DOMINICANA
+http://51.81.93.29:8084/hls/cdnsm.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://teleradionorte.com//wp-content/uploads/2018/08/logopequert.png",575 | Tele Radio Norte || REPUBLICA DOMINICANA
+https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://television-planet.tv/uploads/posts/54erdhysehryrhsregplanet-television.png",576 | Oui TV || REPUBLICA DOMINICANA
+https://tutvonline.is-by.us:1936/ouitv/ouitv/chunklist_w858988243.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://nexxo.tv/img/logo.png",577 | Nexxo TV || REPUBLICA DOMINICANA
+https://tutvonline.is-by.us:1936/nexxotv/nexxotv/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://teleuniontvrd.com/portal/wp-content/themes/rt_manticore/images/logoteleunionsmall.png",578 | Teleunión || REPUBLICA DOMINICANA
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://canal25rd.com/images/canal25_logo_2017_small.png",579 | Canal 25 || REPUBLICA DOMINICANA
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://1.bp.blogspot.com/-BZ3byEaoRkE/XfwZYeUp-eI/AAAAAAAAD1E/AYwLVzCOjQkL4sAK3RuM5Vm512y9rtw5QCK4BGAYYCw/s1600/Sin%2Bt%25C3%25ADtulo-4-01.jpg",581 | Galaxia Teve || REPUBLICA DOMINICANA
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLThfHKg1wlVNDCFiAmoJXlnyziu-qyb3Z27c8kYZQ=s900-c-k-c0x00ffffff-no-rj",582 | MegaVisión TV || REPUBLICA DOMINICANA
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://www.tv43.net/wp-content/uploads/2021/09/cropped-logo-Nuevo-corto-TV43.png",583 | TV 43 || REPUBLICA DOMINICANA
+https://ss5.domint.net:3058/tv43_str/tv43/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://adocco.tv/wp-content/uploads/2022/03/cropped-logo_tv.png",584 | Adocco TV || REPUBLICA DOMINICANA
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8?DVR
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsrGtckQhs4siaVvTunwb0INzkcxVB_Bh1P7WdezFQbmF6WqCmoXaHNflBKIn3FNmFjw&usqp=CAU",585 | Vision 3000 Canal 3 || REPUBLICA DOMINICANA
+https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRQnla6CN3x3X55D3yFq6VYWTrLX97te5ArEJ8=s900-c-k-c0x00ffffff-no-rj",587 | Boreal Televisión || REPUBLICA DOMINICANA
+https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://telenord.com.do/templates/yootheme/cache/Logo_Telenord-c7b771c8.webp",588 | Telenord Canal 8 || REPUBLICA DOMINICANA
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/telenord8.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://telenord.com.do/templates/yootheme/cache/Logo_Telenord-c7b771c8.webp",589 | Telenord Canal 10 || REPUBLICA DOMINICANA
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="http://telenord.com.do/templates/yootheme/cache/Logo_Telenord-c7b771c8.webp",590 | Telenord Canal 12 || REPUBLICA DOMINICANA
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://tvo.com.do/imgs/logo.png",591 | TVO Canal 49 || REPUBLICA DOMINICANA
+https://rctvhd.net:8081/tvoromanalive/index.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://tv10sanjuan.com.do/wp-content/uploads/2020/09/LOGO-TV10-unico-1.png",592 | TV 10 San Juan || REPUBLICA DOMINICANA
+https://5790d294af2dc.streamlock.net/8224/8224/playlist.m3u8
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://pbs.twimg.com/profile_images/1508441196317794306/nfsXucqo_400x400.jpg",593 | Morro TV || REPUBLICA DOMINICANA
+https://cdn1.streamgato.us/morrotv/morrotv.myStream/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_423392900.png",En prueba | N+ Media
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/175px-Nueve_%282018_logo%29.png",En prueba | Canal 9
+https://tunelive.net:3734/stream/play.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png",En prueba | Canal 11
+https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png",595 | La 2 || ESPAÑA
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png",596 | Telemadrid || ESPAÑA
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_2.m3u8
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/75px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",597 | TV Galicia América || ESPAÑA
+https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1 group-title="JAPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png",599 | NHK World || JAPON
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 group-title="EMISORAS LOCALES" tvg-logo="https://www.planetaradios.com/content/radios_fm/Radio_Latina_FM_San_Matin_3545.png",601 | Radio Latina 90.1 FM || Moyobamba; Perú
+http://server.sonandoahora.com:8016/;
+#EXTINF:-1 group-title="EMISORAS LOCALES" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_122.png",602 | Radio Atmósfera 92.3 FM || Moyobamba; Perú
+https://eu2.serviaudio.com:10936/;
+#EXTINF:-1 group-title="EMISORAS LOCALES" tvg-logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png",603 | Interactiva Radio 92.9 FM || Moyobamba; Perú
+https://radio.livestreamingmundial.com/8070/stream
+#EXTINF:-1 group-title="EMISORAS LOCALES" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png",604 | Radio Selva 93.7 FM || Moyobamba; Perú
+https://radio.livestreamingmundial.com/8092/stream
+#EXTINF:-1 group-title="EMISORAS LOCALES" tvg-logo="https://graph.facebook.com/281962128599048/picture?type=large",605 | Radio Ebenezer 103.5 FM || Moyobamba; Perú
+https://node-29.zeno.fm/011tp1y7cm0uv?rj-ttl=5&rj-tok=AAABfH2lN7MAlZLsEoRUtyfoSg
+#EXTINF:-1 group-title="EMISORAS LOCALES" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda-moyobamba.png",En prueba | Radio Moda Star 1280 AM || Moyobamba; Perú
+https://sp.onliveperu.com/8004/stream
+#EXTINF:-1 group-title="EMISORAS LOCALES" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/259497602_10159631718308571_6212878559279922815_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFFZVyJCSFMJfNNBiXPw0Uh7IMchgJavQvsgxyGAlq9CxIe8J9LdvGtXsUQZ0o5w4U&_nc_ohc=nUP8AqW3gBAAX92tq9x&_nc_ht=scontent.flim6-2.fna&oh=00_AT9OFIfIb_wkmrPB-kkTXpLAMErM94_8YQKKI83dKF5xrA&oe=626EEDE2",606 | Selvática Radio || Moyobamba; Perú
+https://radio.livestreamingmundial.com:7100/stream
+#EXTINF:-1 group-title="EMISORAS LOCALES" tvg-logo="https://www.radiopowertv.com/wp-content/uploads/2021/11/logopower.jpg",En prueba | Radio Power || Moyobamba; Perú
+https://sp.dattavolt.com/8062/stream
+#EXTINF:-1 group-title="EMISORAS LOCALES" tvg-logo="https://radiomoyobamba.com/wp-content/uploads/2021/10/Logo-Radio-Moyobamba-para-web-1536x607.png",En prueba | Radio Moyobamba || Moyobamba; Perú
+https://conectperu.com/8236/stream
+#EXTINF:-1 group-title="EMISORAS PROVINCIALES" tvg-logo="https://cdn-planetaradios.com/imgio/Radio-Tv-Nor-Selva.jpg",607 | Radio Nor Selva 98.7 FM || Rioja; Perú
+https://sp.onliveperu.com/8166/stream/;type=mp3
+#EXTINF:-1 group-title="EMISORAS PROVINCIALES" tvg-logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png",609 | Radio Vía Alto Mayo || Rioja; Perú
+https://sonic.whitelabelservers.co.uk:7016/;/live
+#EXTINF:-1 group-title="EMISORAS PROVINCIALES" tvg-logo="https://cdn-planetaradios.com/imgio/Radio-Ondas-del-Rio-Mayo-FM-nueva-cajamarca.png",611 | Radio Ondas del Río Mayo 105.7 FM || Nueva Cajamarca; Perú
+https://sp.onliveperu.com/8090/stream
+#EXTINF:-1 group-title="EMISORAS PROVINCIALES" tvg-logo="https://static-media.streema.com/media/cache/0c/f0/0cf0fce695bd125e78e44ff5fc8badf6.jpg",612 | Radio Fans 95.5 FM || Picota; Perú
+http://eu1.serviaudio.com:8066/stream/;
+#EXTINF:-1 group-title="EMISORAS PROVINCIALES" tvg-logo="https://static-media.streema.com/media/cache/93/9e/939e2e96ae1bd97da85be744a85fda6e.jpg",614 | Radio La Mega 98.7 FM || Picota; Perú
+http://ip.blstreamperu.com:9854/;
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="http://radiomagica.pe/assets/images/logo-mediano.png",615 | Radio Mágica 88.3 FM || Lima; Perú
+http://playerservices.streamtheworld.com/api/livestream-redirect//MAG_SC
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_felicidad.png",616 | Radio Felicidad 88.9 FM y 900 AM || Lima; Perú
+https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7?aid=5faaeb72f92d7b07dfe10181&pid=LBc79NJqinEylUDDTLayozX84Fu5eX6u&sid=aImakKiyNM09Mn7NzmJV69oLUQvKe0dH&uid=DhyLihsgnb8wgjVIvB8gbMe95dwzRrfr&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1644900635212&ot=8LoEBwY3-iEZbKDDiFhEPQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&referer=https%3A%2F%2Fradios.com.pe%2F
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_rpp.png",617 | RPP Noticias 89.7 FM y 730 AM || Lima; Perú
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9?aid=5faaeb72f92d7b07dfe10181&pid=4NDYUaPpnVuhGpp5fRf38VQ4BRR4mR2s&sid=m8fz1OGDNzCZPgwYKZdnEhElt12ge1Cu&uid=CEzVQN8HJbZQ6cZwAuHUf0AqbUXRLLl3&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1632805297432&ot=RpUEvE1z32AIl_guW2DLUQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Fradios.com.pe%2F
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_lazona.png",618 | Radio La Zona 90.5 FM || Lima; Perú
+https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=o2D0S1y545YAFFmdDQOk1vBoDNgjYLQn&sid=9cZ1dYUhDKAnSXVfoeMfAtr2daSU3SCr&uid=XdZtBNjlvwqQmvCdAwi592e8mL6tXEdK&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1632901372559&ot=fiyrFwrxIs5pBn7RFWQQHg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Ftodoradiosperu.com%2F
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/225px-Radio-Disney.png",619 | Radio Disney 91.1 FM || Lima; Perú
+https://20283.live.streamtheworld.com/DISNEY_PER_LM_SC
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo.jpg",620 | Radio PBO 91.9 FM || Lima; Perú
+https://streamingv2.shoutcast.com/pbo-radiofm?1632720178216
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_studio92.png",621 | Radio Studio 92 92.5 FM || Lima; Perú
+https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=N7Kt9AVFS5pXx8zALe8kUAy2w2KDSYac&sid=aImakKiyNM09Mn7NzmJV69oLUQvKe0dH&uid=DhyLihsgnb8wgjVIvB8gbMe95dwzRrfr&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1644900553939&ot=yshajNUBj0QXo5U0MqBRYg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Fradios.com.pe%2F
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://ritmoromantica.pe/assets/images/logo-ritmo-romantica.png",622 | Ritmo Romántica 93.1 FM || Lima; Perú
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://lainolvidable.pe/assets/images/logo-lainolvidable-2020.png",623 | Radio La Inolvidable 93.7 FM y 660 AM || Lima; Perú
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?dist=20001
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_corazon.png",624 | Radio Corazón 94.3 FM || Lima; Perú
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=MTBdKnXgdL0rMWyKuoxNsuO6hGEixgsV&sid=aImakKiyNM09Mn7NzmJV69oLUQvKe0dH&uid=DhyLihsgnb8wgjVIvB8gbMe95dwzRrfr&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1644900382175&ot=Ste_WjED56Nhthwc0M0laA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&referer=https%3A%2F%2Fradios.com.pe%2F
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/LOGO_RADIO_KARIBE%C3%91A.png/225px-LOGO_RADIO_KARIBE%C3%91A.png",625 | Radio La Karibeña 94.9 FM || Lima; Perú
+https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7442/;
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/LOGO-CON-SLOGAN1-e1513719885620.png/225px-LOGO-CON-SLOGAN1-e1513719885620.png",627 | Radio La Kalle 96.1 FM || Lima; Perú
+https://7.innovatestream.pe:2020/stream/lakalleoficial/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_lamega.png",628 | Radio La Mega 96.7 FM y 1470 AM || Lima; Perú
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=61e56819e0a91de6_2525916_o0RHblwF__0000008LfEZ&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=Qi96VNv4XEwozwo5rChmzveTPyuimQu8&sid=kNuMOtOgmwhd4cL8DRIc6DTUWuqlraxV&pid=iBx0AQXYwvOC9Pa2Rg6cDhWbAKkEY1pM&ref=audioplayer.pe&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1645036471875&ot=qLXlFIoFT3fp9aF1o_L9Ow&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.183
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Moda_2018.png/225px-Moda_2018.png",629 | Radio Moda 97.3 FM || Lima; Perú
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://moda.com.pe/assets/images/logo_modamas.png",630 | Radio Moda + || Lima; Perú
+https://18733.live.streamtheworld.com/CRP_MOD2_S01.mp3?csegid=1010&dist=1010&tdsdk=js-%40td&lat=-6&long=-77&pname=TDSdk&pversion=%40td&banners=300x250%2C728x90
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo-Onda.jpg/225px-Logo-Onda.jpg",631 | Radio Onda Cero 98.1 FM y 1160 AM || Lima; Perú
+https://streaming.gometri.com/stream/8011/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://radiosperu.net/sites/default/files/styles/116_x_116/public/radio/logos/logo-radio-doble-nueve.png?itok=IC3yv-Om",632 | Radio Doble Nueve 99.1 FM || Lima; Perú
+http://149.56.241.147:8004/stream?icy=http
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png",633 | Radio Oasis 100.1 FM || Lima; Perú
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://www.radiopanamericana.com/images/logo-pana_blanco.png",634 | Radio Panamericana 101.1 FM y 960 AM || Lima; Perú
+https://streaming.gometri.com/stream/8000/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_oxigeno.png",635 | Radio Oxígeno 102.1 FM || Lima; Perú
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c?aid=5faaeb72f92d7b07dfe10181&pid=i16WXPtE1C3GzxNLmv3YMXB8O0ZyA4QQ&sid=aImakKiyNM09Mn7NzmJV69oLUQvKe0dH&uid=DhyLihsgnb8wgjVIvB8gbMe95dwzRrfr&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1644900736111&ot=Oc41eTiib_0bHw34S_QBJg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Fradios.com.pe%2F
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Radio_filarmon%C3%ADa_2020.png/200px-Radio_filarmon%C3%ADa_2020.png",636 | Radio Filarmonía 102.7 FM || Lima; Perú
+http://c22.radioboss.fm:8100/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://radiounion.pe/imgs/radio_union_peru.png",637 | Radio Unión 103.3 FM y 880 AM || Lima; Perú
+https://tupanel.info:9180/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Logo_radio_nacional_per%C3%B9_2019.png/225px-Logo_radio_nacional_per%C3%B9_2019.png",638 | Radio Nacional del Perú 103.9 FM || Lima; Perú
+https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Radio_Am%C3%A9rica_Per%C3%BA_2021.png/250px-Radio_Am%C3%A9rica_Per%C3%BA_2021.png",639 | Radio América 104.7 FM || Lima; Perú
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8?listeningSessionID=6221b313eb6cd2c5_1699774_HZjG6feJ__0000005vrDv&downloadSessionID=0&aid=5b8ea6f89ff52d0770a144c4&dnt=true&uid=gcl6jHrQNCYjW2aeqW0nb2fXL33TJuqG&sid=RGgDqsqCNRZo9pgnNRTfzNE621wFzqXL&pid=CUHEKdaPzNcFr6QFFqmAwzLYiurhd5RN&ref=radioamerica.pe&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1648161841224&ot=xHK3jX8QeGd8q1Isljo5YQ&proto=https&pz=us&cP=128000&awCollectionId=5b8ea6f89ff52d0770a144c4&liveId=60bfd82b9488941e9d86eb1d&referer=https%3A%2F%2Fradioamerica.pe%2F&propertyName=appName&propertyType=web-app&propertyVersion=v0.0.169
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/25953.v22.png",640 | Radio La Ñ 105.5 FM || Lima; Perú
+https://node-30.zeno.fm/v83x1mqnnnruv?rj-ttl=5&rj-tok=AAABfGg7cF8AMFkIqh42CgzQVg
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png",641 | Radiomar 106.3 FM || Lima; Perú
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png",642 | Radio Nueva Q 107.1 FM || Lima; Perú
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Planeta_2012.png/225px-Planeta_2012.png",643 | Radio Planeta 107.7 FM || Lima; Perú
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="http://www.radioinca.com.pe/build/images/logo-inca.png",644 | Radio Incasat 540 AM || Lima; Perú
+https://19813.live.streamtheworld.com/CRP_INC_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oriente-lima.png",645 | Radio Oriente 560 AM || Lima; Perú
+http://radio.radiotel.net:9312/stream/1/
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="http://www.radiocordillera600am.com.pe/images/logo.jpg",647 | Radio Cordillera 600 AM || Lima; Perú
+https://node-24.zeno.fm/nn01m46fwa0uv?rj-ttl=5&rj-tok=AAABfELK4c0Aa33jK9pWPQhzfA
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRCUwSBmmkrj2dk2DZ_2nhJOeBJ18WczbN-r-tetw=s900-c-k-c0x00ffffff-no-rj",648 | Radio Ovación 620 AM || Lima; Perú
+https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/1/25521.v9.png",649 | Red Radio Integridad 700 AM || Lima; Perú
+https://dattavolt.com/8164/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="http://www.radiovictoria.com.pe/imgs/logo_4.png",651 | Radio Victoria 780 AM || Lima; Perú
+http://65.60.45.74:8156/;
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://www.radiolibertad.com.pe/wp-content/uploads/elementor/thumbs/logo-oy9txjgucti7d3xei4rmxj5yy0mtuy7dinuop8vrv4.jpg",652 | Radio Libertad 820 AM || Lima; Perú
+https://radio.pjcks.com/9972/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/cielo-lima.png",654 | Radio Cielo 1010 AM || Lima; Perú
+https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7342/;
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DVUYtwjYv9.jpg",656 | Radio Éxito 1060 AM || Lima; Perú
+http://67.212.179.138:7200/;stream/1
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="http://radiolaluz.com/wp-content/themes/laluz/images/logo_rad.png",657 | Radio La Luz 1080 AM || Lima; Perú
+http://radio.transmite.pe:9310/stream?icy=http
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://files.secure.website/wscfus/10124728/25671317/logo-cadena-2020-w300-o.png",659 | Nueva Cadena Radio 1200 AM || Lima; Perú
+http://radio.transmite.pe:9300/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/9/25939.v12.png",660 | Radio Comas 1300 AM || Lima; Perú
+http://65.60.2.26:8046/;
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://api.raddios.com/api/radios/723/image/miniaturamovil?2020-04-20%2010:38:56",661 | Radio Nuevo Tiempo 1380 AM || Lima; Perú
+https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://radiosantarosa.com.pe/wp-content/uploads/2019/02/c52.png",663 | Radio Santa Rosa 1500 AM || Lima; Perú
+https://securestream.conectarhosting.com:8136/live
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/milenia-lima.png",664 | Radio Milenia 1530 AM || Lima; Perú
+https://radio.pjcks.com/8020/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://radioindependencia.pe/images/logo.svg",665 | Radio Independencia 1550 AM || Lima; Perú
+https://sonic.dattassd.com/8172/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://bethelradio.fm/images/logo-bethel.svg",666 | Radio Bethel 1570 AM || Lima; Perú
+https://tampa.audio-stream.com/proxy/bethelra?mp=/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/mas-91-9.png",667 | Radio Cumbia Mix || Lima; Perú
+https://streaming.gometri.com/stream/8017/stream
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://radiointernacionaldelperu.com/wp-content/uploads/2021/12/cropped-logo-riperu2.png",668 | Radio Internacional del Perú || Lima; Perú
+https://node-03.zeno.fm/sd5dfgp4yg0uv?rj-ttl=5&rj-tok=AAABfl8IEBsA1hN8eLiCm9BwTg
+#EXTINF:-1 group-title="EMISORAS NACIONALES" tvg-logo="https://3.bp.blogspot.com/-teMEWPI32SI/Wdn7PKip4FI/AAAAAAAAKzk/GDcGMICWYvoVJZU9zJEn9S75w4pf__IoACLcBGAs/s1600/nueva-ola.jpg",671 | Radio Nueva Ola || Lima; Perú
+http://server06.srvsh.com.br:7358/stream/1/
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/9/29849.v4.png",672 | Radio Fabu 105.7 FM || ECUADOR
+http://radios-ec.cdn.nedmedia.io/radios/ec-fabu-gy.m3u8
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://radioecuantena.com/wp-content/uploads/2021/06/cropped-qqqqqq-2-e1624587750485.png",673 | Radio Ecuantena 1030 AM || ECUADOR
+https://online.radioecuantena.com:8443/transmision.mp3
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RCN_Radio_Colombia_logo.svg/250px-RCN_Radio_Colombia_logo.svg.png",674 | RCN Radio 93.9 FM || COLOMBIA
+https://21933.live.streamtheworld.com/RCN_RADIO_FMAAC.aac
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/W_Radio_Colombia_logo.svg/225px-W_Radio_Colombia_logo.svg.png",En prueba | W Radio 99.9 FM || COLOMBIA
+https://20833.live.streamtheworld.com/WRADIOAAC.aac
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caracol_Radio_logo.svg/1280px-Caracol_Radio_logo.svg.png",675 | Radio Caracol 100.9 FM || COLOMBIA
+https://19793.live.streamtheworld.com/CARACOL_RADIOAAC_SC
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antena_2_logo.svg/225px-Antena_2_logo.svg.png",676 | Antena 2 Radio 650 AM || COLOMBIA
+http://20823.live.streamtheworld.com/ANTENA_2_BOGAAC.aac
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://www.rcnmundo.com/wp-content/uploads/2016/01/aM60-701.png",677 | Radio Años Maravillosos || COLOMBIA
+https://21933.live.streamtheworld.com/ANOS_MARAVILLOSOS_BOGAAC.aac
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/48s2CFcwQF.png",En prueba | Unión Radio || VENEZUELA
+https://acp4.lorini.net/proxy/ur2080?mp=/stream
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/0/59730.v8.png",679 | Radio Caracas Radio || VENEZUELA
+http://acp2.lorini.net:1062/RCRenlace
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/estelar-fm-92-5.png",680 | Radio Estelar 92.5 FM || BOLIVIA
+https://turadioweb.net/radio/8070/radio
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://www.panamericana.bo/media/radiopanamerica/images/2021/01/01/2021010100000073897.png",681 | Radio Panamericana 96.1 FM || BOLIVIA
+https://node-10.zeno.fm/8n08k00zveruv?rj-ttl=5&aw_0_req_lsid=d3eb6028b1b90c267d3cbbc22c579110&acu-uid=630572328206&bsw-uid=1c193f44-9191-4b67-8b70-9a52bce372e6&cto-uid=bea7dd87-5a33-45a7-acad-c6a42ee0ccd2-61b426c0-5045&adt-uid=cuid_8ce542d3-5b27-11ec-8553-12
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://dah75mnh595dg.cloudfront.net/wp-content/uploads/sites/17/2021/10/04123733/Romantica-300x300.png",683 | Romántica 98.7 FM || NICARAGUA
+https://radios-nc.cdn.nedmedia.io/radios/nc/romantica.m3u8
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8G5gWG6Jqx.jpg",684 | Fabuestéreo 88.1 FM || GUATEMALA
+https://node-21.zeno.fm/9qt3nd2te0quv?rj-ttl=5&rj-tok=AAABfUMw5CwAR6Q_asRITIsfxg
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://emisorasunidas.com/wp-content/uploads/2020/12/logo-full-emisoras-unidas-190x60-1.png",685 | Radio Emisoras Unidas || GUATEMALA
+https://node-32.zeno.fm/eypgq8m08wquv?rj-ttl=5&rj-tok=AAABfUARHM4Akpk-cHiz5aAFGQ
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-gt/joya-guatemala.png",686 | Radio Joya 92.9 FM || GUATEMALA
+https://radios-gt.cdn.nedmedia.io/radios/gt/joya.m3u8
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://cdn-profiles.tunein.com/s138009/images/logod.png?t=156821",688 | Radio Panamericana 1030 AM || GUATEMALA
+http://server3.sit-mexico.com:8011/live
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://dbs.radioline.fr/pictures/radio_77ffed9be8fe88f1a6b4fc56810bb64e/logo200.jpg?size=600",688 | Radio México Internacional || MEXICO
+https://s2.mexside.net/8020/stream
+#EXTINF:-1 group-title="EMISORAS INTERNACIONALES" tvg-logo="https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2020/12/50thLogoSP.png",689 | BBN (Bible Broadcasting Network) Radio || ESTADOS UNIDOS
+https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+#EXTINF:-1 group-title="REGIONALES" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png",691 | Expresión Radio TV || Ilo
+https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693 | Stingray Music Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.2 | Stingray Music Greatest Hits
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.3 | Stingray Music Hit List
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.4 | Stingray Music Hot Country
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.6 | Stingray Music Hip-Hop/R&B
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.7 | Stingray Music Soul Storm
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.8 | Stingray Music Flashback 70's
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.9 | Stingray Music Remember The 80's
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.10 | Stingray Music Pop Adult
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.11 | Stingray Music Rock Alternative
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.12 | Stingray Music Today's Latin Pop
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1 group-title="CANALES DE AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.13 | Stingray Music Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 group-title="CANALES DE VIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",693.14 | Stingray Music Djazz
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
