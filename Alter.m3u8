@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 group-title="NIÑOS Y JOVENES" tvg-logo="https://e1.pngegg.com/pngimages/669/354/png-clipart-los-simpsons-1-texto-p-the -simpsons-text.png",Los Simpson | Chile
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",MovieMax HD
+http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",OuterMax HD
+http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Canal Film 03
+http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",HBO FAMILY
+http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN
+http://200.24.132.99:8000/play/a022
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN 2
+http://200.24.132.99:8000/play/a01v
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN 2 Latino
+http://200.24.132.99:8000/play/a021
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN 3
+http://200.24.132.99:8000/play/a02w
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN CO
+http://200.24.132.99:8000/play/a02m
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Fox Sports
+http://200.24.132.99:8000/play/a02f
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Fox Sports 2
+http://200.24.132.99:8000/play/a028
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Fox Sports 3
+http://200.24.132.99:8000/play/a029
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",GOL TV
+http://200.24.132.99:8000/play/a023
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TyC
+http://200.24.132.99:8000/play/a024
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",A&E
+http://200.24.132.99:8000/play/a025
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",AXN
+http://200.24.132.99:8000/play/a02p
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Animal Planet
+http://200.24.132.99:8000/play/a01y
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",CNN Español
+http://200.24.132.99:8000/play/a01q
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Canal Estrellas
+http://200.24.132.99:8000/play/a027
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Cartoon Network
+http://200.24.132.99:8000/play/a01m
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Cinecanal
+http://200.24.132.99:8000/play/a01f
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Cinemax
+http://200.24.132.99:8000/play/a02n
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Discovery Channel
+http://200.24.132.99:8000/play/a01x
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Discovery H&H
+http://200.24.132.99:8000/play/a02e
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Discovery Kids
+http://200.24.132.99:8000/play/a01s
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Discovery Turbo
+http://200.24.132.99:8000/play/a02u
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Disney Channel
+http://200.24.132.99:8000/play/a01w
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Disney Jr
+http://200.24.132.99:8000/play/a01u
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Disney XD
+http://200.24.132.99:8000/play/a01c
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",E Entretenimiento
+http://200.24.132.99:8000/play/a020
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",FX
+http://200.24.132.99:8000/play/a02r
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",FX Movies
+http://200.24.132.99:8000/play/a01t
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",History Channel
+http://200.24.132.99:8000/play/a01e
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",I-Sat
+http://200.24.132.99:8000/play/a01h
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",MTV
+http://200.24.132.99:8000/play/a01i
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Nat Geo
+http://200.24.132.99:8000/play/a01d
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Nat Geo Kids
+http://200.24.132.99:8000/play/a01l
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Nick Jr
+http://200.24.132.99:8000/play/a02t
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Nickelodeon
+http://200.24.132.99:8000/play/a01b
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Sony
+http://200.24.132.99:8000/play/a02o
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Espacio
+http://200.24.132.99:8000/play/a02q
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TBS
+http://200.24.132.99:8000/play/a02d
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TCM
+http://200.24.132.99:8000/play/a01k
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TNT
+http://200.24.132.99:8000/play/a01n
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Francia 24
+http://200.24.132.99:8000/play/a02c
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TVE
+http://200.24.132.99:8000/play/a01p
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Telemundo
+http://200.24.132.99:8000/play/a02a
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Universal
+http://200.24.132.99:8000/play/a01g
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Warner Channel
+http://200.24.132.99:8000/play/a01z
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Zona Latina
+http://200.24.132.99:8000/play/a01j
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Ecuador TV
+http://200.24.132.99:8000/play/a02g
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",Ecuavisa
+http://200.24.132.99:8000/play/a02k
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",GamaTV
+http://200.24.132.99:8000/play/a02h
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",RTS
+http://200.24.132.99:8000/play/a02s
+#EXTINF:-1 group-title="TOTALPLAY-IZZI-SKY-DISH",TC Televisión
+http://200.24.132.99:8000/play/a00m
