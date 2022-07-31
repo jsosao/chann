@@ -5,8 +5,6 @@ http://190.92.95.37:8000/play/a0qe/index.m3u8
 http://190.92.95.37:8000/play/a0pg/index.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s4.png",AZTECA MUNDO
 http://190.92.95.37:8000/play/a0s4/index.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0to.png",CANAL 6
-http://190.92.95.37:8000/play/a0to/index.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0np.png",CANAL DEL CONGRESO
 http://190.92.95.37:8000/play/a0np/index.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pc.png",CCN
@@ -137,8 +135,6 @@ http://190.92.95.37:8000/play/a0r1/index.m3u8
 http://190.92.95.37:8000/play/a0nt/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sl.png",CINECANAL
 http://190.92.95.37:8000/play/a0sl/index.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sh.png",CLARO CINEMA
-http://190.92.95.37:8000/play/a0sh/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r4.png",FX
 http://190.92.95.37:8000/play/a0r4/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qa.png",FX HD
@@ -195,10 +191,6 @@ http://190.92.95.37:8000/play/a0o1/index.m3u8
 http://190.92.95.37:8000/play/a0pp/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pt.png",BBC WORLD
 http://190.92.95.37:8000/play/a0pt/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oy.png",CANAL CLARO
-http://190.92.95.37:8000/play/a0oy/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oo.png",CANAL CLARO HD
-http://190.92.95.37:8000/play/a0oo/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0su.png",COMEDY CENTRAL
 http://190.92.95.37:8000/play/a0su/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s7.png",E!
@@ -323,10 +315,6 @@ http://190.92.95.37:8000/play/a0p9/index.m3u8
 http://190.92.95.37:8000/play/a0q1/index.m3u8
 #EXTINF:-1 group-title="Animación" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s3.png",TOONCAST
 http://190.92.95.37:8000/play/a0s3/index.m3u8
-#EXTINF:-1 group-title="Música" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0re.png",CLARO MUSICA
-http://190.92.95.37:8000/play/a0re/index.m3u8
-#EXTINF:-1 group-title="Música" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oq.png",CONCERT CHANNEL
-http://190.92.95.37:8000/play/a0oq/index.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sg.png",EXA TV
 http://190.92.95.37:8000/play/a0sg/index.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pz.png",MTV
@@ -343,12 +331,6 @@ http://190.92.95.37:8000/play/a0pn/index.m3u8
 http://190.92.95.37:8000/play/a0sv/index.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0so.png",NICK SIM HD
 http://190.92.95.37:8000/play/a0so/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0on.png",CLARO SPORTS  HD
-http://190.92.95.37:8000/play/a0on/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o2.png",CLARO SPORTS PAN
-http://190.92.95.37:8000/play/a0o2/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ra.png",CLARO SPORTS SD
-http://190.92.95.37:8000/play/a0ra/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0se.png",ESPN
 http://190.92.95.37:8000/play/a0se/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0py.png",ESPN  +
@@ -377,8 +359,6 @@ http://190.92.95.37:8000/play/a0o3/index.m3u8
 http://190.92.95.37:8000/play/a0qg/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rd.png",LATIN AMERICAN SPORT
 http://190.92.95.37:8000/play/a0rd/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0tn.png",SKY SPORTS MAIN EVENT
-http://190.92.95.37:8000/play/a0tn/index.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ps.png",CNN
 http://190.92.95.37:8000/play/a0ps/index.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o7.png",CNN INTERNACIONAL
