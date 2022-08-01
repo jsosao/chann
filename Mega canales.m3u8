@@ -5,54 +5,40 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 https://canal10.mediaflix.istream.mx/wza_live/live/tvlive1/chunklist_w69929575.m3u8
 #EXTINF:-1 group-title="CANCUN" tvg-logo="https://sipse.com/images/footer/logo-sipse.png",SIPSE TV CANCUN
 https://webprod.sipse.com.mx:8080/show/tvcun_low.m3u8
-#EXTINF:-1 group-title="CANCUN" tvg-logo="https://sipse.com/images/footer/logo-sipse.png",SIPSE TV MERIDA
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
-#EXTINF:-1 group-title="MX prueba",Azteca 1 tw
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.twitch.tv/azt_13vv
+#EXTINF:-1 group-title="CANCUN" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sqcs-canal-4-mx.png",CANAL 4 SQCS
+https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/playlist.m3u8
+#EXTINF:-1 group-title="CANCUN" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sqcs-canal-4-mx.png",CANAL 4 SQCS 2
+https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/playlist.m3u8?&specifc_header="Referer:https://conceptoweb-studio.com/"
 #EXTINF:-1 group-title="MX prueba",once
 https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
-#EXTINF:-1 group-title="MX prueba",HBO
-http://190.171.101.36:80/HBO/tracks-v3a2/mono.m3u8
-#EXTINF:-1 group-title="MX prueba",CINECANAL
-http://190.171.101.36:80/Cinecanal/tracks-v3a2/mono.m3u8
-#EXTINF:-1 group-title="MX prueba",CINEMAX
-http://190.171.101.36:80/Cinemax/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="MX prueba",CINEMA PLUS
-http://190.171.101.36:80/CinemaPlus/index.m3u8
-#EXTINF:-1 group-title="MX prueba",Universal
-http://190.171.101.36:80/Universal/index.m3u8
-#EXTINF:-1 group-title="MX prueba",Warner
-http://190.171.101.36:80/Warner/index.m3u8
 #EXTINF:-1 group-title="MX prueba",TLC
-http://190.171.101.36:80/TLC/index.m3u8
-#EXTINF:-1 group-title="MX prueba",MTV
-http://190.171.101.36:80/MTV/index.m3u8
-#EXTINF:-1 group-title="MX prueba",CNN internacional
-http://190.171.101.36:80/CNNint/tracks-v3a1/mono.m3u8
+http://190.171.101.36/TLC/index.m3u8?token=ADM1-1659290766-b2024158a8e8bd35ca24ddc65a16e6b199e6fa78
+#EXTINF:-1 group-title="MX prueba",CNN Español
+http://190.171.101.36/CNN/index.m3u8?token=ADM1-1659291007-74e5b4871adfefeaf0f42a18956a230fc9420dab
 #EXTINF:-1 group-title="MX prueba",Bloomberg
-http://190.171.101.36:80/Bloomberg/tracks-v3a1/mono.m3u8
+http://190.171.101.36/Bloomberg/index.m3u8?token=ADM1-1659290914-acae1c4be6e98c8fdee57691b0e864316a3f2f10
 #EXTINF:-1 group-title="MX prueba",Cala Weather
-http://190.171.101.36:80/CalaWeather/index.m3u8
+http://190.171.101.36/CalaWeather/index.m3u8?token=ADM1-1659290957-061e392c11588337295fdd4bbcebc1e77dcdf968
 #EXTINF:-1 group-title="MX prueba",BBC WORLD
-http://190.171.101.36:80/BBC/tracks-v3a1/mono.m3u8
+http://190.171.101.36/BBC/index.m3u8?token=ADM1-1659291079-32b20925d17bf688b598f6042103d640e30a2e30
 #EXTINF:-1 group-title="MX prueba",RAI Italia
-http://190.171.101.36:80/Rail/tracks-v3a1/mono.m3u8
+http://190.171.101.36/Rail/index.m3u8?token=ADM1-1659291123-82f9a51b0f5255d7faa0298e4af7fad98477613d
 #EXTINF:-1 group-title="MX prueba",TV5 Monde
-http://190.171.101.36:80/TV5/tracks-v3a1/mono.m3u8
+http://190.171.101.36/TV5/index.m3u8?token=ADM1-1659291161-a9cb6822c3d21a997fd262cbaa575697a18492a0
 #EXTINF:-1 group-title="MX prueba",TD+ Costa Rica
-http://190.171.101.36:80/TD2/tracks-v3a1/mono.m3u8
+http://190.171.101.36/TD2/index.m3u8?token=ADM1-1659291194-84fd5abb62fbef72467d2fcfdf37e92d3168046b
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19158/s17725_h3_aa.png?w=55",ESPN
 http://190.61.102.67:31589/play/a064/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/37747/s88735_h3_aa.png?w=55",ESPN 2
 http://190.61.102.67:31589/play/a063/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79042/s73833_h3_aa.png?w=55",ESPN 3 MX
 http://190.61.102.67:31589/play/a03n/index.m3u8
-#EXTINF:-1 group-title="MEXICO",DirecTV Sports
-http://190.61.102.67:31589/play/a08m/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn.png",TUDN MX
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/115713/s115713_h3_aa.png?w=55",Claro Sports MX
 http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/being_sports_en_espanol.png",Bein Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8?
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19384/s71148_h3_aa.png?w=55",TNT MX
 http://190.61.102.67:31589/play/a018/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60801/s16499_h3_aa.png?w=55",Space MX
@@ -103,10 +89,16 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15232/s116168_h3_aa.png?w=55",Canal 22-2
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo.png",Telemundo US
+http://100.35.13.224:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/87914/s90518_h3_aa.png?w=55",canal 14 CDMX
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv.png",MEXIQUENSE
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision.png",Univision
+http://100.35.13.224:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.teleblanca.com/img/unimas.png",UniMas
+http://100.35.13.224:8000/play/a08b/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/unicable.png",Unicable
 http://190.61.102.67:31589/play/a08f/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/estrella_tv.png",estrella tv roku
@@ -138,301 +130,265 @@ https://estrellanews-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://www.grupotvcable.com.mx/canales/tvmas.png",RTV veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Az UNO
-http://187.171.246.131:9000/play/a004/index.m3u8
+http://54.215.227.94:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",CANAL DE LAS ESTRELLAS
-http://187.171.246.131:9000/play/a037/index.m3u8
+http://54.215.227.94:8000/play/a0d4/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Imagen
-http://187.171.246.131:9000/play/a038/index.m3u8
+http://54.215.227.94:8000/play/a0d5/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Cinco
-http://187.171.246.131:9000/play/a00z/index.m3u8
+http://54.215.227.94:8000/play/a0fl/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Az Siete
-http://187.171.246.131:9000/play/a039/index.m3u8
+http://54.215.227.94:8000/play/a0fm/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Multimedios
-http://187.171.246.131:9000/play/a010/index.m3u8
+http://54.215.227.94:8000/play/a0bp/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",ONCE
-http://187.171.246.131:9000/play/a011/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",Canal 14
-http://187.171.246.131:9000/play/a02m/index.m3u8
+http://54.215.227.94:8000/play/a0bq/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Canal22
-http://187.171.246.131:9000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",UNAM
-http://187.171.246.131:9000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",Judicial
-http://187.171.246.131:9000/play/a035/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",IngenioTV
-http://187.171.246.131:9000/play/a030/index.m3u8
+http://54.215.227.94:8000/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Milenio
-http://187.171.246.131:9000/play/a03p/index.m3u8
+http://54.215.227.94:8000/play/a0dm/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",teleformula
-http://187.171.246.131:9000/play/a033/index.m3u8
+http://54.215.227.94:8000/play/a0be/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",CNNE
-http://187.171.246.131:9000/play/a03o/index.m3u8
+http://54.215.227.94:8000/play/a0dl/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",RT
-http://187.171.246.131:9000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",TVC
-http://187.171.246.131:9000/play/a034/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",MVSTV
-http://187.171.246.131:9000/play/a012/index.m3u8
+http://54.215.227.94:8000/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="DISH MX 2",ESPN+
+http://54.215.227.94:8000/play/a0kf/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",ESPN
-http://187.171.246.131:9000/play/a01v/index.m3u8
+http://54.215.227.94:8000/play/a091/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",ESPN 2
-http://187.171.246.131:9000/play/a01w/index.m3u8
+http://54.215.227.94:8000/play/a092/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",ESPN 3
-http://187.171.246.131:9000/play/a01e/index.m3u8
+http://54.215.227.94:8000/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Claro Sport
-http://187.171.246.131:9000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",GOLF channel
-http://187.171.246.131:9000/play/a06f/index.m3u8
+http://54.215.227.94:8000/play/a0cm/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",A&E
-http://187.171.246.131:9000/play/a016/index.m3u8
+http://54.215.227.94:8000/play/a0bv/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",ANIMAL PLANET
-http://187.171.246.131:9000/play/a03z/index.m3u8
+http://54.215.227.94:8000/play/a0ao/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Antena 3 int
-http://187.171.246.131:9000/play/a015/index.m3u8
+http://54.215.227.94:8000/play/a0bu/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Arts
-http://187.171.246.131:9000/play/a031/index.m3u8
+http://54.215.227.94:8000/play/a0bc/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",AXN
-http://187.171.246.131:9000/play/a01q/index.m3u8
+http://54.215.227.94:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="DISH MX 2",AMC
+http://54.215.227.94:8000/play/a0k8/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",CartoonNetwork
-http://187.171.246.131:9000/play/a01b/index.m3u8
+http://54.215.227.94:8000/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",CINELATINO
-http://187.171.246.131:9000/play/a01n/index.m3u8
+http://54.215.227.94:8000/play/a08u/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",CINECANAL
-http://187.171.246.131:9000/play/a00i/index.m3u8
+http://54.215.227.94:8000/play/a0cq/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",CINEMAX
-http://187.171.246.131:9000/play/a01x/index.m3u8
+http://54.215.227.94:8000/play/a093/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",COMEDY CENTRAL
-http://187.171.246.131:9000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",Congreso
-http://187.171.246.131:9000/play/a061/index.m3u8
+http://54.215.227.94:8000/play/a0b3/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Discovery
-http://187.171.246.131:9000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",DH&H
-http://187.171.246.131:9000/play/a017/index.m3u8
+http://54.215.227.94:8000/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Discovery kids
-http://187.171.246.131:9000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",Discovery Science
-http://187.171.246.131:9000/play/a06a/index.m3u8
+http://54.215.227.94:8000/play/a0an/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Discovery Turbo
-http://187.171.246.131:9000/play/a01f/index.m3u8
+http://54.215.227.94:8000/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="DISH MX 2",DISNEY CHANNEL
+http://54.215.227.94:8000/play/a0al/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",DisneyJR
-http://187.171.246.131:9000/play/a01a/index.m3u8
+http://54.215.227.94:8000/play/a0bz/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",E!
-http://187.171.246.131:9000/play/a019/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",EXE TV
-http://187.171.246.131:9000/play/a03b/index.m3u8
+http://54.215.227.94:8000/play/a0by/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",FX
-http://187.171.246.131:9000/play/a01r/index.m3u8
+http://54.215.227.94:8000/play/a08x/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",HBO
-http://187.171.246.131:9000/play/a01g/index.m3u8
+http://54.215.227.94:8000/play/a0c5/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",HBO +
-http://187.171.246.131:9000/play/a00o/index.m3u8
+http://54.215.227.94:8000/play/a0cv/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",HBO 2
-http://187.171.246.131:9000/play/a00m/index.m3u8
+http://54.215.227.94:8000/play/a0ct/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",HBO FAMILY
-http://187.171.246.131:9000/play/a00n/index.m3u8
+http://54.215.227.94:8000/play/a0cu/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",HBO XTREME
-http://187.171.246.131:9000/play/a01z/index.m3u8
+http://54.215.227.94:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",htv
-http://187.171.246.131:9000/play/a02w/index.m3u8
+http://54.215.227.94:8000/play/a0b7/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",History
-http://187.171.246.131:9000/play/a040/index.m3u8
+http://54.215.227.94:8000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",History2
-http://187.171.246.131:9000/play/a03m/index.m3u8
+http://54.215.227.94:8000/play/a0dj/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",HOLA
-http://187.171.246.131:9000/play/a03e/index.m3u8
+http://54.215.227.94:8000/play/a0db/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Investigation Discovery
-http://187.171.246.131:9000/play/a009/index.m3u8
+http://54.215.227.94:8000/play/a0ch/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Lifetime
-http://187.171.246.131:9000/play/a00a/index.m3u8
+http://54.215.227.94:8000/play/a0ci/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",MC
-http://187.171.246.131:9000/play/a005/index.m3u8
+http://54.215.227.94:8000/play/a0co/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",MultiPremiere
-http://187.171.246.131:9000/play/a006/index.m3u8
+http://54.215.227.94:8000/play/a0cp/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",NatGeo
-http://187.171.246.131:9000/play/a00d/index.m3u8
+http://54.215.227.94:8000/play/a0cl/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Nick Music
-http://187.171.246.131:9000/play/a03i/index.m3u8
+http://54.215.227.94:8000/play/a0df/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",NICKELODEON
-http://187.171.246.131:9000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="DISH MX 2",OnceKids
-http://187.171.246.131:9000/play/a02x/index.m3u8
+http://54.215.227.94:8000/play/a0am/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Paramount
-http://187.171.246.131:9000/play/a00k/index.m3u8
+http://54.215.227.94:8000/play/a0cs/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",SONY
-http://187.171.246.131:9000/play/a03u/index.m3u8
+http://54.215.227.94:8000/play/a0aj/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Space MX
-http://187.171.246.131:9000/play/a008/index.m3u8
+http://54.215.227.94:8000/play/a0cg/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",START
-http://187.171.246.131:9000/play/a01p/index.m3u8
+http://54.215.227.94:8000/play/a08v/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",StudioUniversal
-http://187.171.246.131:9000/play/a036/index.m3u8
+http://54.215.227.94:8000/play/a0bh/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",TBS
-http://187.171.246.131:9000/play/a03f/index.m3u8
+http://54.215.227.94:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="DISH MX 2",TELERRITMO
+http://54.215.227.94:8000/play/a0em/index.m3u8
+#EXTINF:-1 group-title="DISH MX 2",TLC
+http://54.215.227.94:8000/play/a0bx/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",TNT
-http://187.171.246.131:9000/play/a041/index.m3u8
+http://54.215.227.94:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",TNTSE
-http://187.171.246.131:9000/play/a03d/index.m3u8
+http://54.215.227.94:8000/play/a0da/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Universal
-http://187.171.246.131:9000/play/a014/index.m3u8
+http://54.215.227.94:8000/play/a0bt/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",VideRola
-http://187.171.246.131:9000/play/a02u/index.m3u8
+http://54.215.227.94:8000/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Warner
-http://187.171.246.131:9000/play/a007/index.m3u8
+http://54.215.227.94:8000/play/a0cf/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Venus
-http://187.171.246.131:9000/play/a024/index.m3u8
+http://54.215.227.94:8000/play/a09b/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",Sextreme
-http://187.171.246.131:9000/play/a04v/index.m3u8
+http://54.215.227.94:8000/play/a09c/index.m3u8
 #EXTINF:-1 group-title="DISH MX 2",playboy
-http://187.171.246.131:9000/play/a023/index.m3u8
+http://54.215.227.94:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+",24 HORAS
+http://46.6.2.234:9981/stream/channelid/1383168368?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",LA 1 HD
-http://admin:admin@185.255.105.190:9981/stream/channelid/1355872208?profile=pass
-#EXTINF:-1 group-title="MOVISTAR+",LA 1
-http://admin:admin@185.255.105.190:9981/stream/channelid/1209693417?profile=pass
+http://46.6.2.234:9981/stream/channelid/302063504?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",LA 2
-http://admin:admin@185.255.105.190:9981/stream/channelid/1274246449?profile=pass
+http://46.6.2.234:9981/stream/channelid/1648533214?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",ANTENA 3 HD
-http://admin:admin@185.255.105.190:9981/stream/channelid/1625703838?profile=pass
-#EXTINF:-1 group-title="MOVISTAR+",ANTENA 3
-http://admin:admin@185.255.105.190:9981/stream/channelid/484506323?profile=pass
+http://46.6.2.234:9981/stream/channelid/1156409477?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",CUATRO HD
-http://admin:admin@185.255.105.190:9981/stream/channelid/166369105?profile=pass
-#EXTINF:-1 group-title="MOVISTAR+",CUATRO
-http://admin:admin@185.255.105.190:9981/stream/channelid/14317791?profile=pass
+http://46.6.2.234:9981/stream/channelid/1556451462?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",TELECINCO HD
-http://admin:admin@185.255.105.190:9981/stream/channelid/741505684?profile=pass
-#EXTINF:-1 group-title="MOVISTAR+",LA SEXTA
-http://admin:admin@185.255.105.190:9981/stream/channelid/1306874149?profile=pass
+http://46.6.2.234:9981/stream/channelid/1903545876?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",LA SEXTA HD
+http://46.6.2.234:9981/stream/channelid/1437405015?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",M. LaLiga
+http://46.6.2.234:9981/stream/channelid/740946990?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",M+LCAMPEONES
+http://46.6.2.234:9981/stream/channelid/1017111942?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",DAZN F1 HD
+http://46.6.2.234:9981/stream/channelid/2012969964?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",DAZN 1 HD
+http://46.6.2.234:9981/stream/channelid/1981076763?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",GOL
-http://admin:admin@185.255.105.190:9981/stream/channelid/303079784?profile=pass
-#EXTINF:-1 group-title="MOVISTAR+",MEGA
-http://admin:admin@185.255.105.190:9981/stream/channelid/1539743073?profile=pass
+http://46.6.2.234:9981/stream/channelid/447306776?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",TELEDEPORTE
+http://46.6.2.234:9981/stream/channelid/511856365?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",EUROSPORT 1
+http://46.6.2.234:9981/stream/channelid/364280129?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",EUROSPORT 2
+http://46.6.2.234:9981/stream/channelid/1571166808?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",R. MADRID TV
+http://46.6.2.234:9981/stream/channelid/865133198?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",M.ESTRENOSHD
+http://46.6.2.234:9981/stream/channelid/64266989?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",M. Cine Español
+http://46.6.2.234:9981/stream/channelid/1067388698?profile=pass
+#EXTINF:-1 ,#0
+http://46.6.2.234:9981/stream/channelid/1932509516?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",NOVA
-http://admin:admin@185.255.105.190:9981/stream/channelid/24535891?profile=pass
+http://46.6.2.234:9981/stream/channelid/658879396?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",NEOX
-http://admin:admin@185.255.105.190:9981/stream/channelid/2123423016?profile=pass
+http://46.6.2.234:9981/stream/channelid/1038432234?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",PARAMOUNT
+http://46.6.2.234:9981/stream/channelid/54098474?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",BE MAD
-http://admin:admin@185.255.105.190:9981/stream/channelid/1016586779?profile=pass
+http://46.6.2.234:9981/stream/channelid/998506179?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",FDF
-http://admin:admin@185.255.105.190:9981/stream/channelid/2030498448?profile=pass
+http://46.6.2.234:9981/stream/channelid/1583941609?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",ENERGY
-http://admin:admin@185.255.105.190:9981/stream/channelid/1864579748?profile=pass
+http://46.6.2.234:9981/stream/channelid/2040628743?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",DIVINITY
-http://admin:admin@185.255.105.190:9981/stream/channelid/743019754?profile=pass
+http://46.6.2.234:9981/stream/channelid/1253713236?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",BOING
-http://admin:admin@185.255.105.190:9981/stream/channelid/1307900108?profile=pass
+http://46.6.2.234:9981/stream/channelid/1657928134?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+",CLAN  TVE
-http://admin:admin@185.255.105.190:9981/stream/channelid/1551382891?profile=pass
-#EXTINF:-1 group-title="MOVISTAR+ 2",24 HORAS
-http://37.14.124.79:2222/stream/channelid/368376231?ticket=6C6B3CFFA2CE5A14F7DAD954D9772045FD12D5AA&profile=pass
+http://46.6.2.234:9981/stream/channelid/174548912?profile=pass
+#EXTINF:-1 group-title="MOVISTAR+",DISNEY CH HD
+http://46.6.2.234:9981/stream/channelid/676019962?profile=pass
 #EXTINF:-1 group-title="MOVISTAR+ 2",LA 1 HD
-http://37.14.124.79:2222/stream/channelid/799408019?ticket=18815C2DA6896945D8C44BA9BFD1487D013A320F&profile=pass
+http://2.82.202.9:9981/stream/channelid/90958334?ticket=E8DEF996088EFCEE1C597EF84A6A8AB5EA885617&profile=pass
 #EXTINF:-1 group-title="MOVISTAR+ 2",LA 2
-http://37.14.124.79:2222/stream/channelid/185786303?ticket=8854A4F3EB457D072BDB82AB844E9DB4CE1BCAC1&profile=pass
+http://2.82.202.9:9981/stream/channelid/922364871?ticket=E7B1940BC3F994839D76B00132E24A5B6459FD6C&profile=pass
 #EXTINF:-1 group-title="MOVISTAR+ 2",ANTENA 3 HD
-http://37.14.124.79:2222/stream/channelid/1550666681?ticket=2A1DF4014737A8A5B5887FD940B1C44354133626&profile=pass
+http://2.82.202.9:9981/stream/channelid/330518987?ticket=37B4EC9AEE1C0893EE33FDD9D118A4C6D2281AD6&profile=pass
 #EXTINF:-1 group-title="MOVISTAR+ 2",CUATRO HD
-http://37.14.124.79:2222/stream/channelid/810252334?ticket=F1359C0778B225CD252C88F3EDC28D098AEB50E5&profile=pass
+http://2.82.202.9:9981/stream/channelid/1246466876?ticket=78850222D8C5DF1D332DDC8830AF776975ADBD0A&profile=pass
 #EXTINF:-1 group-title="MOVISTAR+ 2",TELECINCO HD
-http://37.14.124.79:2222/stream/channelid/559432969?ticket=163F0FBF3399CD85B46A1A5A4E8B2BE98329F926&profile=pass
+http://2.82.202.9:9981/stream/channelid/1629741483?ticket=9C9E4FB46179C968695AE85ECC09E77013091D43&profile=pass
 #EXTINF:-1 group-title="MOVISTAR+ 2",LA SEXTA HD
-http://37.14.124.79:2222/stream/channelid/1787081298?ticket=1CA315C7D02360CCF559F3CDEB5A84AE071781AA&profile=pass
+http://2.82.202.9:9981/stream/channelid/1427296878?ticket=E15DA773639B9AF1ADD32E973EFBBAC10C6159E4&profile=pass
 #EXTINF:-1 group-title="MOVISTAR+ 2",M. LaLiga
-http://37.14.124.79:2222/stream/channelid/1595164590?ticket=EDB7D516D873BC4D445ADCE949C7FED63450F984&profile=pass
-#EXTINF:-1 group-title="MOVISTAR+ 2",M. LaLiga 2
-http://37.14.124.79:2222/stream/channelid/298912465?ticket=851D72164178F5421399A0337F54F84670E19842&profile=pass
-#EXTINF:-1 group-title="MOVISTAR+ 2",M+LCAMPEONES
-http://37.14.124.79:2222/stream/channelid/813559271?ticket=76C4C7C9C13DBE158AD6AA3BF02ED8952076F96D&profile=pass
+http://2.82.202.9:9981/stream/channelid/616775248?ticket=7059DE743E1B389C01313187A3E5020224DFD362&profile=pass
 #EXTINF:-1 group-title="MOVISTAR+ 2",DAZN F1
-http://37.14.124.79:2222/stream/channelid/1527357638?ticket=179373768609C51A4B46F168A69DFC05312D045D&profile=pass
-#EXTINF:-1 group-title="MOVISTAR+ 2",GOL
-http://37.14.124.79:2222/stream/channelid/631540703?ticket=E0F779C198DEE88DDE54715889E0C3A95D3C84E1&profile=pass
-#EXTINF:-1 group-title="MOVISTAR+ 2",TELEDEPORTE
-http://37.14.124.79:2222/stream/channelid/760140154?ticket=6B6BE9F9FC6CF1E481B8BECE63139C6D6070769E&profile=pass
+http://2.82.202.9:9981/stream/channelid/1921862648?ticket=2CD3B9C3CE80BAAF1A6B3DF0ABB91541815CC3D2&profile=pass
+#EXTINF:-1 group-title="MOVISTAR+ 2",DAZN 1
+http://2.82.202.9:9981/stream/channelid/1041855216?ticket=E277A81A4F0C885A4A85EA6BCF53B07F19FBFB09&profile=pass
+#EXTINF:-1 group-title="MOVISTAR+ 2",M.DEPORTES
+http://2.82.202.9:9981/stream/channelid/710174377?ticket=859F4F17FB3333F2A7C1FE3FE0D38E08A0CFF2EC&profile=pass
+#EXTINF:-1 ,#VAMOS
+http://2.82.202.9:9981/stream/channelid/19388678?ticket=1732CD6D1179FD38B593BC98CA751BA22456CF2D&profile=pass
 #EXTINF:-1 group-title="MOVISTAR+ 2",EUROSPORT 1
-http://37.14.124.79:2222/stream/channelid/1918837017?ticket=1D633929B9678830B9E60B7981B5047ED33A1FEA&profile=pass
-#EXTINF:-1 group-title="MOVISTAR+ 2",EUROSPORT 2
-http://37.14.124.79:2222/stream/channelid/1806250842?ticket=A847BCE143A3970371F27B2C7A0A3783B5AE3CF4&profile=pass
-#EXTINF:-1 group-title="MOVISTAR+ 2",ENERGY
-http://37.14.124.79:2222/stream/channelid/979970232?ticket=B45691AD4B43DD1E0C41A56B0F3C534D6A1EE710&profile=pass
-#EXTINF:-1 group-title="MOVISTAR+ 2",DIVINITY
-http://37.14.124.79:2222/stream/channelid/422916489?ticket=DAC097CC588407AC5CE27357083B533E3D2A8BC6&profile=pass
-#EXTINF:-1 group-title="TDT",GOL
-http://83.32.21.250:9981/stream/channelid/311754864?profile=pass
-#EXTINF:-1 group-title="TDT",DMAX
-http://83.32.21.250:9981/stream/channelid/1002049751?profile=pass
-#EXTINF:-1 group-title="TDT",PARAMOUNT NETWORK
-http://83.32.21.250:9981/stream/channelid/74491556?profile=pass
-#EXTINF:-1 group-title="TDT",Disney Channel
-http://83.32.21.250:9981/stream/channelid/1551404153?profile=pass
-#EXTINF:-1 group-title="TDT España",La 1 -2h geo
-https://v4.notabilus.com/libraries/miniProxy/miniProxy.php/https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_360.m3u8
-#EXTINF:-1 group-title="TDT España",la 1 cataluña geo
-https://v4.notabilus.com/libraries/miniProxy/miniProxy.php/https://rtvelivestreamv3.akamaized.net/cat/la1_cat_main_dvr_360.m3u8
+http://2.82.202.9:9981/stream/channelid/325934169?ticket=39BCD9D1D27BE9C128606CC38FBE20BA239DA7B3&profile=pass
+#EXTINF:-1 group-title="MOVISTAR+ 2",M.ESTRENOSHD
+http://2.82.202.9:9981/stream/channelid/578721210?ticket=26F1D254F0C889A162FF2351775A12E1375449AB&profile=pass
+#EXTINF:-1 group-title="TDT España",La 1 geo
+https://v4.notabilus.com/libraries/miniProxy/miniProxy.php/https://rtvelivestream.akamaized.net/segments/la1/la1_main_360.m3u8
 #EXTINF:-1 group-title="TDT España",La 2 geo
-https://v4.notabilus.com/libraries/miniProxy/miniProxy.php/https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_dvr_576.m3u8
+https://v4.notabilus.com/libraries/miniProxy/miniProxy.php/https://rtvelivestream.akamaized.net/segments/la2/la2_main_360.m3u8
+#EXTINF:-1 group-title="TDT España",Antena 3
+http://ott.riotelecomm.es:4512/m3u8/ANTENA3HD.m3u8
 #EXTINF:-1 group-title="TDT España",Cuatro
-http://79.148.188.246:9981/stream/channelid/1525913975?ticket=644634E88FC50CF68DF8882B4619393ACD70401D&profile=pass
-#EXTINF:-1 group-title="TDT España",Telecinco
-http://79.148.188.246:9981/stream/channelid/1161276684?ticket=AA59C43F059CB087ACE61E2F1A7456D1CC7A2631&profile=pass
-#EXTINF:-1 group-title="TDT España",tdp sd geo
-https://v4.notabilus.com/libraries/miniProxy/miniProxy.php/https://rtvelivestreamv3.akamaized.net/rtvesec/tdp_bkp_dvr_1000.m3u8
-#EXTINF:-1 group-title="TDT España",TDP op2
-https://v4.notabilus.com/libraries/miniProxy/miniProxy.php/https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr_360.m3u8
-#EXTINF:-1 group-title="TDT España",13 TV
-http://79.148.188.246:9981/stream/channelid/1504412468?ticket=D2087343ACB9DE8ABEAB68AA9A71CB482AC77D3F&profile=pass
-#EXTINF:-1 group-title="TDT España",EL TORO
-https://live1-eltorotv.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="TDT España",Mega
-http://79.148.188.246:9981/stream/channelid/1751489768?ticket=7B9323D88C7270D443326A021BEC89DB77D65415&profile=pass
+http://93.152.174.144:4000/play/cuatrosp/index.m3u8
+#EXTINF:-1 group-title="TDT España",Telecinco 2
+http://ott.riotelecomm.es:4512/m3u8/TELECINCOHD.m3u8
+#EXTINF:-1 group-title="TDT España",laSexta
+http://ott.riotelecomm.es:4512/m3u8/LASEXTAHD.m3u8
+#EXTINF:-1 group-title="TDT España",neox
+http://ott.riotelecomm.es:4512/m3u8/NEOX.m3u8
+#EXTINF:-1 group-title="TDT España",Mega2
+http://ott.riotelecomm.es:4512/m3u8/MEGA.m3u8
 #EXTINF:-1 group-title="TDT España",bemad
-http://79.148.188.246:9981/stream/channelid/194703138?ticket=78C2C72F6CD1FA2FA680419502D04FC4B247BE8B&profile=pass
+http://ott.riotelecomm.es:4512/m3u8/BEMADTVHD.m3u8
 #EXTINF:-1 group-title="TDT España",CLAN TVE
 https://v4.notabilus.com/libraries/miniProxy/miniProxy.php/https://rtvelivestreamv3.akamaized.net/rtvesec/clan_bkp_dvr_1000.m3u8
 #EXTINF:-1 group-title="TDT España",energy
-http://79.148.188.246:9981/stream/channelid/755015402?ticket=9CA618D9AF19B79E1F08EFFD57562C8A80130313&profile=pass
-#EXTINF:-1 group-title="TDT España",BOM cine
-http://79.148.188.246:9981/stream/channelid/2104726668?ticket=5E9F5B01A85ED108CDDAA6A8C6A368C3952573ED&profile=pass
+http://ott.riotelecomm.es:4512/m3u8/ENERGY.m3u8
+#EXTINF:-1 group-title="TDT España",dkiss
+http://ott.riotelecomm.es:4512/m3u8/DKISS.m3u8
+#EXTINF:-1 group-title="TDT España",fdf
+http://ott.riotelecomm.es:4512/m3u8/FDF.m3u8
 #EXTINF:-1 group-title="TDT España",A3SERIES int
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
-#EXTINF:-1 group-title="ESPANA",Canal 24 Horas
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
 #EXTINF:-1 group-title="ESPANA" tvg-logo="http://tvnov.com/images/span/7nnNoticcia.png",7NN
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ESPANA",euronews es
 https://rakuten-euronews-4-es.samsung.wurl.tv/b035c0e9b449826e144be0fda4b4a5b7.m3u8
 #EXTINF:-1 group-title="ESPANA",euronews ES
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="ESPANA",LA 1 HD
-http://185.255.105.190:9981/stream/channelid/1209693417?profile=pass
-#EXTINF:-1 group-title="ESPANA",LA 2
-http://185.255.105.190:9981/stream/channelid/1274246449?profile=pass
-#EXTINF:-1 group-title="ESPANA",LA 2 web
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ESPANA",ANTENA 3 HD
-http://185.255.105.190:9981/stream/channelid/484506323?profile=pass
-#EXTINF:-1 group-title="ESPANA",LA SEXTA HD
-http://185.255.105.190:9981/stream/channelid/1306874149?profile=pass
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/841.jpg",MEGA
 http://154.62.74.29:1935/live/mega/playlist.m3u8
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/841.jpg",MEGA 2
-http://185.255.105.190:9981/stream/channelid/1539743073?profile=pass
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/897.jpg",GOL 2
-http://185.255.105.190:9981/stream/channelid/1509150389?profile=pass
-#EXTINF:-1 group-title="ESPANA",BOM
-http://185.255.105.190:9981/stream/channelid/929428347?profile=pass
 #EXTINF:-1 group-title="ESPANA",A3CINE HD
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/506.jpg",fdf
-http://154.62.74.12:1935/live/smil:fdf.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESPANA",COSMO HD
+http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w103482874_b1928000_sleng.m3u8
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/890.jpg",BeMad
 http://154.62.74.28:1935/live/bemad/playlist.m3u8
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/475.jpg",DMAX
-http://185.255.105.190:9981/stream/channelid/1027152282?profile=pass
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/892.jpg",dkiss
-http://185.255.105.190:9981/stream/channelid/1543798355?profile=pass
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/889.jpg",TEN
-http://185.255.105.190:9981/stream/channelid/2057716444?profile=pass
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/709.jpg",Energy es
 http://154.62.74.28:1935/live/energy-Stream/playlist.m3u8
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/38.jpg",telemadrid
@@ -447,34 +403,42 @@ http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://distritotv.es/wp-content/uploads/2021/03/LOGO-MODIFICADO-CRIS.png",DISTRITO TV
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/689.jpg",trece
-http://185.255.105.190:9981/stream/channelid/2003405390?profile=pass
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/689.jpg",trece web
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+#EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/516.jpg",el toro tv
+https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/296.jpg",CMM TV
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 #EXTINF:-1 group-title="ESPANA",Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="ESPANA" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/324.jpg",la 7 cyl
 http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:-1 group-title="ESPANA2",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="ESPANA2",euronews
 https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESPANA2",La 2
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_720.m3u8
+#EXTINF:-1 group-title="ESPANA2",Antena 3
+http://37.152.128.19:4000/play/a004
+#EXTINF:-1 group-title="ESPANA2",laSexta HD
+http://37.152.128.19:4000/play/a006
 #EXTINF:-1 group-title="ESPANA2",la liga op1 telecosta
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 group-title="ESPANA2",la liga op6 ing
-http://185.79.153.9:6500/play/a00m
-#EXTINF:-1 group-title="ESPANA2",liga de campeones
-http://185.79.153.9:6500/play/a01f
-#EXTINF:-1 group-title="ESPANA2",dazn F1 2
-http://185.79.153.9:6500/play/a00o
+#EXTINF:-1 group-title="ESPANA2",la liga op4 ing
+http://185.145.43.244:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="ESPANA2",dazn F1 3
+http://46.6.2.234:9981/stream/channelid/548263618?profile=pass
+#EXTINF:-1 group-title="ESPANA2",EUROSPORT
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 group-title="ESPANA2",RealMadrid TV
 http://78.201.98.110:8000/play/a0pe
-#EXTINF:-1 group-title="ESPANA2",El Toro TV
-https://live1-eltorotv.flumotion.com/chunks.m3u8
+#EXTINF:-1 group-title="ESPANA2",neox
+http://37.152.128.19:4000/play/a007
+#EXTINF:-1 group-title="ESPANA2",nova
+http://37.152.128.19:4000/play/a008
 #EXTINF:-1 group-title="ESPANA2",divinity
 http://78.201.98.110:8000/play/a0pc
+#EXTINF:-1 group-title="ESPANA2",BOM cine
+http://37.152.128.19:4001/play/a008
 #EXTINF:-1 group-title="ESPANA2",cine ñ
 http://78.201.98.110:8000/play/a0p8
 #EXTINF:-1 group-title="ESPANA2",MTV
@@ -485,400 +449,168 @@ http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1 group-title="ESPANA2",CANAL ESTREMADURA SAT
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA SAT",Portada
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:75c6:422:1:c00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",LA 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C2:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",LA 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7474:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",ANTENA 3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772C:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",CUATRO
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7792:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",TELECINCO
-http://fuengirola.asuscomm.com:2580/1:0:1:778C:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",LA SEXTA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A6:41C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",24 HORAS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7738:416:1:c00000:0:0:0:
-#EXTINF:-1 ,#0
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7478:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. ESTRENOS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C0:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. ESTRENOS 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7588:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. ACCIÓN
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746C:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. Fest
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:74FF:420:1:C00000:0:0:0
-#EXTINF:-1 group-title="ESPAÑA SAT",M. BIOGRAFIAS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749d:41c:1:c00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. COMEDIA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746D:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. DRAMA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746E:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. SERIES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CA:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. SERIES 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7696:41E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. Cine Español
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7736:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. Clásicos
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C6:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",HOLLYWOOD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C1:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",SUNDANCE TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76A5:41E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",TCM
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C7:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",TNT
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76cb:40e:1:c00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",FOX
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746F:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",FOX LIFE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7468:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",AMC
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CF:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",CALLE 13
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7790:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",SYFY
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7796:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",COSMO
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7730:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",AXN
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7477:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",AXN WHITE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7471:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",NOVA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7469:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",NEOX
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7587:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",PARAMOUNT
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:756B:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",COMEDY CENTRAL
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C8:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",FDF
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BC:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",DIVINITY
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749a:41c:1:c00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",MULTIDEPORTE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7692:41E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",TELEDEPORTE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CC:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",GOL
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A3:41C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",R. MADRID TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7798:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",Barça TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74a0:41c:1:c00000:0:0:0:
-#EXTINF:-1 ,#VAMOS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7733:416:1:C00000:0:0:0:
-#EXTINF:-1 ,#VAMOS HD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7734:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",Eurosport 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A1:41C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",Eurosport 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74a7:41c:1:c00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7797:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769D:41E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BD:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga 3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7601:408:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",DAZN F1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A4:41C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",DAZN 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76A4:41E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",DAZN 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772A:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",DAZN 3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BE:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",DAZN 4
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C0:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M.LCAMPEONES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757B:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M.LCAMPEON1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C3:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M.LCAMPEON2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:74DB:3F8:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LCAMPEON2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:760A:408:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M.LCAMPEON3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77D8:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. DEPORTES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778F:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. DEPORTES1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7739:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. DEPORTES2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C2:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. GOLF
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7789:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",TOROS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7570:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",DISCOVERY
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772F:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",NAT GEO HD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7829:428:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",NAT GEOGRAPH
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778D:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",NAT GEO WILD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7472:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",HISTORIA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7731:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",BLAZE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772D:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",CRIMEN+INVES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7732:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",CAZA Y PESCA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772B:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",IBERALIA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746a:3f0:1:c00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",VIAJAR
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C9:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",CANAL DECASA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7795:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",CANAL COCINA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CE:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",CANAL ODISEA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778A:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",MEZZO
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7699:41E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",MTV ESPAÑA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A2:41C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",NHK WORLD-JPN
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:139D:3EA:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",DISNEY CH
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C3:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",CLAN TVE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C1:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",DREAMWOORKS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C7:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",BOING
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749E:41C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",DISNEY JR
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746B:3F0:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",NICK JR
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7697:41E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",CANAL PANDA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C4:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",BABY TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749C:41C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",CANAL SUR A.
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7729:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",GALICIA HD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:18f1:3f4:1:c00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",EXTREMADURA SAT
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:18f0:3f4:1:c00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",ARAGON TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7473:3f0:1:c00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M.LCAMPEON4
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C4:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M.LCAMPEON5
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757D:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M.LCAMPEON6
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757C:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M.LCAMPEON7
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769C:41E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M.LCAMPEON8
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7576:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M.LCAMPEONES X
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:760E:408:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga 4
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C9:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga 5
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7579:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga 6
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7607:408:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga 7
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:756E:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga 8
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7690:41E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga 9
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7581:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. LaLiga 10
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7578:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. DEPORTES3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BF:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. DEPORTES4
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C8:40A:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. DEPORTES5
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769B:41E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. DEPORTES6
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7575:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",M. DEPORTES7
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:756D:412:1:C00000:0:0:0:
-#EXTINF:-1 group-title="ESPAÑA SAT",Playboy
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778b:424:1:c00000:0:0:0:
 #EXTINF:-1 group-title="CLARO CA",A&E HD
-http://190.92.95.37:8000/play/a0s8/index.m3u8
+http://45.5.119.202:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",AMC HD
-http://190.92.95.37:8000/play/a0pr/index.m3u8
+http://45.5.119.202:8000/play/a02w/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",AXN HD
-http://190.92.95.37:8000/play/a0pp/index.m3u8
+http://45.5.119.202:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Animal Planet HD
-http://190.92.95.37:8000/play/a0sb/index.m3u8
+http://45.5.119.202:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="CLARO CA" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16800/s16800_h3_aa.png?w=55",Antena 3
 http://190.92.95.37:8000/play/a0nv/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Azcorazon
-http://190.92.95.37:8000/play/a0pg/index.m3u8
+http://45.5.119.202:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Azmundo
 http://190.92.95.37:8000/play/a0s4/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Cartoon Network
-http://190.92.95.37:8000/play/a0p8/index.m3u8
+http://45.5.119.202:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Cine Latino
-http://190.4.0.200:8000/play/a03p/index.m3u8
+http://45.5.119.202:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",CINECANAL HD
-http://190.92.95.37:8000/play/a0sl/index.m3u8
+http://45.5.119.202:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",CineMax
-http://190.4.0.200:8000/play/a03q/index.m3u8
+http://45.5.119.202:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",CNNE
-http://190.92.95.37:8000/play/a0ps/index.m3u8
+http://45.5.119.202:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Concert Channel
-http://190.92.95.37:8000/play/a0oq/index.m3u8
+http://45.5.119.202:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",DHE HD
 http://190.92.95.37:8000/play/a0ok/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Claro Cinema
-http://190.4.0.200:8000/play/a037/index.m3u8
+http://45.5.119.202:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Claro Musica
-http://190.4.0.200:8000/play/a02e/index.m3u8
+http://45.5.119.202:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Claro Sports
-http://190.92.95.37:8000/play/a0ra/index.m3u8
-#EXTINF:-1 group-title="CLARO CA",Discovery Channel HD
-http://190.92.95.37:8000/play/a0sa/index.m3u8
+http://45.5.119.202:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Discovery ID HD
-http://190.92.95.37:8000/play/a0tf/index.m3u8
+http://45.5.119.202:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Discovery Kids HD
-http://190.92.95.37:8000/play/a0ob/index.m3u8
+http://45.5.119.202:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Discovery Science
 http://190.92.95.37:8000/play/a0ny/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Discovery Turbo
-http://190.4.0.200:8000/play/a03f/index.m3u8
+http://45.5.119.202:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Disney
-http://190.92.95.37:8000/play/a0tb/index.m3u8
+http://45.5.119.202:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Disney JR
-http://190.4.0.200:8000/play/a01e/index.m3u8
+http://45.5.119.202:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",El Gourmet
-http://190.92.95.37:8000/play/a0r8/index.m3u8
+http://45.5.119.202:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",E! Entertairment HD
-http://190.92.95.37:8000/play/a0s7/index.m3u8
+http://45.5.119.202:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",ESPN +
-http://190.92.95.37:8000/play/a0py/index.m3u8
+http://45.5.119.202:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",ESPN HD
-http://190.92.95.37:8000/play/a0se/index.m3u8
+http://45.5.119.202:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",ESPN 2 HD
-http://190.92.95.37:8000/play/a0sf/index.m3u8
+http://45.5.119.202:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",ESPN 3 HD
-http://190.92.95.37:8000/play/a0rb/index.m3u8
+http://45.5.119.202:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Europa HD
-http://190.92.95.37:8000/play/a0qb/index.m3u8
+http://45.5.119.202:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Film & arts HD
 http://190.92.95.37:8000/play/a0oj/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",FOX SPORTS  HD
-http://190.4.0.200:8000/play/a03j/index.m3u8
+http://45.5.119.202:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",FOX SPORTS 2 HD
-http://190.92.95.37:8000/play/a0rc/index.m3u8
+http://45.5.119.202:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",FOX SPORTS 3 HD
-http://190.92.95.37:8000/play/a0t7/index.m3u8
+http://45.5.119.202:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",FX HD
-http://190.92.95.37:8000/play/a0r4/index.m3u8
+http://45.5.119.202:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Golden
-http://190.92.95.37:8000/play/a0rh/index.m3u8
+http://45.5.119.202:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Golf Channel
 http://190.92.95.37:8000/play/a0o3/index.m3u8
 #EXTINF:-1 group-title="CLARO CA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo_m.png",HBO
 http://190.92.95.37:8000/play/a0or/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",HBO2 HD
-http://190.92.95.37:8000/play/a0os/index.m3u8
+http://45.5.119.202:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",HBO+ HD
-http://190.92.95.37:8000/play/a0ot/index.m3u8
+http://45.5.119.202:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",HBO XTREME
-http://190.92.95.37:8000/play/a0ov/index.m3u8
+http://45.5.119.202:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",HBO Family
-http://190.92.95.37:8000/play/a0ou/index.m3u8
+http://45.5.119.202:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",History HD
-http://190.92.95.37:8000/play/a0sc/index.m3u8
-#EXTINF:-1 group-title="CLARO CA",H2
-http://190.92.95.37:8000/play/a0r7/index.m3u8
+http://45.5.119.202:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",HOLA! TV HD
 http://190.92.95.37:8000/play/a0nz/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Home & Health HD
-http://190.92.95.37:8000/play/a0ss/index.m3u8
+http://45.5.119.202:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Home Garden Latino
 http://190.92.95.37:8000/play/a0nx/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",ISAT
-http://190.4.0.200:8000/play/a03n/index.m3u8
+http://45.5.119.202:8000/play/a01v/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",LIFE TIME
-http://190.92.95.37:8000/play/a0pl/index.m3u8
+http://45.5.119.202:8000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Mas Chic
 http://190.92.95.37:8000/play/a0nu/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",MTV Hits
-http://190.92.95.37:8000/play/a0pn/index.m3u8
+http://45.5.119.202:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",MTV
-http://190.92.95.37:8000/play/a0pz/index.m3u8
+http://45.5.119.202:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",MTV 00
-http://190.92.95.37:8000/play/a0rf/index.m3u8
+http://45.5.119.202:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Multicinema
 http://190.92.95.37:8000/play/a0o5/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Multipremier
-http://190.4.0.200:8000/play/a03o/index.m3u8
+http://45.5.119.202:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",National Geographic
-http://190.92.95.37:8000/play/a0pk/index.m3u8
+http://45.5.119.202:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Nick Jr
-http://190.92.95.37:8000/play/a0p9/index.m3u8
+http://45.5.119.202:8000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Nickelodeon
-http://190.92.95.37:8000/play/a0so/index.m3u8
+http://45.5.119.202:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Paramount HD
 http://190.92.95.37:8000/play/a0ol/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Pasiones HD
 http://190.92.95.37:8000/play/a0td/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",RCN Novelas
-http://190.92.95.37:8000/play/a0r5/index.m3u8
+http://45.5.119.202:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",SONY HD
-http://190.92.95.37:8000/play/a0s5/index.m3u8
+http://45.5.119.202:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Sony Movies HD
 http://190.92.95.37:8000/play/a0qc/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",SPACE HD
-http://190.92.95.37:8000/play/a0ph/index.m3u8
+http://45.5.119.202:8000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",STAR CHANNEL HD
-http://190.92.95.37:8000/play/a0si/index.m3u8
+http://45.5.119.202:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",STAR SERIES HD
-http://190.92.95.37:8000/play/a0om/index.m3u8
-#EXTINF:-1 group-title="CLARO CA",STAR COMEDY HD
-http://190.92.95.37:8000/play/a0rl/index.m3u8
+http://45.5.119.202:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="CLARO CA",STAR ACTION HD
+http://45.5.119.202:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",STAR FUN HD
-http://190.92.95.37:8000/play/a0sj/index.m3u8
+http://45.5.119.202:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",STAR HITS HD
-http://190.92.95.37:8000/play/a0ui/index.m3u8
-#EXTINF:-1 group-title="CLARO CA",STAR LIFE
-http://190.92.95.37:8000/play/a0rj/index.m3u8
+http://45.5.119.202:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Studio Universal HD
-http://190.92.95.37:8000/play/a0q2/index.m3u8
+http://45.5.119.202:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Sun Channel
-http://190.92.95.37:8000/play/a0r9/index.m3u8
+http://45.5.119.202:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",SyFy HD
-http://190.92.95.37:8000/play/a0s9/index.m3u8
+http://45.5.119.202:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",TBS
-http://190.92.95.37:8000/play/a0pj/index.m3u8
+http://45.5.119.202:8000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",TCM
-http://190.92.95.37:8000/play/a0ri/index.m3u8
+http://45.5.119.202:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Telemundo HD
-http://190.92.95.37:8000/play/a0pf/index.m3u8
+http://45.5.119.202:8000/play/a02k/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",TLC
-http://190.92.95.37:8000/play/a0sd/index.m3u8
+http://45.5.119.202:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",TNT HD
-http://190.92.95.37:8000/play/a0pq/index.m3u8
+http://45.5.119.202:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",TNT Series HD
-http://190.92.95.37:8000/play/a0pi/index.m3u8
+http://45.5.119.202:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",TVChile
 http://190.92.95.37:8000/play/a0nw/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",TVE
 http://190.92.95.37:8000/play/a0o6/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Universal
-http://190.83.119.67:8000/play/a0om/index.m3u8
+http://45.5.119.202:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",WARNER HD
-http://190.92.95.37:8000/play/a0s6/index.m3u8
+http://45.5.119.202:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",7-Teletica
 http://190.92.95.37:8000/play/a0qz/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Antena 7- RD
@@ -924,119 +656,203 @@ http://190.92.95.37:8000/play/a0p3/index.m3u8
 #EXTINF:-1 group-title="CLARO CA",Teleuniverso RD
 http://190.92.95.37:8000/play/a0qr/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",ESPN
-http://181.78.22.214:8000/play/a010
+http://181.78.6.57:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",ESPN 2
-http://181.78.22.214:8000/play/a00s
-#EXTINF:-1 group-title="CLARO COLOMBIA",ESPN 2 Latin
-http://181.78.22.214:8000/play/a00z
+http://181.78.6.57:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",ESPN 3
-http://181.78.22.214:8000/play/a01s
+http://181.78.6.57:8000/play/a02l/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",ESPN CO
-http://181.78.22.214:8000/play/a01c
+http://181.78.6.57:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Fox Sports 1
-http://181.78.22.214:8000/play/a016
+http://181.78.6.57:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Fox Sports 2
-http://181.78.22.214:8000/play/a01v
+http://181.78.6.57:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Fox Sports 3
-http://181.78.22.214:8000/play/a01w
+http://181.78.6.57:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",AE Mundo
-http://181.78.22.214:8000/play/a011
+http://181.78.6.57:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",AXN
-http://181.78.22.214:8000/play/a01k
+http://181.78.6.57:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Animal Planet
-http://181.78.22.214:8000/play/a00v
+http://181.78.6.57:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",CNN Espanol
-http://181.78.22.214:8000/play/a00h
+http://181.78.6.57:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Canal Caracol
-http://181.78.22.214:8000/play/a018
+http://181.78.6.57:8000/play/09/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Canal del Congreso
-http://181.78.22.214:8000/play/a01a
+http://181.78.6.57:8000/play/01/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Canal RCN
-http://181.78.22.214:8000/play/a019
+http://181.78.6.57:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Canal Uno
-http://181.78.22.214:8000/play/a017
+http://181.78.6.57:8000/play/08/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Canal Capital
-http://181.78.22.214:8000/play/a01g
+http://181.78.6.57:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Cartoon Network
-http://181.78.22.214:8000/play/a00d
+http://181.78.6.57:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Cinecanal
-http://181.78.22.214:8000/play/a005
+http://181.78.6.57:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Cinemax
-http://181.78.22.214:8000/play/a01i
+http://181.78.6.57:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",City TV
-http://181.78.22.214:8000/play/a01f
+http://181.78.6.57:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Discovery Channel
-http://181.78.22.214:8000/play/a00u
+http://181.78.6.57:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Discovery ID
-http://181.78.22.214:8000/play/a013
+http://181.78.6.57:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Discovery Kids
-http://181.78.22.214:8000/play/a00g
+http://181.78.6.57:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Discovery Turbo
-http://181.78.22.214:8000/play/a01r
+http://181.78.6.57:8000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Disney Channel
-http://181.78.22.214:8000/play/a00t
+http://181.78.6.57:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Disney Jr
-http://181.78.22.214:8000/play/a00r
+http://181.78.6.57:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",E Entertainment
-http://181.78.22.214:8000/play/a00x
+http://181.78.6.57:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",FX
-http://181.78.22.214:8000/play/a01m
-#EXTINF:-1 group-title="CLARO COLOMBIA",HBO
-http://181.78.22.214:8000/play/a01h
-#EXTINF:-1 group-title="CLARO COLOMBIA",HBO 2
-http://181.78.22.214:8000/play/a00n
-#EXTINF:-1 group-title="CLARO COLOMBIA",HBO Family
-http://181.78.22.214:8000/play/a00q
-#EXTINF:-1 group-title="CLARO COLOMBIA",HBO Plus
-http://181.78.22.214:8000/play/a00o
-#EXTINF:-1 group-title="CLARO COLOMBIA",HBO XTREME SD
-http://181.78.22.214:8000/play/a00p
+http://181.78.6.57:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",History Channel
-http://181.78.22.214:8000/play/a004
+http://181.78.6.57:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",HomeandHealth
-http://181.78.22.214:8000/play/a015
+http://181.78.6.57:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",I-Sat
-http://181.78.22.214:8000/play/a007
+http://181.78.6.57:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",MTV
-http://181.78.22.214:8000/play/a008
+http://181.78.6.57:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Nat Geo
-http://181.78.22.214:8000/play/a003
+http://181.78.6.57:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Nick Jr
-http://181.78.22.214:8000/play/a01q
+http://181.78.6.57:8000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Nickelodeon
-http://181.78.22.214:8000/play/a001
+http://181.78.6.57:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",RCN Novelas
-http://181.78.22.214:8000/play/a012
+http://181.78.6.57:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",STAR CHANNEL
-http://181.78.22.214:8000/play/a00a
+http://181.78.6.57:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Senal Colombia
-http://181.78.22.214:8000/play/a01b
+http://181.78.6.57:8000/play/02/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Sony
-http://181.78.22.214:8000/play/a01j
+http://181.78.6.57:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Space
-http://181.78.22.214:8000/play/a01l
+http://181.78.6.57:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",TBS
-http://181.78.22.214:8000/play/a014
+http://181.78.6.57:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",TCM
-http://181.78.22.214:8000/play/a00b
+http://181.78.6.57:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",TLC
-http://181.78.22.214:8000/play/a01u
+http://181.78.6.57:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",TNT
-http://181.78.22.214:8000/play/a00e
+http://181.78.6.57:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",TRO
-http://181.78.22.214:8000/play/a01e
+http://181.78.6.57:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Teleantioquia
-http://181.78.22.214:8000/play/a01n
+http://181.78.6.57:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="CLARO COLOMBIA",TVE Internacional
+http://181.78.6.57:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Telemundo Internacional
-http://181.78.22.214:8000/play/a01t
+http://181.78.6.57:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="CLARO COLOMBIA",Telepacifico
+http://181.78.6.57:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Universal
-http://181.78.22.214:8000/play/a006
+http://181.78.6.57:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Warner
-http://181.78.22.214:8000/play/a00w
+http://181.78.6.57:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Win
-http://181.78.22.214:8000/play/a01o
+http://181.78.6.57:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="CLARO COLOMBIA",Zona Latina
-http://181.78.22.214:8000/play/a01x
+http://181.78.6.57:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="CLARO COLOMBIA",Zoom
+http://181.78.6.57:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",CHV
+http://138.36.253.14:8010/play/a024/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Canal 13
+http://138.36.253.14:8010/play/a02d/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",La Red
+http://138.36.253.14:8010/play/a01c/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",MEGA
+http://138.36.253.14:8010/play/a01u/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",TVN
+http://138.36.253.14:8010/play/a01b/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Zona Latina
+http://138.36.253.14:8010/play/a02l/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Canal 24 Horas chile
+http://138.36.253.14:8010/play/a022/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",CNN Chile
+http://138.36.253.14:8010/play/a01g/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",CNN Espanol
+http://138.36.253.14:8010/play/a021/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",ESPN 1
+http://138.36.253.14:8010/play/a01o/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",ESPN 2
+http://138.36.253.14:8010/play/a025/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",ESPN 3
+http://138.36.253.14:8010/play/a027/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",FOX Sports 1 CH
+http://138.36.253.14:8010/play/a01m/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",TNT SPORTS
+http://138.36.253.14:8010/play/a01p/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",HBO
+http://138.36.253.14:8010/play/a01s/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",STAR CHANNEL
+http://138.36.253.14:8010/play/a016/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",FX
+http://138.36.253.14:8010/play/a01w/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Cinecanal
+http://138.36.253.14:8010/play/a01d/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Cinemax
+http://138.36.253.14:8010/play/a01t/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Sony
+http://138.36.253.14:8010/play/a014/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Space
+http://138.36.253.14:8010/play/a01v/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",TBS
+http://138.36.253.14:8010/play/a01z/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",TCM
+http://138.36.253.14:8010/play/a01h/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",TNT
+http://138.36.253.14:8010/play/a01j/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",UNIVERSAL CHANNEL
+http://138.36.253.14:8010/play/a01e/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Warner Channel
+http://138.36.253.14:8010/play/a010/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",I-Sat
+http://138.36.253.14:8010/play/a01f/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",A&E
+http://138.36.253.14:8010/play/a028/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Discovery Channel
+http://138.36.253.14:8010/play/a00y/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Discovery Turbo
+http://138.36.253.14:8010/play/a01x/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",History Channel
+http://138.36.253.14:8010/play/a019/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Nat Geo
+http://138.36.253.14:8010/play/a018/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Animal Planet
+http://138.36.253.14:8010/play/a00z/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Discovery ID
+http://138.36.253.14:8010/play/a01y/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Home and Health
+http://138.36.253.14:8010/play/a020/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",E Entertainment
+http://138.36.253.14:8010/play/a02c/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",TLC
+http://138.36.253.14:8010/play/a011/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",MTV
+http://138.36.253.14:8010/play/a029/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Telemundo
+http://138.36.253.14:8010/play/a01r/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",TVE
+http://138.36.253.14:8010/play/a01l/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Cartoon Network
+http://138.36.253.14:8010/play/a01i/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Discovery Kids
+http://138.36.253.14:8010/play/a00u/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Disney Channel
+http://138.36.253.14:8010/play/a00x/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Disney Jr
+http://138.36.253.14:8010/play/a017/index.m3u8
+#EXTINF:-1 group-title="CLARO CHILE",Nickelodeon
+http://138.36.253.14:8010/play/a02b/index.m3u8
 #EXTINF:-1 group-title="CLARO ECUADOR",ESPN
 http://200.24.132.99:8000/play/a022
 #EXTINF:-1 group-title="CLARO ECUADOR",ESPN 2
@@ -1139,10 +955,98 @@ http://200.24.132.99:8000/play/a02h
 http://200.24.132.99:8000/play/a02s
 #EXTINF:-1 group-title="CLARO ECUADOR",TC Television
 http://200.24.132.99:8000/play/a00m
+#EXTINF:-1 group-title="CLARO ECUADOR",Teleamazonas
+http://200.24.132.99:8000/play/a00n
+#EXTINF:-1 group-title="INTER PERU",ANIMAL PLANET
+http://181.176.148.142:8000/play/a034
+#EXTINF:-1 group-title="INTER PERU",CANAL INFANTIL
+http://181.176.148.142:8000/play/a020
+#EXTINF:-1 group-title="INTER PERU",CARTOONS
+http://181.176.148.142:8000/play/a021
+#EXTINF:-1 group-title="INTER PERU",CINE CANAL
+http://181.176.148.142:8000/play/a022
+#EXTINF:-1 group-title="INTER PERU",CINE FAMILIAR
+http://181.176.148.142:8000/play/a023
+#EXTINF:-1 group-title="INTER PERU",CINE HISPANO
+http://181.176.148.142:8000/play/a024
+#EXTINF:-1 group-title="INTER PERU",CINE PREMIUM
+http://181.176.148.142:8000/play/a025
+#EXTINF:-1 group-title="INTER PERU",COSMOS
+http://181.176.148.142:8000/play/a026
+#EXTINF:-1 group-title="INTER PERU",DHE
+http://181.176.148.142:8000/play/a027
+#EXTINF:-1 group-title="INTER PERU",DISCOVERY CHANNEL
+http://181.176.148.142:8000/play/a028
+#EXTINF:-1 group-title="INTER PERU",DISCOVERY ID
+http://181.176.148.142:8000/play/a029
+#EXTINF:-1 group-title="INTER PERU",DISCOVERY TURBO
+http://181.176.148.142:8000/play/a02a
+#EXTINF:-1 group-title="INTER PERU",DISNEY
+http://181.176.148.142:8000/play/a02b
+#EXTINF:-1 group-title="INTER PERU",DISNEY JR
+http://181.176.148.142:8000/play/a02c
+#EXTINF:-1 group-title="INTER PERU",DW
+http://181.176.148.142:8000/play/a031
+#EXTINF:-1 group-title="INTER PERU",ESPN
+http://181.176.148.142:8000/play/a02d
+#EXTINF:-1 group-title="INTER PERU",ESPN 2
+http://181.176.148.142:8000/play/a02e
+#EXTINF:-1 group-title="INTER PERU",ESPN 3
+http://181.176.148.142:8000/play/a02f
+#EXTINF:-1 group-title="INTER PERU",ESPN 4
+http://181.176.148.142:8000/play/a02g
+#EXTINF:-1 group-title="INTER PERU",FOOD NETWORK
+http://181.176.148.142:8000/play/a02j
+#EXTINF:-1 group-title="INTER PERU",FOX SPORTS 2
+http://181.176.148.142:8000/play/a02h
+#EXTINF:-1 group-title="INTER PERU",FOX SPORTS 3
+http://181.176.148.142:8000/play/a02i
+#EXTINF:-1 group-title="INTER PERU",GLOBAL
+http://181.176.148.142:8000/play/a02k
+#EXTINF:-1 group-title="INTER PERU",H&H
+http://181.176.148.142:8000/play/a02l
+#EXTINF:-1 group-title="INTER PERU",HISTORY
+http://181.176.148.142:8000/play/a02m
+#EXTINF:-1 group-title="INTER PERU",ITV
+http://181.176.148.142:8000/play/a02n
+#EXTINF:-1 group-title="INTER PERU",KUMBIA
+http://181.176.148.142:8000/play/a02o
+#EXTINF:-1 group-title="INTER PERU",LATINA
+http://181.176.148.142:8000/play/a02p
+#EXTINF:-1 group-title="INTER PERU",LOVE NATURE
+http://181.176.148.142:8000/play/a02q
+#EXTINF:-1 group-title="INTER PERU",MOVIE MOTION
+http://181.176.148.142:8000/play/a02r
+#EXTINF:-1 group-title="INTER PERU",MOVIES CLUB
+http://181.176.148.142:8000/play/a02s
+#EXTINF:-1 group-title="INTER PERU",NICK
+http://181.176.148.142:8000/play/a02t
+#EXTINF:-1 group-title="INTER PERU",OLD CITY
+http://181.176.148.142:8000/play/a02u
+#EXTINF:-1 group-title="INTER PERU",PANAMERICANA (clone)
+http://181.176.148.142:8000/play/a02v
+#EXTINF:-1 group-title="INTER PERU",PARAMOUNT
+http://181.176.148.142:8000/play/a033
+#EXTINF:-1 group-title="INTER PERU",RAYMI
+http://181.176.148.142:8000/play/a02w
+#EXTINF:-1 group-title="INTER PERU",RETRO
+http://181.176.148.142:8000/play/a02x
+#EXTINF:-1 group-title="INTER PERU",SERIES CLUB
+http://181.176.148.142:8000/play/a02y
+#EXTINF:-1 group-title="INTER PERU",SUN CHANNEL
+http://181.176.148.142:8000/play/a02z
+#EXTINF:-1 group-title="INTER PERU",TRU TV
+http://181.176.148.142:8000/play/a030
+#EXTINF:-1 group-title="INTER PERU",WILLAX
+http://181.176.148.142:8000/play/a01v
+#EXTINF:-1 group-title="INTER PERU",ZOOMOO
+http://181.176.148.142:8000/play/a032
 #EXTINF:-1 group-title="CINE" tvg-logo="Logo N/A",a3cine HD
 http://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="Logo N/A",a3cine
 http://live.atresmediainternacional.com/ATRESMEDIA/a3cine-720.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="Logo N/A",wowtv cine
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="CINE",CINE AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="Logo N/A",orbit cable peliculas
@@ -1181,8 +1085,6 @@ https://live1.presstv.ir/live/hispan.m3u8
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/05.m3u8
 #EXTINF:-1 group-title="NOTICIAS",America's Voice (KCKS-LD5) (480p)
 https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
-#EXTINF:-1 group-title="NOTICIAS",CBSN (720p)
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS",NBC News
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="Logo N/A",arirang tv eng
@@ -1205,10 +1107,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Weather Gone Viral
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS" tvg-logo="http://trccampeche.gob.mx/wp-content/uploads/2015/05/LOGO-TRC-PAGINA.jpg",trc tv campeche
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200",Canal Catorce (720p)
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 group-title="ESTADOS" tvg-logo="https://i.imgur.com/P1pHy3j.jpg",Capital 21 [Not 24/7]
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 group-title="ESTADOS" tvg-logo="Logo N/A",MULTIMEDIOS
@@ -1245,6 +1143,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="Logo N/A",UNICANAL PY
 http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="Logo N/A",telemetro panama
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="https://i.imgur.com/r5p97Ex.jpg",TeleSUR Costa Rica [Not 24/7]
 http://k3.usastreams.com/telesur/telesur/playlist.m3u8
 #EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="Logo N/A",COLOSAL TV HD CR
@@ -1253,20 +1153,22 @@ http://45.239.65.35:1935/COLOSAL/COLOSAL/playlist.m3u8
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 #EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="Logo N/A",ticavision costarica
 http://k3.usastreams.com:1935/HBTV/HBTV/master.m3u8
+#EXTINF:-1 group-title="OTROS LATINOS",TVO Canal 23 Salvador [Not 24/7]
+https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
 #EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="https://www.tele1.sv/wp-content/uploads/2019/06/TELE1_FINAL_BLUE-1-149x84.png",Tele1 (720p) [Not 24/7]
 https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/playlist.m3u8
 #EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="Logo N/A",metro tv honduras
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png",UCL TV (720p) [Not 24/7]
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
-#EXTINF:-1 group-title="OTROS LATINOS",tv canal 4 florida uy
-http://s5.mexside.net:1935/tvflorida/tvflorida/chunklist_w1779906471.m3u8
 #EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png",Bolivia TV (720p)
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="https://i.imgur.com/1zTLGdj.jpg",Bolivia TV 7.2 (720p)
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 group-title="OTROS LATINOS" tvg-logo="https://comteco.com.bo/img/upload/canales/IsDeZ9.png",rtp bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w873168253.m3u8
+#EXTINF:-1 group-title="OTROS LATINOS",SEO TV BO
+https://panel.seo.tv.bo:3314/live/seolive.m3u8
 #EXTINF:-1 group-title="PERU",Panamericana peru
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height=320",TV Peruanísima (720p) [Not 24/7]
@@ -1287,8 +1189,6 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/6miysb8.png",24/7 Canal de Noticias
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA",el 13 arg
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/sZ1yE4e.png",Multivisión Federal
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg84RxHjkboUjpSwVwVYl7oviFLwGDJs-4UCKzP-JMCdIE4MOb&s",CANAL.9 MULTIVISION
@@ -1297,14 +1197,10 @@ https://panel.dattalive.com/8250/8250/playlist.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/J7stpmb.png",Net TV op2
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/Jo7p7yZ.png",Argentinísima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",Canal 26 op2
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA",tv publica fueguina arg
-https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/1XgRcmd.png",Telemax (720p)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="ARGENTINA",ciudad tv arg
@@ -1315,8 +1211,6 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIgMORTmDFYoZ568zWDgjQ-hkmEHYDVGTFCw&usqp=CAU",Canal 9 Televida [Not 24/7]
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canal_10_Mar_del_Plata_%28Logo_2010%29.png",Canal 10 Mar del Plata [Not 24/7]
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/PE2Gi3N.png",Canal 10 Rio Negro [Not 24/7]
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA",canal 12 tucuman arg
@@ -1329,14 +1223,8 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1157653854.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="Logo N/A",canal 5tv arg
 https://srv3.zcast.com.br/carlosr/carlosr/chunklist_w1882968509.m3u8
-#EXTINF:-1 group-title="ARGENTINA",9 link arg
-http://www.coninfo.net:1935/9linklive/live/chunklist_w1548710051.m3u8
 #EXTINF:-1 group-title="ARGENTINA",canal 20 villamaria arg
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/cd0hP5e.png",El Garage TV [Not 24/7]
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 group-title="ARGENTINA",GenTV
-https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/UnWMRrT.png",Canal 9 Bío Bío [Not 24/7]
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/3ob9ss3.jpg",El Pingüino TV [Not 24/7]
@@ -1345,8 +1233,6 @@ http://167.114.133.205:1935/live/pinguinotv_720p/playlist.m3u8
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="Logo N/A",hc2 chile
 http://inliveserver.com:1935/11010/11010/chunklist_w1007499867.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="Logo N/A",tele 2 web chile
-https://inliveserver.com:1936/11516/11516/chunklist_w1606152564.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="Logo N/A",canal 5 puerto mont chile
 https://srv2.zcast.com.br/canal5tv/canal5tv/chunklist_w904654726.m3u8
 #EXTINF:-1 group-title="DOMINICANA" tvg-logo="Logo N/A",farovision cine rdom
@@ -1391,8 +1277,6 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA",tv agro colombia
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.imgur.com8YPXrcX.png",Hechos Ecuador (480p)
-http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="Logo N/A",tv puruwa ecuador
 https://srv.panelcast.net/puruwalive/puruwalive/chunklist_w975304440.m3u8
 #EXTINF:-1 group-title="BRASIL",band br
@@ -1409,8 +1293,6 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",51 radio tv
 http://178.32.140.155/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="Logo N/A",Oldies Hits
-https://inliveserver.com:1936/15010/15010/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="Logo N/A",RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="Logo N/A",alegria tv
@@ -1423,14 +1305,16 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="Logo N/A",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Garage tv
-http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="Logo N/A",KroneHit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="XXX",leo tv1
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 group-title="XXX",HOT 2
 http://62.28.71.186:45678/http/192.168.150.173:7777/hot
+#EXTINF:-1 group-title="XXX",private tv
+http://84.76.155.94:9981/stream/channelid/834405322?ticket=0BFDED8B6B909B32024BD23750D194BE54FC72E6&profile=pass
+#EXTINF:-1 group-title="XXX",private
+http://85.11.144.9:7766/Private?token=test
 #EXTINF:-1 group-title="XXX",hustler tv
 http://78.83.191.18:8000/play/a078
 #EXTINF:-1 group-title="XXX",Hustler HD
@@ -1439,20 +1323,20 @@ http://185.236.229.31:9981/play/a03n
 http://185.236.229.31:9981/play/a03d
 #EXTINF:-1 group-title="XXX",Dorcel TV HD
 http://185.236.229.31:9981/play/a03c
-#EXTINF:-1 group-title="XXX",FapTV 2
-http://futuretvplus.com:25461/live/CAPU/PY6JR9WWGk/300549.m3u8
-#EXTINF:-1 group-title="XXX",FapTV Anal
-http://futuretvplus.com:25461/live/CAPU/PY6JR9WWGk/300555.m3u8
-#EXTINF:-1 group-title="XXX",FapTV Teens
-http://futuretvplus.com:25461/live/CAPU/PY6JR9WWGk/300558.m3u8
-#EXTINF:-1 group-title="XXX",O-la-la
-http://futuretvplus.com:25461/live/CAPU/PY6JR9WWGk/300532.m3u8
-#EXTINF:-1 group-title="XXX",Dorcel
-http://futuretvplus.com:25461/live/CAPU/PY6JR9WWGk/300533.m3u8
-#EXTINF:-1 group-title="XXX",Brazzers
-http://futuretvplus.com:25461/live/CAPU/PY6JR9WWGk/224964.m3u8
-#EXTINF:-1 group-title="XXX",BabesTV
-http://futuretvplus.com:25461/live/CAPU/PY6JR9WWGk/300547.m3u8
+#EXTINF:-1 group-title="XXX",Vivid
+http://46.6.2.234:9981/stream/channelid/1281891112?profile=pass
+#EXTINF:-1 group-title="XXX",hustler tv tvh
+http://46.6.2.234:9981/stream/channelid/565319323?profile=pass
+#EXTINF:-1 group-title="XXX",SEXTREME
+http://160.20.164.171:8001/play/a028/index.m3u8
+#EXTINF:-1 group-title="XXX",XXL
+http://85.11.144.9:7766/XXL?token=test
+#EXTINF:-1 group-title="XXX",RK
+http://85.11.144.9:7766/RealityKings?token=test
+#EXTINF:-1 group-title="XXX",EROX
+http://85.11.144.9:7766/EroxHD?token=test
+#EXTINF:-1 group-title="XXX",HOT1
+http://85.11.144.9:7766/SuperOneHD?token=test
 #EXTINF:-1 group-title="XXX" tvg-logo="Logo N/A",Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="Logo N/A",Big Ass
@@ -1497,6 +1381,16 @@ http://cdn.adultiptv.net/russian.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="Logo N/A",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="Deportes",DIGISPORT 1
+http://84.76.155.94:9981/stream/channelid/2087540015?ticket=4B6E151F71979336206585169F78AFBCBE9CB16D&profile=pass
+#EXTINF:-1 group-title="Deportes",DIGISPORT 2
+http://84.76.155.94:9981/stream/channelid/1436503128?ticket=857D0957BE45480757CB391064FDD862A674BC95&profile=pass
+#EXTINF:-1 group-title="Deportes",DIGISPORT 3
+http://84.76.155.94:9981/stream/channelid/1947494102?ticket=D6FA9F8C0946D1D380A4253A9B5951E390889F69&profile=pass
+#EXTINF:-1 group-title="Deportes",DIGISPORT 4
+http://84.76.155.94:9981/stream/channelid/1467083549?ticket=F1B10E0D1302171A24D6F295534BEBE2DEA51396&profile=pass
+#EXTINF:-1 group-title="Deportes",EUROSPORT 2 RO
+http://84.76.155.94:9981/stream/channelid/784435179?ticket=E70E46286CDE754D4624C5E7D9C2B273C55EE7BF&profile=pass
 #EXTINF:-1 group-title="Deportes",Setanta Sport Ukraine
 http://myott.top/stream/1VGPHYLZTH/234.m3u8
 #EXTINF:-1 group-title="Deportes",Setanta Sport 2 Ukraine
