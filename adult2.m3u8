@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="XXX",leo tv1
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1 group-title="XXX",HOT 2
+http://62.28.71.186:45678/http/192.168.150.173:7777/hot
+#EXTINF:-1 group-title="XXX",private tv
+http://84.76.155.94:9981/stream/channelid/834405322?ticket=0BFDED8B6B909B32024BD23750D194BE54FC72E6&profile=pass
+#EXTINF:-1 group-title="XXX",private
+http://85.11.144.9:7766/Private?token=test
+#EXTINF:-1 group-title="XXX",hustler tv
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1 group-title="XXX",Hustler HD
+http://185.236.229.31:9981/play/a03n
+#EXTINF:-1 group-title="XXX",Brazzers HD
+http://185.236.229.31:9981/play/a03d
+#EXTINF:-1 group-title="XXX",Dorcel TV HD
+http://185.236.229.31:9981/play/a03c
+#EXTINF:-1 group-title="XXX",Vivid
+http://46.6.2.234:9981/stream/channelid/1281891112?profile=pass
+#EXTINF:-1 group-title="XXX",hustler tv tvh
+http://46.6.2.234:9981/stream/channelid/565319323?profile=pass
+#EXTINF:-1 group-title="XXX",SEXTREME
+http://160.20.164.171:8001/play/a028/index.m3u8
 #EXTINF:-1 group-title="TV Adultos / TV Adults" tvg-logo="https://futuretv.mx/logos/canales/xxx.babestv.png",XXX | BabesTV
 http://futuretvplus.com:25461/live/CAPU/PY6JR9WWGk/300547.m3u8
 #EXTINF:-1 group-title="TV Adultos / TV Adults" tvg-logo="https://futuretv.mx/logos/canales/xxx.bluehustler.png",XXX | Blue Hustler
