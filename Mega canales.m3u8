@@ -1307,28 +1307,7 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="Logo N/A",KroneHit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="XXX",leo tv1
-http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-#EXTINF:-1 group-title="XXX",HOT 2
-http://62.28.71.186:45678/http/192.168.150.173:7777/hot
-#EXTINF:-1 group-title="XXX",private tv
-http://84.76.155.94:9981/stream/channelid/834405322?ticket=0BFDED8B6B909B32024BD23750D194BE54FC72E6&profile=pass
-#EXTINF:-1 group-title="XXX",private
-http://85.11.144.9:7766/Private?token=test
-#EXTINF:-1 group-title="XXX",hustler tv
-http://78.83.191.18:8000/play/a078
-#EXTINF:-1 group-title="XXX",Hustler HD
-http://185.236.229.31:9981/play/a03n
-#EXTINF:-1 group-title="XXX",Brazzers HD
-http://185.236.229.31:9981/play/a03d
-#EXTINF:-1 group-title="XXX",Dorcel TV HD
-http://185.236.229.31:9981/play/a03c
-#EXTINF:-1 group-title="XXX",Vivid
-http://46.6.2.234:9981/stream/channelid/1281891112?profile=pass
-#EXTINF:-1 group-title="XXX",hustler tv tvh
-http://46.6.2.234:9981/stream/channelid/565319323?profile=pass
-#EXTINF:-1 group-title="XXX",SEXTREME
-http://160.20.164.171:8001/play/a028/index.m3u8
+
 #EXTINF:-1 group-title="XXX",XXL
 http://85.11.144.9:7766/XXL?token=test
 #EXTINF:-1 group-title="XXX",RK
