@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="157 SUPER MARIO BROS MOVIE 2023 lat" tvg-logo="" group-title="PELICULAS",157 SUPER MARIO BROS MOVIE 2023 lat
+http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
+
 #EXTINF:-1 ,Venom Carnage liberado (2021)
 https://lh3.googleusercontent.com/HwSEjZ-lEnOkjQQDNw7ZrPTXRCsDB93Nw90aMYxlirIbnTwKc4f_TtSAo9-d3RNj7STIM4GBvMt30S1NXC0ylqyFLV9qOgguUYWAUXe3pXnr4aWve_l4EdhDfG-1bXPt57iEUsC-52c=m37
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hKrZNmR/Snake-Eyes-G-I-Joe-Origins-2021.jpg",Snake Eyes: G.I. Joe Origins (2021)
