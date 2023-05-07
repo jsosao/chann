@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,bohemian rapsody
+http://tvt3.xyz:2095/play/movie.php?mac=00:1A:79:00:04:02&stream=32600.mkv&type=movie&play_token=
 #EXTINF:-1 ,super mario bros 2023
 http://89.187.173.138:39001/movie/tomyat07/gVV5WaS16t/215279.mkv
 #EXTINF:-1 group-title="PELÍCULAS",EL ORIGEN DEL PLANETA DE LOS SIMIOS 
