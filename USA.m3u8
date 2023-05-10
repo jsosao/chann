@@ -95,3 +95,54 @@ http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=183
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 #EXTINF:-1 ,ELEVEN SPORTS 2
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/4b159d680d943ccad44cbd15f6d8bdfa.png",PT - SPORT TV 1 HD
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62071
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/fe5b671841a1a66f73cf339e4a3929de.png",PT - SPORT TV 4 HD
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62074
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/66616ba1aad26a0205ac5f58e14c40f8.png",PT - Sport TV NBA HD
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62076
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/66616ba1aad26a0205ac5f58e14c40f8.png",PT - SPORT TV+HD
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62077
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/671448016f677c48b17db2e56bd70d65.png",PT - Sport TV 2
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62079
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/5f7f86e00e1d4b281a2aae69a61715a6.png",PT - Sport TV 5
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62082
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/b5d7683e4abac6299f53b08447d21e9f.png",RO - Digi Sport 1
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/61288
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/01cb4f1bdbb842c5cea56f95959ae308.png",RO - Digi Sport 2
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/61289
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/38e2f4f98f89f6fc5888fff2b41eddf4.png",RO - Digi Sport 3
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/61290
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/d605818fbe4306b35f7f5aa892534220.png",RO - Digi Sport 4
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/61291
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/fbe94269c2573bb3c65f45e015086462.png",IT - Sky Super Tennis HD
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/61265
+#EXTINF:-1 group-title="2HUBS 1404" tvg-logo="http://attp.ddns.net:25461/images/3d227b75378257504161475bdb188cdb.png",USA- TENNIS HD
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/58561
+#EXTINF:-1 group-title="KUCHINI 2",US: beIN Sports 4
+http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/151024
+#EXTINF:-1 group-title="KUCHINI 2",US: beIN Sports 5
+http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/151026
+#EXTINF:-1 group-title="KUCHINI 2",US: beIN Sports 6
+http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/151030
+#EXTINF:-1 group-title="KUCHINI 2",US: beIN Sports 7
+http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/151028
+#EXTINF:-1 group-title="KUCHINI 2",US: beIN Sports 8
+http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/151032
+#EXTINF:-1 group-title="KUCHINI 2",US: beIN Sports n
+http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/296690
+#EXTINF:-1 group-title="KUCHINI 2",US: beIN Sports USA
+http://kuchini.site:8080/i4stream/nmKISOyULCOh9ufY/296691
+#EXTINF:-1 group-title="IPTVTREE  2304",US: beIN Sports 1
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/2272
+#EXTINF:-1 group-title="IPTVTREE  2304",US: beIN Sports n
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/296690
+#EXTINF:-1 group-title="IPTVTREE  2304",US: beIN Sports USA
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/296691
+#EXTINF:-1 group-title="IPTVTREE  2304",US: Tennis Channel
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/2275
+#EXTINF:-1 group-title="PREMIUMIPTV 0304" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1af633ac21f674213181b644bd010f25.png",US: beIN Sports USA
+http://www.premiumiptvmk.com:8080/dooby1312/b244f7ab/296691
+#EXTINF:-1 group-title="SHAREEXT@⚽PLANET_SPORTS⚽" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg",BEINSPORTS USA
+http://hostengine.live/live/wrecks82/habsiptv82/56353.m3u8
