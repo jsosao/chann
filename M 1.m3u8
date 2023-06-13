@@ -2,6 +2,85 @@
 #EXTM3U
 #EXTINF:-1 , transformes el despertar de las bestias
 https://pc-09.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0c9be8fe9ff384b24f2f38ca01e5dee6/EP.0.2.v0.1686270819.720.m3u8
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",CAPULINA CONTRA LOS MOUNSTROS
+http://ia601504.us.archive.org/31/items/00_20201006/00006.mp4
+
+#EXTINF:-1,Santo contra los Cazadores de Cabezas 1971
+https://archive.org/download/sancaz71/sancaz71.avi
+
+#EXTINF:-1,Santo en la Mision Suicida 1971
+https://archive.org/download/sancaz71/sanmis71.avi
+
+#EXTINF:-1,Santo contra la Hija de Frankestein 1971
+https://archive.org/download/sanhifran71/sanhifran71.avi
+
+#EXTINF:-1,Santo contra la Mafia del Vicio 1971
+https://archive.org/download/sanhifran71/sanmavi71.avi
+
+#EXTINF:-1,Santo y Blue Demon en el Mundo de los Muertos 1970
+https://archive.org/download/sanmumu70/sanmumu70.avi
+
+#EXTINF:-1,Santo y la Venganza de las Mujeres Vampiro 1970
+https://archive.org/download/sanmumu70/sanvevam70.avi
+
+#EXTINF:-1,Santo contra los Jinetes del Terror 1970
+https://archive.org/download/sanca69/sanjite70.avi
+
+#EXTINF:-1,Santo contra Capulina 1969
+https://archive.org/download/sanca69/sanca69.avi
+
+#EXTINF:-1,Santo y Blue Demon contra los Monstruos 1969
+https://archive.org/download/sanca69/sanblumon69.avi
+
+#EXTINF:-1,Santo y el Tesoro de Moctezuma 1968
+https://archive.org/download/sanbabra67/santemo68.avi
+
+#EXTINF:-1,Santo contra Blue Demon en la Atlantida 1969
+https://archive.org/download/sanbabra67/sanbluat69.avi
+
+#EXTINF:-1,Santo contra el Baron Brakola 1967
+https://archive.org/download/sanbabra67/sanbabra67.avi
+
+#EXTINF:-1,Santo y los Profanadores de Tumbas 1966
+https://archive.org/download/saneses66/sanprotu66.avi
+
+#EXTINF:-1,Santo en la Operacion 67 1967
+https://archive.org/download/saneses66/sanop67.avi
+
+#EXTINF:-1,Santo contra el Espectro del Estrangulador 1966
+https://archive.org/download/saneses66/saneses66.avi
+
+#EXTINF:-1,Santo y Blue Demon contra el Poder Satanico 1964
+https://archive.org/download/sanbru64/sanposat64.avi
+
+#EXTINF:-1,Santo contra el Hacha Diabolica 1965
+https://archive.org/download/sanbru64/sanhada65.avi
+
+#EXTINF:-1,Santo en el Ataque de las Brujas 1964
+https://archive.org/download/sanbru64/sanbru64.avi
+
+#EXTINF:-1,Santo en el Museo de Cera 1963
+https://archive.org/download/sanmuce63/sanmuce63.avi
+
+#EXTINF:-1,Santo contra las Momias de Guanajuato 1972
+https://archive.org/download/sanmog72/sanmog72.avi
+
+#EXTINF:-1,Santo en el Hotel de la Muerte 1963
+https://archive.org/download/sanhom63/sanhom63.avi
+
+#EXTINF:-1,Santo frente a la muerte 1969
+https://archive.org/download/sanmu69/sanmu69.avi
+
+#EXTINF:-1 Idioma="EspaÃ±ol" group-title="Ãšltimas Agregadas" tvg-name="Capulina Speedy GonzÃ¡lez" tvg-logo="http://51.222.152.107:81/posters/p2tvBsJxPUxiCDRmeS7qjkJkXD0.jpg",Capulina Speedy GonzÃ¡lez
+https://vod.lamtv.tv/ene/20220317108.mp4
+
+#EXTINF:-1 Idioma="EspaÃ±ol" group-title="Ãšltimas Agregadas" tvg-name="El bueno para nada" tvg-logo="http://51.222.152.107:81/posters/1647563963351.jpg",El bueno para nada
+https://vod.lamtv.tv/ene/20220317107.mp4
+
+#EXTINF:-1 Idioma="EspaÃ±ol" group-title="Ãšltimas Agregadas" tvg-name="Capulina contra los monstruos" tvg-logo="http://51.222.152.107:81/posters/mfkmWu4KwXFOmychAlUjPiGrXSg.jpg",Capulina contra los monstruos
+https://vod.lamtv.tv/ene/20220317106.mp4
+
+
 #EXTINF:-1 group-title="4-COMEDIA juanpablo" tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",JP:Bodas de plomo (2023)
 http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
 #EXTINF:-1 group-title="3-TERROR juanpablo" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",JP:Llaman a la puerta (2023)
