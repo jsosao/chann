@@ -3,8 +3,7 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",002 Las Estrellas (XEW)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png",Canal 5 (HD)
-http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhiA1c0KL5BKuhLHFLz_T6IE
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg",Azteca 7 (HD)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 ,104 ForoTV
@@ -57,8 +56,7 @@ https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png",Corazón
 http://elmonkey.us:25461/Victor/Victor/23
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png",Distrito Comedia
-http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhk7N5vLEPonEAhniRbueJhI
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png",ElGourmet
 http://elmonkey.us:25461/Victor/Victor/31
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
