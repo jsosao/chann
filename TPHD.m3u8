@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos
+#EXTINF:-1 group-title="24/7 REALITY LIVE",La Casa de los Famosos
 http://tv.moontplanet.com:43201/live/congaturr2/1Up0mFd1il/166082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos CAM1" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos CAM1
+#EXTINF:-1 group-title="24/7 REALITY LIVE",La Casa de los Famosos CAM1
 http://tv.moontplanet.com:43201/live/congaturr2/1Up0mFd1il/166083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos CAM2" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos CAM2
+#EXTINF:-1 group-title="24/7 REALITY LIVE",La Casa de los Famosos CAM2
 http://tv.moontplanet.com:43201/live/congaturr2/1Up0mFd1il/166084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos CAM3" tvg-logo="" group-title="24/7 REALITY LIVE",La Casa de los Famosos CAM3
+#EXTINF:-1 group-title="24/7 REALITY LIVE",La Casa de los Famosos CAM3
 http://tv.moontplanet.com:43201/live/congaturr2/1Up0mFd1il/166085.m3u8
 #EXTINF:-1 ,#EXTINF:-1  JP:HBO HD
 http://181.189.243.254:8000/play/a0or/index.m3u8
@@ -19,62 +19,10 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34881
 http://redima.pro:8880/5555/5555/334
 #EXTINF:-1 ,JP:EURONEWS
 https://i.mjh.nz/PlutoTV/60d3583ef310610007fb02b1-alt.m3u8
-#EXTINF:-1 ,JP:RUN TIME TERROR
-https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-#EXTINF:-1 ,JP:STAR TREK PLUTO TV
-https://i.mjh.nz/PlutoTV/619b7db4872c650008eb8b6a-alt.m3u8
-#EXTINF:-1 ,JP:DE PELICULA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27983
-#EXTINF:-1 ,JP:DISTRITO COMEDIA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
-#EXTINF:-1 ,JP:HBO XTREME
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/271
-#EXTINF:-1 ,JP:HBO XTREME
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4183
-#EXTINF:-1 ,JP:HBO XTREME
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4281
-#EXTINF:-1 ,JP:HBO XTREME
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313116
-#EXTINF:-1 ,JP:HBO XTREME
-http://redima.pro:8880/5555/5555/681
-#EXTINF:-1 ,JP:A&E
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/178.m3u8
-#EXTINF:-1 ,JP:A&E
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27969
-#EXTINF:-1 ,JP:A&E
-http://191.97.55.241:8000/play/a04m/index.m3u8
-#EXTINF:-1 ,JP:A&E
-http://redima.pro:8880/5555/5555/357
-#EXTINF:-1 ,JP:AXN
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27972
-#EXTINF:-1 ,JP:AXN
-http://191.97.55.241:8000/play/a04p/index.m3u8
-#EXTINF:-1 ,JP:ANIMAL PLANET
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27971
-#EXTINF:-1 ,JP:ANIMAL PLANET
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.m3u8
-#EXTINF:-1 ,JP:ANIMAL PLANET
-http://191.97.55.241:8000/play/a03v/index.m3u8
-#EXTINF:-1 ,JP:ANTENA 3
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302608
-#EXTINF:-1 ,JP:ANTENA 3
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/96.m3u8
-#EXTINF:-1 ,JP:CINECANAL HD
-http://191.97.55.241:8000/play/a03k/index.m3u8
-#EXTINF:-1 ,JP:CNN EN ESPANOL
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27981
-#EXTINF:-1 ,JP:DISCOVERY CHANNEL
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
-#EXTINF:-1 ,JP:DISCOVERY ID
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27987
 #EXTINF:-1 ,JP:DISCOVERY ID
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/220.m3u8
 #EXTINF:-1 ,JP:DISCOVERY SCIENCE
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/216.m3u8
-#EXTINF:-1 ,JP:DISCOVERY WORLD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27991
-#EXTINF:-1 ,JP:E ENTRETENIMIENTO
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28069
 #EXTINF:-1 ,JP:ESPN ARG
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34659
 #EXTINF:-1 ,JP:ESPN CL
@@ -83,8 +31,6 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/157048
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
 #EXTINF:-1 ,JP:ESPN 2 MX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/36.m3u8
-#EXTINF:-1 ,JP:FOX SPORTS 3
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
 #EXTINF:-1 ,JP:FOX SPORTS 3
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34625
 #EXTINF:-1 ,JP:FOX SPORTS 3 CL
@@ -99,58 +45,18 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/270
 #EXTINF:-1 ,JP:HBO PLUS HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4349
-#EXTINF:-1 ,JP:HBO PLUS HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313109
-#EXTINF:-1 ,JP:HBO PLUS HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34892
-#EXTINF:-1 ,JP:HBO PLUS HD
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/215.m3u8
-#EXTINF:-1 ,JP:HBO 2 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
-#EXTINF:-1 ,JP:HBO 2 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4182
-#EXTINF:-1 ,JP:HBO 2 HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313098
-#EXTINF:-1 ,JP:HBO 2 HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34890
-#EXTINF:-1 ,JP:HBO 2 HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302665
-#EXTINF:-1 ,JP:HBO 2 HD
-http://redima.pro:8880/5555/5555/335
-#EXTINF:-1 ,JP:HISTORY
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28022
-#EXTINF:-1 ,JP:DISCOVERY HOME AND HEALTH
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27986
-#EXTINF:-1 ,JP:HGTV
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302672
-#EXTINF:-1 ,JP:HGTV
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/225.m3u8
-#EXTINF:-1 ,JP:MTV ACAPULCO SHORE PTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50f0540f-bfa5-43c7-9f5a-3a52a8e27527&deviceDNT=0&deviceModel=0
-#EXTINF:-1 ,JP:MTV
-http://redima.pro:8880/5555/5555/400
-#EXTINF:-1 ,JP:MAS CHIC
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28065
-#EXTINF:-1 ,JP:PARAMOUNT
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28030
 #EXTINF:-1 ,JP:SONY
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
-#EXTINF:-1 ,JP:STUDIO UNIVERSAL
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28034
 #EXTINF:-1 ,JP:SYFY
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/80.m3u8
 #EXTINF:-1 ,JP:TCM
 http://redima.pro:8880/5555/5555/371
-#EXTINF:-1 ,JP:TLC
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28037
 #EXTINF:-1 ,JP:TLC
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/124.m3u8
 #EXTINF:-1 ,JP:TNT
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/57.m3u8
 #EXTINF:-1 ,JP:TELEMUNDO
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
-#EXTINF:-1 ,JP:TRU TV
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28041
 #EXTINF:-1 ,JP:WARNER
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.m3u8
 #EXTINF:-1 ,JP:AZTV
@@ -165,58 +71,12 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,JP:FM FUSION
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
-#EXTINF:-1 ,JP:FOX SPORTS 2 CL
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34633
-#EXTINF:-1 ,JP:PLANETA TV KIDS
-https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1239999572.m3u8
-#EXTINF:-1 ,JP:PLANETA TV JUNIOR
-https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,JP:PLANETA TV MOVIES
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:-1 ,JP:PLANETA TV
-https://scl.edge.grupoz.cl/music/live/playlist.m3u8
-#EXTINF:-1 ,JP:PRIMAL
-https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
-#EXTINF:-1 ,JP:REAL MADRID TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 ,JP:SOUTH PARK PTV
-https://i.mjh.nz/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
-#EXTINF:-1 ,JP:TOONAMI
-https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
-#EXTINF:-1 ,JP:TV MAX (PAN)
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 ,JP:TVN
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 ,JP:TVS RETRO
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 ,JP:VISION TV
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 ,JP:TUDN MX
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/304510
-#EXTINF:-1 ,JP:FILMRISE ESPAÑOL
-https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=88884070
-#EXTINF:-1 ,JP:MY TIME MOVIE NETWORK
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,JP:NOSEY ESCANDALOS
-https://nosey-3-us.plex.wurl.tv:443/4300.m3u8
-#EXTINF:-1 ,JP:RAKUTEN TV
-https://rakuten-romance-2-es.xiaomi.wurl.tv:443/4300.m3u8
-#EXTINF:-1 ,JP:AZTECA 7
-https://mdstrm.com/video/63441aa9aa90f23a5379601a.m3u8?uid=qerXp9roFnsthcC8fMjzDJW5cOi2vzUQ&sid=7eAOP7FjeECfsErpDMp5363tKNVXmpzz&pid=UCOj75t7tBGWxcinayDlyoc4vpkIAdbv&an=screen&at=web-app&av=v5.2.327&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=369x207&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 ,JP:CINEMAX
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/28
 #EXTINF:-1 ,JP:DISCOVERY THEATER
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27989
-#EXTINF:-1 ,JP:DISCOVERY THEATER
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/217.m3u8
 #EXTINF:-1 ,JP:EL GOURMET
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27994
-#EXTINF:-1 ,JP:EL GOURMET
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/219.m3u8
-#EXTINF:-1 ,JP:FOX
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28003
-#EXTINF:-1 ,JP:FOX SPORTS
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28008
 #EXTINF:-1 ,JP:FOX SPORTS 1 MX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
 #EXTINF:-1 ,JP:FOX SPORTS CL
@@ -225,8 +85,6 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34630
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/38.m3u8
 #EXTINF:-1 ,JP:FOX SPORTS PREMIUM
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/69.m3u8
-#EXTINF:-1 ,JP:GLITZ
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28014
 #EXTINF:-1 ,JP:GARAGE TV
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/184.m3u8
 #EXTINF:-1 ,JP:WESTERN PLUTO TV
@@ -235,34 +93,6 @@ https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
 https://i.mjh.nz/PlutoTV/60218baa464ef900073168c1-alt.m3u8
 #EXTINF:-1 ,JP:CINE ACCION PLUTO TV
 https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
-#EXTINF:-1 ,JP:MINUTO PARA GANAR PLUTO TV
-https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
-#EXTINF:-1 ,JP:COMPETENCIAS PLUTO TV
-https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-#EXTINF:-1 ,JP:DMAX
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/chunklist_b2700000_vo.m3u8
-#EXTINF:-1 ,JP:TOROS
-http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14020
-#EXTINF:-1 ,JP:TELEVEN
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43561
-#EXTINF:-1 ,JP:DIRECTV SPORTS ARG
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/123872
-#EXTINF:-1 ,JP:DIRECTV SPORTS 2 ARG
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34612
-#EXTINF:-1 ,JP:DIRECTV SPORTS  CO
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43430
-#EXTINF:-1 ,JP:WIN SPORTS
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34689
-#EXTINF:-1 ,JP:DAZN 1
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/214.m3u8
-#EXTINF:-1 ,JP:DAZN 1
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21450
-#EXTINF:-1 ,JP:EUROSPORT 1
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/206.m3u8
-#EXTINF:-1 ,JP:EUROSPORT 1
-http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14084
-#EXTINF:-1 ,JP:EUROSPORT 1
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21442
 #EXTINF:-1 ,JP:EUROSPORT 2
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/141.m3u8
 #EXTINF:-1 ,JP:KANAL D DRAMA PTV
@@ -271,65 +101,5 @@ https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
 https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 #EXTINF:-1 ,JP:PELEAS PTV
 https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
-#EXTINF:-1 ,JP:VTV
-https://cdn.odysee.live/content/9ad6390b9047d4c43ea0ae6ca3199a3ef70fc8aa/master.m3u8
 #EXTINF:-1 ,JP:VENEVISION PLUS
 http://190.122.96.187:8888/http/006
-#EXTINF:-1 ,JP:GLOBOVISION
-https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
-#EXTINF:-1 ,JP:CANAL i
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-1 ,JP:DW EN ESPANOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 ,JP:FRANCE 24 ESPANOL
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 ,JP:LA IGUANA TV
-https://ythls.onrender.com/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
-#EXTINF:-1 ,JP:VPItv
-https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-#EXTINF:-1 ,JP:CONCIENCIA
-https://cdn.odysee.live/content/06843a89c55eb976f980641de0844259c76eca33/master.m3u8
-#EXTINF:-1 ,JP:EL HISTONAUTA TV
-https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:-1 ,JP:KANAL D DRAMA
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 ,JP:VIVE
-https://cdn.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
-#EXTINF:-1 ,JP:AGROTENDENCIA TV
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 ,JP:CANAL 24H
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:-1 ,JP:MY TIME MOVIE NETWORK
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,JP:RAKUTEN ACTION MOVIES
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,JP:ESTRELLA TV
-https://estrellatv-glewed.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,JP:GAMES ESTRELLA
-https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,JP:ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 ,JP:STAR CHANNEL
-http://redima.pro:8880/5555/5555/343
-#EXTINF:-1 ,JP:STAR CHANNEL
-http://181.78.4.186:8000/play/a0dt/index.m3u8
-#EXTINF:-1 ,JP:TNT NOVELAS
-http://181.78.4.186:8000/play/a0fn/index.m3u8
-#EXTINF:-1 ,JP:A3SERIES
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/chunklist_b2628000_vo.m3u8
-#EXTINF:-1 ,JP:MEGA
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/chunklist_b2700000_vo.m3u8
-#EXTINF:-1 ,JP:PARAMOUNT ESPANA
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
-#EXTINF:-1 ,JP:BMAD
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
-#EXTINF:-1 ,JP:NAT GEO WILD ESPANA
-http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14073
-#EXTINF:-1 ,JP:ENERGY
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
-#EXTINF:-1 ,JP:BOM CINE
-https://nodep002.service.openstream.es/SVoriginOperatorEdge4/smil:97_HD.smil/manifest.m3u8
-#EXTINF:-1 ,#0 HD
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21429
-#EXTINF:-1 ,JP:AXN WHITE
-http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14002
