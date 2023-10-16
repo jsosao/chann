@@ -127,6 +127,25 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E HD
+http://177.53.153.21:8001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR Channel
+http://177.93.45.155:6143/play/a00i/index.m3u8
+#EXTINF:- group-title="ENTRETENIMIENTO"1,SONY
+http://177.93.45.155:6143/play/a01r/index.m3u8
+#EXTINF:- group-title="ENTRETENIMIENTO"1,UNIVERSAL HD
+http://177.93.45.155:6143/play/a00d/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TNT HD-
+http://177.93.45.155:6143/play/a00l/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",H2
+http://177.93.45.155:6143/play/a036/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",H
+http://177.93.45.155:6143/play/a034/index.m3u8
+
 #EXTINF:-1 group-title="Latino",El trece
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Latino",TVMAX
@@ -167,6 +186,31 @@ http://190.95.220.212:8000/play/a01k/index.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-multiplex-150x150-863050323.jpg",431 Golden PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Movies",TNT
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/172.m3u8
+#EXTINF:-1 group-title="Movies",WARNER CHANNEL HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 group-title="Movies",CINECANAL
+http://181.78.21.60:16123/play/ch10
+
+#EXTINF:-1 group-title="Movies",HBO Family HD
+http://181.78.105.146:6060/play/a00k
+#EXTINF:-1 group-title="Movies",HBO PLUS
+http://181.78.105.146:6060/play/a00K
+
+#EXTINF:-1 group-title="Movies",HBO
+http://177.53.153.21:8001/play/a03B/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO Xtreme
+http://181.78.105.146:6060/play/a00l
+#EXTINF:-1 group-title="Movies",Universal Cinema East
+http://170.254.172.10:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Movies",Universal Comedy HD
+http://170.254.172.10:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Movies",Universal Premiere HD
+http://170.254.172.10:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Movies",Universal Crime HD
+http://170.254.172.10:8000/play/a04v/index.m3u8
+
 #EXTINF:-1 group-title="Cube TV",AmC Plex
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cube TV",Tu Cine
@@ -211,6 +255,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png",Pluto TV Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Deportes",NBC Universo
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN2 MX
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/36.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN DEPORTES
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/167.m3u8
+#EXTINF:-1 group-title="Deportes",MLB NETWORK
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/188.m3u8
+
+
+
+
 #EXTINF:-1 group-title="RETRO",Xtrema  Retro Cartoon
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 group-title="RETRO",Telecolor
