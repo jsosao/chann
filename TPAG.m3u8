@@ -255,6 +255,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png",Pluto TV Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 ,WWE HD
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/209.m3u8
+
+
 #EXTINF:-1 group-title="Deportes",NBC Universo
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
@@ -265,6 +269,55 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/36.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/167.m3u8
 #EXTINF:-1 group-title="Deportes",MLB NETWORK
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/188.m3u8
+#EXTINF:-1 ,ADRENALINA
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/140.m3u8
+#EXTINF:-1 ,DAZN 2
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/148.m3u8
+#EXTINF:-1 ,DAZN 4
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/211.m3u8
+#EXTINF:-1 ,DAZN F1
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/45.m3u8
+#EXTINF:-1 ,DAZN F1
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/196.m3u8
+#EXTINF:-1 ,DEPORTES
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/171.m3u8
+#EXTINF:-1 ,ESPN
+http://181.78.21.60:16123/play/ch16
+#EXTINF:-1 ,ESPN
+http://181.78.21.60:16123/play/ch19
+#EXTINF:-1 ,ESPN
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
+#EXTINF:-1 ,ESPN 2
+http://181.78.21.60:16123/play/ch17
+#EXTINF:-1 ,ESPN 2
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/36.m3u8
+#EXTINF:-1 ,ESPN 3
+http://181.78.21.60:16123/play/ch18
+#EXTINF:-1 ,ESPN DEPORTES
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/167.m3u8
+#EXTINF:-1 ,EURO CHANNEL
+http://181.78.21.60:16123/play/ch09
+#EXTINF:-1 ,EUROSPORT
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/141.m3u8
+#EXTINF:-1 ,EUROSPORT
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/206.m3u8
+#EXTINF:-1 ,FOX CFB USA
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/37.m3u8
+#EXTINF:-1 ,FOX SPORT
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
+#EXTINF:-1 ,FOX SPORT 3
+http://181.78.21.60:16123/play/ch21
+#EXTINF:-1 ,FOX SPORTS 2
+http://181.78.21.60:16123/play/ch20
+#EXTINF:-1 ,UFOX SPORT OPC 2
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/42.m3u8
+#EXTINF:-1 ,UNIVERSO DEPORTES
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/164.m3u8
+#EXTINF:-1 ,UNIVERSO DEPORTES 2
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.m3u8
+#EXTINF:-1 ,USA
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/80.m3u8
+
 
 
 
